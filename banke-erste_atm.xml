@@ -1,0 +1,5328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CashDispensers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 4</address>
+		<zipcode>32276</zipcode>
+		<city>Babina Greda</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.11528</latitude>
+		<longitude>18.53611</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Primorje 50</address>
+		<zipcode>51222</zipcode>
+		<city>Bakar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.30604</latitude>
+		<longitude>14.53507</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 114</address>
+		<zipcode>51523</zipcode>
+		<city>Baška</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.970056</latitude>
+		<longitude>14.753158</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Iza Palaca 1</address>
+		<zipcode>21320</zipcode>
+		<city>Baška Voda</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.358613</latitude>
+		<longitude>16.947951</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Republike 2</address>
+		<zipcode>31300</zipcode>
+		<city>Beli Manastir</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77112</latitude>
+		<longitude>18.59893</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petra Zoranića bb</address>
+		<zipcode>23420</zipcode>
+		<city>Benkovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.03093</latitude>
+		<longitude>15.61194</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bibinje-Sukošan</address>
+		<zipcode>23205</zipcode>
+		<city>Bibinje-Sukošan</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.05590</latitude>
+		<longitude>15.29393</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Tuđmana 82</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.94195</latitude>
+		<longitude>15.45282</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Kumenta b.b.</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.92695</latitude>
+		<longitude>15.45519</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala Kralja Tomislava 4</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.93601</latitude>
+		<longitude>15.45283</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala kralja Petra Krešimira IV/38</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.93959</latitude>
+		<longitude>15.43989</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište kneza Branimira 1</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.94151</latitude>
+		<longitude>15.44543</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Slavonska cesta 7</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.89505</latitude>
+		<longitude>16.84996</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krste Frankopana 14</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.89523</latitude>
+		<longitude>16.83589</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matice Hrvatske 4</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.89638</latitude>
+		<longitude>16.84024</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petra Preradovića bb</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.89703</latitude>
+		<longitude>16.84193</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića 26</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90005</latitude>
+		<longitude>16.83905</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište dr. Ivše Lebovića b.b.</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90076</latitude>
+		<longitude>16.84456</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franjevačka 11c</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90216</latitude>
+		<longitude>16.84533</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vlahe Paljetka/Osječka</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90333</latitude>
+		<longitude>16.85268</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hebrangova 2a</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90478</latitude>
+		<longitude>16.84813</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Prilaz Andrije Hebranga 10</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90832</latitude>
+		<longitude>16.85635</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Đ. Basaričeka 9</address>
+		<zipcode>10432</zipcode>
+		<city>Bregana</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83915</latitude>
+		<longitude>15.68656</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 2</address>
+		<zipcode>21420</zipcode>
+		<city>Bol</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.26076</latitude>
+		<longitude>16.65433</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bribir 8</address>
+		<zipcode>51253</zipcode>
+		<city>Bribir</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16178</latitude>
+		<longitude>14.76030</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frankopanska 72</address>
+		<zipcode>53260</zipcode>
+		<city>Brinje</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.99821</latitude>
+		<longitude>15.12428</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Školski trg 3</address>
+		<zipcode>52474</zipcode>
+		<city>Brtonigla</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37870</latitude>
+		<longitude>13.62579</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Umaška cesta bb</address>
+		<zipcode>52460</zipcode>
+		<city>Buje</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.40835</latitude>
+		<longitude>13.65843</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bulinac bb</address>
+		<zipcode>43273</zipcode>
+		<city>Bulinac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81693</latitude>
+		<longitude>16.98051</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Fontana 8</address>
+		<zipcode>52420</zipcode>
+		<city>Buzet</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.40800</latitude>
+		<longitude>13.96573</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cons 8</address>
+		<zipcode>51557</zipcode>
+		<city>Cres</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.95865</latitude>
+		<longitude>14.40962</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Melin I/20 </address>
+		<zipcode>51557</zipcode>
+		<city>Cres</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.963037</latitude>
+		<longitude>14.396880</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Martinšćica bb</address>
+		<zipcode>51557</zipcode>
+		<city>Cres</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.81891</latitude>
+		<longitude>14.35074</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Riva creskih kapetana 3</address>
+		<zipcode>51557</zipcode>
+		<city>Cres</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.96006</latitude>
+		<longitude>14.40823</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gajevo šetalište 21</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.110734</latitude>
+		<longitude>14.403941</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića 1</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.17324</latitude>
+		<longitude>14.69097</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića 1</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.17348</latitude>
+		<longitude>14.69155</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Brozičević 3</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.17396</latitude>
+		<longitude>14.69327</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Narodnog oslobođenja 8</address>
+		<zipcode>51306</zipcode>
+		<city>Čabar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.596136</latitude>
+		<longitude>14.645247</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tomaša Goričanca 15</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.37962</latitude>
+		<longitude>16.44460</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka bb</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.38316</latitude>
+		<longitude>16.42947</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dr. I. Novaka 44</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.38469</latitude>
+		<longitude>16.42732</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Katarine Zrinski 1</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.39009</latitude>
+		<longitude>16.43827</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>I.G. Kovačića 1E</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.39600</latitude>
+		<longitude>16.44071</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mavrinci bb</address>
+		<zipcode>51219</zipcode>
+		<city>Čavle</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34771</latitude>
+		<longitude>14.49393</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Čavle 104</address>
+		<zipcode>51219</zipcode>
+		<city>Čavle</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.357249</latitude>
+		<longitude>14.488006</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 12</address>
+		<zipcode>43240</zipcode>
+		<city>Čazma</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.74791</latitude>
+		<longitude>16.61397</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Moslavačka 1</address>
+		<zipcode>43240</zipcode>
+		<city>Čazma</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.74924</latitude>
+		<longitude>16.61608</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 4</address>
+		<zipcode>31431</zipcode>
+		<city>Čepin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.52398</latitude>
+		<longitude>18.57702</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zračna luka Dubrovnik</address>
+		<zipcode>20213</zipcode>
+		<city>Čilipi</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.56079</latitude>
+		<longitude>18.26254</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stjepana Radića 16</address>
+		<zipcode>43500</zipcode>
+		<city>Daruvar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.59077</latitude>
+		<longitude>17.22326</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Josipa Jelačića 1</address>
+		<zipcode>43500</zipcode>
+		<city>Daruvar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.59278</latitude>
+		<longitude>17.22345</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Podštore 1</address>
+		<zipcode>51300</zipcode>
+		<city>Delnice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.39335</latitude>
+		<longitude>14.805472</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Supilova 20</address>
+		<zipcode>51300</zipcode>
+		<city>Delnice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.39446</latitude>
+		<longitude>14.79998</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Supilova 43</address>
+		<zipcode>51300</zipcode>
+		<city>Delnice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.39509</latitude>
+		<longitude>14.80026</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Toplička 24</address>
+		<zipcode>49240</zipcode>
+		<city>Donja Stubica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.98140</latitude>
+		<longitude>15.96719</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Desinec bb</address>
+		<zipcode>10450</zipcode>
+		<city>Donji Desinec</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.66342</latitude>
+		<longitude>15.71178</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kolodvorska 1</address>
+		<zipcode>31540</zipcode>
+		<city>Donji Miholjac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76201</latitude>
+		<longitude>18.16555</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gospodarska bb</address>
+		<zipcode>10255</zipcode>
+		<city>Donji Stupnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.74807</latitude>
+		<longitude>15.87985</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Milovana Muževića 122</address>
+		<zipcode>51265</zipcode>
+		<city>Dramalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.19282</latitude>
+		<longitude>14.66833</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dražice bb</address>
+		<zipcode>51218</zipcode>
+		<city>Dražice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.38947</latitude>
+		<longitude>14.46566</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Veliki Šor b.b.</address>
+		<zipcode>32257</zipcode>
+		<city>Drenovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.91956</latitude>
+		<longitude>18.91083</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stubište 1</address>
+		<zipcode>22320</zipcode>
+		<city>Drniš</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.86083</latitude>
+		<longitude>16.15555</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Radnička cesta 2a</address>
+		<zipcode>10342</zipcode>
+		<city>Dubrava Vrbovečka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83726</latitude>
+		<longitude>16.53760</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 26</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.65157</latitude>
+		<longitude>18.09186</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Brsalje 9</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.64197</latitude>
+		<longitude>18.10594</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Liechteinsteinov put 3</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.64556</latitude>
+		<longitude>18.09071</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 7</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.65521</latitude>
+		<longitude>18.07724</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Željarica bb (Stradun) </address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.64090</latitude>
+		<longitude>18.11010</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jozefinska cesta 8</address>
+		<zipcode>47250</zipcode>
+		<city>Duga Resa</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.44706</latitude>
+		<longitude>15.50135</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 13</address>
+		<zipcode>10370</zipcode>
+		<city>Dugo Selo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80570</latitude>
+		<longitude>16.23167</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 67</address>
+		<zipcode>10370</zipcode>
+		<city>Dugo Selo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80578</latitude>
+		<longitude>16.22555</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zorićeva bb</address>
+		<zipcode>10370</zipcode>
+		<city>Dugo Selo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80592</latitude>
+		<longitude>16.24883</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bana Josipa Jelačića 22</address>
+		<zipcode>31400</zipcode>
+		<city>Đakovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31160</latitude>
+		<longitude>18.41165</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pape Ivana Pavla II 19</address>
+		<zipcode>31400</zipcode>
+		<city>Đakovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.30822</latitude>
+		<longitude>18.41174</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Račkog 95</address>
+		<zipcode>31400</zipcode>
+		<city>Đakovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.30976</latitude>
+		<longitude>18.39730</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Svetog Jurja 6</address>
+		<zipcode>48350</zipcode>
+		<city>Đurđevac</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.04003</latitude>
+		<longitude>17.06846</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Đure Basaričeka 10a</address>
+		<zipcode>48350</zipcode>
+		<city>Đurđevac</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.04304</latitude>
+		<longitude>17.06627</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica boraca 2</address>
+		<zipcode>52212</zipcode>
+		<city>Fažana</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.92666</latitude>
+		<longitude>13.80372</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sveti Križ  8</address>
+		<zipcode>51322</zipcode>
+		<city>Fužine</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.30472</latitude>
+		<longitude>14.71327</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 1</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57407</latitude>
+		<longitude>16.94099</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>A.Lustiga Dade 19</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57458</latitude>
+		<longitude>16.94305</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 29</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57821</latitude>
+		<longitude>16.94047</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Brestovačka 76</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnički Brestovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.60586</latitude>
+		<longitude>16.94725</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Eugena Kvaternika 47</address>
+		<zipcode>44400</zipcode>
+		<city>Gerovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.51433</latitude>
+		<longitude>14.64162</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>A. i S. Radića 16</address>
+		<zipcode>44400</zipcode>
+		<city>Glina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33981</latitude>
+		<longitude>16.08964</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vile Velebita 1</address>
+		<zipcode>53000</zipcode>
+		<city>Gospić</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.54583</latitude>
+		<longitude>15.37335</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića bb</address>
+		<zipcode>53000</zipcode>
+		<city>Gospić</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.54685</latitude>
+		<longitude>15.37153</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Budačka b.b.</address>
+		<zipcode>53000</zipcode>
+		<city>Gospić</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.55030</latitude>
+		<longitude>15.37603</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gračišće bb</address>
+		<zipcode>52403</zipcode>
+		<city>Gračišće</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.50244</latitude>
+		<longitude>13.87462</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica 1. svibnja 10</address>
+		<zipcode>42429</zipcode>
+		<city>Grožnjan</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37918</latitude>
+		<longitude>13.72275</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>N.Š. Zrinskog 3</address>
+		<zipcode>43290</zipcode>
+		<city>Grubišno Polje</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.70232</latitude>
+		<longitude>17.17302</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>S. Radića 4</address>
+		<zipcode>35222</zipcode>
+		<city>Gundinci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.15824</latitude>
+		<longitude>18.49053</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Moslavačka 143</address>
+		<zipcode>43284</zipcode>
+		<city>Hercegovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.65525</latitude>
+		<longitude>17.00892</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hreljin bb</address>
+		<zipcode>51226</zipcode>
+		<city>Hreljin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28210</latitude>
+		<longitude>14.59954</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hrvace bb</address>
+		<zipcode>21233</zipcode>
+		<city>Hrvace</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.757674</latitude>
+		<longitude>16.619332</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dolac bb</address>
+		<zipcode>21450</zipcode>
+		<city>Hvar</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.17278</latitude>
+		<longitude>16.44428</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Liburnijska b.b.</address>
+		<zipcode>51414</zipcode>
+		<city>Ičići</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31248</latitude>
+		<longitude>14.28575</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dr. F. Tuđmana 4</address>
+		<zipcode>32236</zipcode>
+		<city>Ilok</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22386</latitude>
+		<longitude>19.36815</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg hrvatskih Ivanovaca 2</address>
+		<zipcode>42240</zipcode>
+		<city>Ivanec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.22899</latitude>
+		<longitude>16.12398</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Moslavačka 1</address>
+		<zipcode>10310</zipcode>
+		<city>Ivanić Grad</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.70736</latitude>
+		<longitude>16.39159</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana Jelačića 5</address>
+		<zipcode>32281</zipcode>
+		<city>Ivankovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28793</latitude>
+		<longitude>18.68363</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Kralja Tomislava bb</address>
+		<zipcode>43231</zipcode>
+		<city>Ivanska</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78244</latitude>
+		<longitude>16.80537</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivani bb</address>
+		<zipcode>51264</zipcode>
+		<city>Jadranovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22764</latitude>
+		<longitude>14.61663</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>V. Nazora bb</address>
+		<zipcode>51264</zipcode>
+		<city>Jadranovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22729</latitude>
+		<longitude>14.61773</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Strossmayerov trg 4</address>
+		<zipcode>10450</zipcode>
+		<city>Jastrebarsko</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.67188</latitude>
+		<longitude>15.65121</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ogulinska cesta 12</address>
+		<zipcode>47303</zipcode>
+		<city>Josipdol</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.18834</latitude>
+		<longitude>15.28469</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jurdani 64</address>
+		<zipcode>51213</zipcode>
+		<city>Jurdani</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.39573</latitude>
+		<longitude>14.30994</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg M. Zeljka 3</address>
+		<zipcode>52352</zipcode>
+		<city>Kanfanar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12311</latitude>
+		<longitude>13.83810</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Karigador bb</address>
+		<zipcode>52474</zipcode>
+		<city>Karigador</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35840</latitude>
+		<longitude>13.55742</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Andrije Štampara 3</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.47771</latitude>
+		<longitude>15.53913</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Petra Krešimira IV bb</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48266</latitude>
+		<longitude>15.54778</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josipa Broza 4</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48872</latitude>
+		<longitude>15.54790</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Milana Sufflaya 2</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49295</latitude>
+		<longitude>15.55534</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dubovac 10</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49563</latitude>
+		<longitude>15.53310</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matka Laginje 1</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.50163</latitude>
+		<longitude>15.54777</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Prilaz Vjećeslava Holjevca 12</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.50631</latitude>
+		<longitude>15.54436</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Banija 88</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.50837</latitude>
+		<longitude>15.54889</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Banija bb</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.51170</latitude>
+		<longitude>15.54746</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rubeši bb</address>
+		<zipcode>51215</zipcode>
+		<city>Kastav</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.36484</latitude>
+		<longitude>14.34568</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Matka Laginje 3</address>
+		<zipcode>51215</zipcode>
+		<city>Kastav</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37269</latitude>
+		<longitude>14.34881</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šet. kralja Tomislava 1</address>
+		<zipcode>21213</zipcode>
+		<city>Kaštel Gomilica</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.54641</latitude>
+		<longitude>16.40441</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Krešimira 1</address>
+		<zipcode>21214</zipcode>
+		<city>Kaštel Kambelovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.55006</latitude>
+		<longitude>16.38523</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Tuđmana b.b.</address>
+		<zipcode>21216</zipcode>
+		<city>Kaštel Stari</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.55247</latitude>
+		<longitude>16.34248</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Tuđmana 7</address>
+		<zipcode>21212</zipcode>
+		<city>Kaštel Sućurac</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.53984</latitude>
+		<longitude>16.44960</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cesta Franje Tuđmana 96</address>
+		<zipcode>21216</zipcode>
+		<city>Kaštel Štafilić</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.53659</latitude>
+		<longitude>16.29908</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Plokata bb</address>
+		<zipcode>20260</zipcode>
+		<city>Korčula</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.960144</latitude>
+		<longitude>17.135721</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Klana 36</address>
+		<zipcode>51217</zipcode>
+		<city>Klana</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.44648</latitude>
+		<longitude>14.37580</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Ante Starčevića 1</address>
+		<zipcode>22300</zipcode>
+		<city>Knin</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.03553</latitude>
+		<longitude>16.19780</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tomislavova 2 </address>
+		<zipcode>22300</zipcode>
+		<city>Knin</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.04267</latitude>
+		<longitude>16.19790</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica B.Eugena Ransonne 2/a </address>
+		<zipcode>21485</zipcode>
+		<city>Komiža</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.04509</latitude>
+		<longitude>16.09032</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ul.Željka Selingera 2a</address>
+		<zipcode>34310</zipcode>
+		<city>Koprivnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.16169</latitude>
+		<longitude>16.83731</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Antuna Nemčića 1</address>
+		<zipcode>34310</zipcode>
+		<city>Koprivnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.16343</latitude>
+		<longitude>16.82966</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Česmičkog b.b.</address>
+		<zipcode>34310</zipcode>
+		<city>Koprivnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.171034</latitude>
+		<longitude>16.819553</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josipa Jovića b.b.</address>
+		<zipcode>53230</zipcode>
+		<city>Korenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.74359</latitude>
+		<longitude>15.70762</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šodići 2</address>
+		<zipcode>51221</zipcode>
+		<city>Kostrena</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31007</latitude>
+		<longitude>14.48894</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vrh Martinšćice b.b.</address>
+		<zipcode>51221</zipcode>
+		<city>Kostrena</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31055</latitude>
+		<longitude>14.48444</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Palih boraca 2</address>
+		<zipcode>51262</zipcode>
+		<city>Kraljevica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.272969</latitude>
+		<longitude>14.569051</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frana Galovića 9</address>
+		<zipcode>49000</zipcode>
+		<city>Krapina</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.16379</latitude>
+		<longitude>15.86667</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gajeva 7</address>
+		<zipcode>49217</zipcode>
+		<city>Krapinske toplice</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.08888</latitude>
+		<longitude>15.83790</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krasica 152</address>
+		<zipcode>52640</zipcode>
+		<city>Krasica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31181</latitude>
+		<longitude>14.55169</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 51</address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.01427</latitude>
+		<longitude>16.54605</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg sv. Florijana 1</address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02251</latitude>
+		<longitude>16.54571</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nikole Tesle 18</address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02298</latitude>
+		<longitude>16.55521</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Josipa Juraja  Strossmayera 1</address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02590</latitude>
+		<longitude>16.54305</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Svetog Bernardina bb</address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.02406</latitude>
+		<longitude>14.56999</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana Josipa Jelačića</address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.02600</latitude>
+		<longitude>14.57347</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stjepana Radića 1/b</address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.026746</latitude>
+		<longitude>14.572903</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Industrijska zona bb</address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.03590</latitude>
+		<longitude>14.56890</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pristav 59</address>
+		<zipcode>52223</zipcode>
+		<city>Kršan</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.17394</latitude>
+		<longitude>14.13913</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kukuljanovo bb</address>
+		<zipcode>51227</zipcode>
+		<city>Kukuljanovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33556</latitude>
+		<longitude>14.50389</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka bb</address>
+		<zipcode>44230</zipcode>
+		<city>Kutina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48246</latitude>
+		<longitude>16.76505</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Petra Krešimira IV 9D</address>
+		<zipcode>44230</zipcode>
+		<city>Kutina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.47890</latitude>
+		<longitude>16.77775</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 5</address>
+		<zipcode>44230</zipcode>
+		<city>Kutina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48281</latitude>
+		<longitude>16.77612</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Istarska 50</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.10559</latitude>
+		<longitude>14.11673</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Štrmac bb</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07114</latitude>
+		<longitude>14.07128</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Titov trg 10</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08564</latitude>
+		<longitude>14.12061</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zelenice 3</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.09061</latitude>
+		<longitude>14.12340</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rudarska 8</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.09220</latitude>
+		<longitude>14.12073</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vinež b.b.</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.09722</latitude>
+		<longitude>14.10851</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Prilaz Kikova 1</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.09990</latitude>
+		<longitude>14.11668</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Marije Terezije 5</address>
+		<zipcode>34551</zipcode>
+		<city>Lipik</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.41406</latitude>
+		<longitude>17.16197</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Istarske toplice</address>
+		<zipcode>52427</zipcode>
+		<city>Livade</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35552</latitude>
+		<longitude>13.82818</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rudolfa Strohala 118</address>
+		<zipcode>51316</zipcode>
+		<city>Lokve</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35800</latitude>
+		<longitude>14.74885</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lopar bb</address>
+		<zipcode>51281</zipcode>
+		<city>Lopar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.82944</latitude>
+		<longitude>14.72972</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lopar 488</address>
+		<zipcode>51281</zipcode>
+		<city>Lopar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.82509</latitude>
+		<longitude>14.74114</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maršala Tita 41</address>
+		<zipcode>51415</zipcode>
+		<city>Lovran</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.292743</latitude>
+		<longitude>14.27669</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Prigorska 1</address>
+		<zipcode>42230</zipcode>
+		<city>Ludbreg</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.24285</latitude>
+		<longitude>16.62620</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lupoglav b.b.</address>
+		<zipcode>10370</zipcode>
+		<city>Lupoglav</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35316</latitude>
+		<longitude>14.10617</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ante Starčevića 32</address>
+		<zipcode>21300</zipcode>
+		<city>Makarska</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.29407</latitude>
+		<longitude>17.02135</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mala buna bb</address>
+		<zipcode>10410</zipcode>
+		<city>Mala Buna</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.64394</latitude>
+		<longitude>16.05505</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sunčana uvala b.b.</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.52312</latitude>
+		<longitude>14.45915</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kalvarija bb</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.52518</latitude>
+		<longitude>14.47032</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Riva lošinjskih kapetana 4</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.53416</latitude>
+		<longitude>14.46765</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Zagazinjine 1</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.53494</latitude>
+		<longitude>14.47172</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Čikat b.b.</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.53569</latitude>
+		<longitude>14.45111</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kadin bb</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.54153</latitude>
+		<longitude>14.46543</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lina Bolmarčića 33</address>
+		<zipcode>51511</zipcode>
+		<city>Malinska</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.124273</latitude>
+		<longitude>14.526265</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sv.Vid bb</address>
+		<zipcode>51511</zipcode>
+		<city>Malinska</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.134829</latitude>
+		<longitude>14.54592</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nova cesta b.b.</address>
+		<zipcode>49249</zipcode>
+		<city>Marija Bistrica</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.00536</latitude>
+		<longitude>16.11920</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ante Rudana 39</address>
+		<zipcode>21222</zipcode>
+		<city>Marina</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51361</latitude>
+		<longitude>16.109219</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Martinščica bb</address>
+		<zipcode>51556</zipcode>
+		<city>Martinščica</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.81889</latitude>
+		<longitude>14.35082</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Maršala Tita 9</address>
+		<zipcode>51211</zipcode>
+		<city>Matulji</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.363582</latitude>
+		<longitude>14.324477</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kastavska cesta 15</address>
+		<zipcode>51211</zipcode>
+		<city>Matulji</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.36615</latitude>
+		<longitude>14.33160</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Munida 9</address>
+		<zipcode>52203</zipcode>
+		<city>Medulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.82450</latitude>
+		<longitude>13.93227</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Medveja b.b.</address>
+		<zipcode>51415</zipcode>
+		<city>Medveja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.27079</latitude>
+		<longitude>14.26894</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matice hrvatske 2</address>
+		<zipcode>20350</zipcode>
+		<city>Metković</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.05375 </latitude>
+		<longitude>17.64815</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Narone 9</address>
+		<zipcode>20350</zipcode>
+		<city>Metković</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.058476</latitude>
+		<longitude>17.647675</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Srebreno b.b.</address>
+		<zipcode>20207</zipcode>
+		<city>Mlini</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.62389</latitude>
+		<longitude>18.20611</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Od izvora 64</address>
+		<zipcode>20236</zipcode>
+		<city>Mokošica</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.67560</latitude>
+		<longitude>18.11249</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 32</address>
+		<zipcode>48327</zipcode>
+		<city>Molve</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.10661</latitude>
+		<longitude>17.03064</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Školska 9</address>
+		<zipcode>51325</zipcode>
+		<city>Moravice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.42629</latitude>
+		<longitude>15.00936</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Aleja Slatina 2</address>
+		<zipcode>51417</zipcode>
+		<city>Mošćenička Draga</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.236928</latitude>
+		<longitude>14.253752</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josefa Resela bb</address>
+		<zipcode>52100</zipcode>
+		<city>Motovun</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33683</latitude>
+		<longitude>13.82783</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josefa Resela bb</address>
+		<zipcode>52424</zipcode>
+		<city>Motovun</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33683</latitude>
+		<longitude>13.82783</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nova Varoš 1</address>
+		<zipcode>51315</zipcode>
+		<city>Mrkopalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31560</latitude>
+		<longitude>14.85358</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josipa Broza 88</address>
+		<zipcode>40315</zipcode>
+		<city>Mursko Središće</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.51315</latitude>
+		<longitude>16.43921</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg dr. Šime Vlašića 3</address>
+		<zipcode>22243</zipcode>
+		<city>Murter-Tisno</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.79887</latitude>
+		<longitude>15.64121</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pejačevićev trg 12</address>
+		<zipcode>31500</zipcode>
+		<city>Našice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49036</latitude>
+		<longitude>18.09201</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Radić 2</address>
+		<zipcode>31500</zipcode>
+		<city>Našice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49049</latitude>
+		<longitude>18.09418</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala nerezinskih pomoraca 3</address>
+		<zipcode>51554</zipcode>
+		<city>Nerezine</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.65930</latitude>
+		<longitude>14.39813</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nerezinskih pomoraca bb</address>
+		<zipcode>51554</zipcode>
+		<city>Nerezine, M. Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.66021</latitude>
+		<longitude>14.39731</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>M. Benkovića 34</address>
+		<zipcode>35400</zipcode>
+		<city>Nova Gradiška</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.25552</latitude>
+		<longitude>17.38487</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića 58</address>
+		<zipcode>43272</zipcode>
+		<city>Nova Rača</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79919</latitude>
+		<longitude>16.95414</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće radića 2</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.55579</latitude>
+		<longitude>14.88321</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kamp Straško b.b.</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.35861</latitude>
+		<longitude>16.94795</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Slatinska 3, Kerum</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.55265</latitude>
+		<longitude>14.884876</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Špital bb</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.54974</latitude>
+		<longitude>14.89574</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Uvala Zrće bb</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.538705</latitude>
+		<longitude>14.914868</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Varaždinska 5</address>
+		<zipcode>42220</zipcode>
+		<city>Novi Marof</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.15156</latitude>
+		<longitude>16.36544</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 6</address>
+		<zipcode>51250</zipcode>
+		<city>Novi Vinodolski</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12509</latitude>
+		<longitude>14.79367</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Korzo hrvatskih branitelja 47</address>
+		<zipcode>51250</zipcode>
+		<city>Novi Vinodolski</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12856</latitude>
+		<longitude>14.78983</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Antona Mataije bb</address>
+		<zipcode>51250</zipcode>
+		<city>Novi Vinodolski</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.13194</latitude>
+		<longitude>14.78306</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mandrać 27</address>
+		<zipcode>52466</zipcode>
+		<city>Novigrad </city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31610</latitude>
+		<longitude>13.56111</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica Murvi 15</address>
+		<zipcode>52466</zipcode>
+		<city>Novigrad (Cittanova)</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31878</latitude>
+		<longitude>13.56837</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Radnička 2</address>
+		<zipcode>44330</zipcode>
+		<city>Novska</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34577</latitude>
+		<longitude>16.96753</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Primorska cesta 30</address>
+		<zipcode>51512</zipcode>
+		<city>Njivice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16559</latitude>
+		<longitude>14.545292</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ribarska obala 4/6 </address>
+		<zipcode>51512</zipcode>
+		<city>Njivice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16459</latitude>
+		<longitude>14.541038</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bolnička 38</address>
+		<zipcode>47300</zipcode>
+		<city>Ogulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.25741</latitude>
+		<longitude>15.23176</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nova cesta b.b.</address>
+		<zipcode>47300</zipcode>
+		<city>Ogulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.15518</latitude>
+		<longitude>15.131244</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ljudevita Gaja 4</address>
+		<zipcode>47300</zipcode>
+		<city>Ogulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.26515</latitude>
+		<longitude>15.22574</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg F. Tuđmana 1</address>
+		<zipcode>47300</zipcode>
+		<city>Ogulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.26617</latitude>
+		<longitude>15.23087</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište Stjepana Radića b.b.</address>
+		<zipcode>21223</zipcode>
+		<city>Okrug Gornji - Čiovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.49677</latitude>
+		<longitude>16.26131</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava b.b.</address>
+		<zipcode>21310</zipcode>
+		<city>Omiš</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.44145</latitude>
+		<longitude>16.69338</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Medermunići 2</address>
+		<zipcode>51513</zipcode>
+		<city>Omišalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.21066</latitude>
+		<longitude>14.55621</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maršala Tita b.b.</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32821</latitude>
+		<longitude>14.30008</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maršala Tita 200</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33236</latitude>
+		<longitude>14.30262</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vjekoslava Spinčića 1</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33839</latitude>
+		<longitude>14.30875</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nova cesta 68</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34406</latitude>
+		<longitude>14.31120</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stanka Parmaća 10</address>
+		<zipcode>20355</zipcode>
+		<city>Opuzen</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.01660</latitude>
+		<longitude>17.56046</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Na moru 1</address>
+		<zipcode>20234</zipcode>
+		<city>Orašac (Dubrovnik)</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.69557</latitude>
+		<longitude>18.01786</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Milana Prpića 65</address>
+		<zipcode>49243</zipcode>
+		<city>Oroslavlje</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.99749</latitude>
+		<longitude>15.91501</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>J. Reihla-Kira bb</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.54474</latitude>
+		<longitude>18.70992</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sv. L. B. Mandića bb</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.54736</latitude>
+		<longitude>18.65603</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>B. Kašića bb</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.55335</latitude>
+		<longitude>18.68083</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sv. L. B. Mandića 7</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.55377</latitude>
+		<longitude>18.67571</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vijenac Ivana Meštrovića 14F</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.55597</latitude>
+		<longitude>18.69754</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana Jelačića 3</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.55619</latitude>
+		<longitude>18.71669</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kapucinska ulica 26</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56096</latitude>
+		<longitude>18.68249</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Strossmayerova 343</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56328</latitude>
+		<longitude>18.62699</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Strossmayerova 167</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56330</latitude>
+		<longitude>18.65637</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ribarska 2</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57249</latitude>
+		<longitude>18.59750</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Generala Nikole Maštrovića 9</address>
+		<zipcode>53220</zipcode>
+		<city>Otočac</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.871579</latitude>
+		<longitude>15.236513</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 17</address>
+		<zipcode>53220</zipcode>
+		<city>Otočac</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.86919</latitude>
+		<longitude>15.23338</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 16</address>
+		<zipcode>53220</zipcode>
+		<city>Otočac</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.86954</latitude>
+		<longitude>15.23746</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>V. Nazora 1</address>
+		<zipcode>32252</zipcode>
+		<city>Otok (kod Vinkovaca)</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.14648</latitude>
+		<longitude>18.88328</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kurilovac 11</address>
+		<zipcode>47280</zipcode>
+		<city>Ozalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.61270</latitude>
+		<longitude>15.47870</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Povljana</address>
+		<zipcode>23250</zipcode>
+		<city>Pag</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.34549</latitude>
+		<longitude>15.11388</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka bb</address>
+		<zipcode>23250</zipcode>
+		<city>Pag</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.44139</latitude>
+		<longitude>15.05857</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kneževa 1F</address>
+		<zipcode>23250</zipcode>
+		<city>Pag</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.44374</latitude>
+		<longitude>15.05391</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jadranska magistarla b.b.</address>
+		<zipcode>23211</zipcode>
+		<city>Pakoštane</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.91249</latitude>
+		<longitude>15.51381</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gojka Šuška 10</address>
+		<zipcode>34550</zipcode>
+		<city>Pakrac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43806</latitude>
+		<longitude>17.19269</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg dr. I: Šredera 1</address>
+		<zipcode>34550</zipcode>
+		<city>Pakrac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43902</latitude>
+		<longitude>17.19149</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rogovići bb</address>
+		<zipcode>52000</zipcode>
+		<city>Pazin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.23410</latitude>
+		<longitude>13.94882</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>25. rujna 17</address>
+		<zipcode>52000</zipcode>
+		<city>Pazin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.24003</latitude>
+		<longitude>13.93733</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg slobode bb</address>
+		<zipcode>52000</zipcode>
+		<city>Pazin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.24010</latitude>
+		<longitude>13.93624</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zrinskih i Frankopana 61</address>
+		<zipcode>53202</zipcode>
+		<city>Perušić</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.64881</latitude>
+		<longitude>15.38461</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petrčane bb</address>
+		<zipcode>23231</zipcode>
+		<city>Petrčane</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.18713</latitude>
+		<longitude>15.18208</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 19</address>
+		<zipcode>44250</zipcode>
+		<city>Petrinja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43980</latitude>
+		<longitude>16.27866</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>ArturaTurkulina 33</address>
+		<zipcode>44250</zipcode>
+		<city>Petrinja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.44155</latitude>
+		<longitude>16.28124</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 19</address>
+		<zipcode>33405</zipcode>
+		<city>Pitomača</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.95248</latitude>
+		<longitude>17.23341</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>143. Domobranske pukovnije 4</address>
+		<zipcode>47304</zipcode>
+		<city>Plaški</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.0457</latitude>
+		<longitude>15.2153</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Šveara 45</address>
+		<zipcode>34310</zipcode>
+		<city>Pleternica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28417</latitude>
+		<longitude>17.80143</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poljičkih knezova bb</address>
+		<zipcode>21312</zipcode>
+		<city>Podstrana</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.495495</latitude>
+		<longitude>16.538056</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Erdödya b.b.</address>
+		<zipcode>44317</zipcode>
+		<city>Popovača</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57388</latitude>
+		<longitude>16.62746</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Autokamp Zelena laguna</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.18815</latitude>
+		<longitude>13.59416</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gržina b.b.</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.20974</latitude>
+		<longitude>13.60200</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pietro Candler 11</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22588</latitude>
+		<longitude>13.59582</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg J. Rakovca 21</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22660</latitude>
+		<longitude>13.59750</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>M.Vlašića 39</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.23090</latitude>
+		<longitude>13.61455</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Materada 35</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.24791</latitude>
+		<longitude>13.59517</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Špadići bb</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.241566</latitude>
+		<longitude>13.601332</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zelena laguna bb </address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.203676</latitude>
+		<longitude>13.587835</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 2</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22707</latitude>
+		<longitude>13.59643</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Potpićan 7</address>
+		<zipcode>52333</zipcode>
+		<city>Potpićan</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.19268</latitude>
+		<longitude>14.09434</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cehovska 8</address>
+		<zipcode>34000</zipcode>
+		<city>Požega</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33212</latitude>
+		<longitude>17.67669</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Industrijska 42</address>
+		<zipcode>34000</zipcode>
+		<city>Požega</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33657</latitude>
+		<longitude>17.70613</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka bb</address>
+		<zipcode>34000</zipcode>
+		<city>Požega</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33936</latitude>
+		<longitude>17.68273</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pavla Radića 44a</address>
+		<zipcode>34000</zipcode>
+		<city>Požega</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33985</latitude>
+		<longitude>17.66710</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Martinovih 2d</address>
+		<zipcode>23273</zipcode>
+		<city>Preko</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.075697</latitude>
+		<longitude>15.194135</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Glavna 53</address>
+		<zipcode>40323</zipcode>
+		<city>Prelog</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.33731</latitude>
+		<longitude>16.61360</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Goranska 79</address>
+		<zipcode>51307</zipcode>
+		<city>Prezid</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.63856</latitude>
+		<longitude>14.57680</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg S. Radića 1</address>
+		<zipcode>23226</zipcode>
+		<city>Pridraga</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.14315</latitude>
+		<longitude>15.58565</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg J. Arnerića 2</address>
+		<zipcode>22202</zipcode>
+		<city>Primošten</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.58606</latitude>
+		<longitude>15.92245</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cesta prekomorskih brigada 12</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.84303</latitude>
+		<longitude>13.84363</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tomasinijeva 32</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.85623</latitude>
+		<longitude>13.83818</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ciscuttijeva 15</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.86776</latitude>
+		<longitude>13.84803</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Giardini 6</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.86931</latitude>
+		<longitude>13.84861</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Riva 14</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.87272</latitude>
+		<longitude>13.84630</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Santoriova 13</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.868021</latitude>
+		<longitude>13.863523</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šijanska cesta 1a</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.884078</latitude>
+		<longitude>13.869317</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jurja Žakna 3</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.87775</latitude>
+		<longitude>13.86396</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala 87</address>
+		<zipcode>51521</zipcode>
+		<city>Punat</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.021714</latitude>
+		<longitude>14.628409</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Puntica 7</address>
+		<zipcode>51521</zipcode>
+		<city>Punat</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.02961</latitude>
+		<longitude>14.62827</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Municipium Arbe bb</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.75555</latitude>
+		<longitude>14.76194</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište Marka Antuna de Dominisa 5</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.75909</latitude>
+		<longitude>14.75917</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Banjol 165</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.76028</latitude>
+		<longitude>14.76655</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mali Palit bb</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.761301</latitude>
+		<longitude>14.759896</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala Maršala Tita b.b.</address>
+		<zipcode>52221</zipcode>
+		<city>Rabac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07813</latitude>
+		<longitude>14.15915</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nikole tesle bb</address>
+		<zipcode>52223</zipcode>
+		<city>Raša</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08043</latitude>
+		<longitude>14.08374</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana G.Kovačića 229</address>
+		<zipcode>51314</zipcode>
+		<city>Ravna Gora</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.222412</latitude>
+		<longitude>14.5600709</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cvetkov trg 1 (Drenova)</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35366</latitude>
+		<longitude>14.43162</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Slavka Krautzeka bb</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.327493</latitude>
+		<longitude>14.441565</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frana Supila 6</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.328117</latitude>
+		<longitude>14.441565</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>J.P. Kamova 81</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.317792</latitude>
+		<longitude>14.468962</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Drage Gervaisa 39</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31974</latitude>
+		<longitude>14.46894</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kvaternikova 62 </address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32051</latitude>
+		<longitude>14.47513</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Belulovića 5</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32291</latitude>
+		<longitude>14.47897</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mihanovićeva 44</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32360</latitude>
+		<longitude>14.46652</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Zajca 9</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32531</latitude>
+		<longitude>14.44284</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tome Strižića 3</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32574</latitude>
+		<longitude>14.47017</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Adamićeva 7</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32578</latitude>
+		<longitude>14.44329</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ante Starčevića 4</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32594</latitude>
+		<longitude>14.44529</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Aldo Colonello 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32645</latitude>
+		<longitude>14.44662</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Koblerov trg 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32673</latitude>
+		<longitude>14.44268</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Riva 6</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32676</latitude>
+		<longitude>14.44202</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Žabica 2</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32761</latitude>
+		<longitude>14.43728</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jadranski trg 3a</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32792</latitude>
+		<longitude>14.43893</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frane Kurelca 8</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32866</latitude>
+		<longitude>14.44051</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33031</latitude>
+		<longitude>14.43013</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Fiorello La Guardia 11</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33054</latitude>
+		<longitude>14.43448</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frankopanski trg 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33128</latitude>
+		<longitude>14.45665</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nikole Tesle 11</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33220</latitude>
+		<longitude>14.43128</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krešimirova 42</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33272</latitude>
+		<longitude>14.42651</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krešimirova 52</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33212</latitude>
+		<longitude>14.42555</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Volčićev trg 2</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33300</latitude>
+		<longitude>14.44192</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tizianova 2</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.333723</latitude>
+		<longitude>14.437875</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zvonimirova 6B</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33413</latitude>
+		<longitude>14.42235</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pulska 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33726</latitude>
+		<longitude>14.38884</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka 50</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.339982</latitude>
+		<longitude>14.427688</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Čandeka 32f</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34032</latitude>
+		<longitude>14.40938</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vere Bratonje 28</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34035</latitude>
+		<longitude>14.38541</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zametska 44</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34055</latitude>
+		<longitude>14.39802</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Istarska 50</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34169</latitude>
+		<longitude>14.37284</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 87</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34260</latitude>
+		<longitude>14.41339</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zametska 59a</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34301</latitude>
+		<longitude>14.39093</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bože Vidasa 14</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34440</latitude>
+		<longitude>14.38026</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka 67a</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34690</latitude>
+		<longitude>14.42061</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka 67a</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34724</latitude>
+		<longitude>14.42019</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka 67</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34972</latitude>
+		<longitude>14.41805</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>M.Bataje 16</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34703</latitude>
+		<longitude>14.37787</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pilepići 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34952</latitude>
+		<longitude>14.38870</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pehlin 46</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35102</latitude>
+		<longitude>14.40699</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Primorska 20 (Grbci)</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35121</latitude>
+		<longitude>14.38162</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stanka Frankovića 9</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35284</latitude>
+		<longitude>14.43013</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Miroslava Krleže 16</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35479</latitude>
+		<longitude>14.36943</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bartola Kašića 4</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35538</latitude>
+		<longitude>14.36638</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Roč b.b.</address>
+		<zipcode>52425</zipcode>
+		<city>Roč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.39514</latitude>
+		<longitude>14.04456</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg na lokvi 3</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08067</latitude>
+		<longitude>13.63835</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište Vijeća Europe 1</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07273</latitude>
+		<longitude>13.63584</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Fažanska 2</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08174</latitude>
+		<longitude>13.65589</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Maršala Tita 7</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08209</latitude>
+		<longitude>13.63500</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Giordano Paliaga 8</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08573</latitude>
+		<longitude>13.63983</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cesta Valalta - Lim bb</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12404</latitude>
+		<longitude>13.62732</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Božić 4c</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35476</latitude>
+		<longitude>14.36937</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Giordano Paliaga 2</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.0849</latitude>
+		<longitude>13.637193</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Industrijska zona b.b.</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinjsko selo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.10661</latitude>
+		<longitude>13.71634</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg hrvatskih branitelja 2</address>
+		<zipcode>43212</zipcode>
+		<city>Rovišće</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.94591</latitude>
+		<longitude>16.73204</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 4</address>
+		<zipcode>10430</zipcode>
+		<city>Samobor</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80201</latitude>
+		<longitude>15.70918</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica grada Wirgesa 2G</address>
+		<zipcode>10430</zipcode>
+		<city>Samobor</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81124</latitude>
+		<longitude>15.71225</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>151. samoborske brigade HV 1</address>
+		<zipcode>10430</zipcode>
+		<city>Samobor</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80881</latitude>
+		<longitude>15.71622</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg palih boraca 13</address>
+		<zipcode>51266</zipcode>
+		<city>Selce</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.15762</latitude>
+		<longitude>14.71964</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ive Vlatkovića 2</address>
+		<zipcode>53270</zipcode>
+		<city>Senj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.989714</latitude>
+		<longitude>14.900776</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala Franje Tuđmana 1</address>
+		<zipcode>53270</zipcode>
+		<city>Senj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.992195</latitude>
+		<longitude>14.900851</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Damira Tomljanovića Gavrana b.b.</address>
+		<zipcode>53270</zipcode>
+		<city>Senj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.992696</latitude>
+		<longitude>14.901946</longitude>
+	</ATM>
+	<ATM>
+		<address>Bjelovarska ulica 3</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82700</latitude>
+		<longitude>16.11159</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ladislava Šabana 12 </address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81133</latitude>
+		<longitude>16.10274</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bjelovarska ulica bb</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82401</latitude>
+		<longitude>16.11875</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bistrička 6</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83317</latitude>
+		<longitude>16.10780</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dugoselska 33a</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvetski Kraljevec</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81717</latitude>
+		<longitude>16.17449</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Petrovca 12</address>
+		<zipcode>21230</zipcode>
+		<city>Sinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.70120</latitude>
+		<longitude>16.63665</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Miljenka Babića bb</address>
+		<zipcode>21230</zipcode>
+		<city>Sinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.70164</latitude>
+		<longitude>16.64420</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Školska 3</address>
+		<zipcode>44000</zipcode>
+		<city>Sisak</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.464510</latitude>
+		<longitude>16.380916</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stjepana i Antuna Radića 4-6</address>
+		<zipcode>44000</zipcode>
+		<city>Sisak</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48733</latitude>
+		<longitude>16.37257</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 49</address>
+		<zipcode>44000</zipcode>
+		<city>Sisak</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49755</latitude>
+		<longitude>16.35955</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josipa Blaževića 6</address>
+		<zipcode>51311</zipcode>
+		<city>Skrad</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43117</latitude>
+		<longitude>14.90478</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kneza Domagoja 1</address>
+		<zipcode>22222</zipcode>
+		<city>Skradin</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.81739</latitude>
+		<longitude>15.92171</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Svetog Josipa 1</address>
+		<zipcode>10346</zipcode>
+		<city>Slatina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.71035</latitude>
+		<longitude>17.69653</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petra Krešimira IV 24</address>
+		<zipcode>35000</zipcode>
+		<city>Slavonski Brod</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.15504</latitude>
+		<longitude>18.01523</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petra Svačića 2</address>
+		<zipcode>35000</zipcode>
+		<city>Slavonski Brod</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16282</latitude>
+		<longitude>18.00743</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Naselje Slavonija 2</address>
+		<zipcode>35000</zipcode>
+		<city>Slavonski Brod</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16249</latitude>
+		<longitude>18.01844</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg dr. Franje Tuđmana 1</address>
+		<zipcode>47240</zipcode>
+		<city>Slunj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.11444</latitude>
+		<longitude>15.58584</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Soblinečka b.b.</address>
+		<zipcode>10360</zipcode>
+		<city>Soblinec</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.86539</latitude>
+		<longitude>16.15518</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matoševa 10</address>
+		<zipcode>21210</zipcode>
+		<city>Solin</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.53007</latitude>
+		<longitude>16.49046</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 111</address>
+		<zipcode>21210</zipcode>
+		<city>Solin</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.53806</latitude>
+		<longitude>16.49133</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poljana kneza Trpimira 6</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50694</latitude>
+		<longitude>16.44273</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poljana kraljice Jelene 3</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50884</latitude>
+		<longitude>16.44031</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala kneza Domagoja 12</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50382</latitude>
+		<longitude>16.44274</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Držislava 22</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.506449</latitude>
+		<longitude>16.504941</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dubrovačka ulica 1</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50536</latitude>
+		<longitude>16.45576</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ruđera Boškovića 9</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50713</latitude>
+		<longitude>16.46636</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matice hrvatske 1</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50822</latitude>
+		<longitude>16.45109</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Marmontova ulica b.b.</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50855</latitude>
+		<longitude>16.43668</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Svačićeva 1</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51143</latitude>
+		<longitude>16.43658</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mažuranićevo šetalište 24/b</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51305</latitude>
+		<longitude>16.44698</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 207</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51350</latitude>
+		<longitude>16.50069</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Velebitska 123, Sućidar</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51378</latitude>
+		<longitude>16.47153</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gundulićeva 40a</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51419</latitude>
+		<longitude>16.44103</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivanićeva 1</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51664</latitude>
+		<longitude>16.45739</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Brodarice 6</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51838</latitude>
+		<longitude>16.44615</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put mostina 10</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.03093</latitude>
+		<longitude>15.61194</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Boktuljin put bb</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.52002</latitude>
+		<longitude>16.46550</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Seljine brigade 21</address>
+		<zipcode>10419</zipcode>
+		<city>Staro Čiče</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.68682</latitude>
+		<longitude>16.11622</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Svetog Lovre 45</address>
+		<zipcode>21311</zipcode>
+		<city>Stobreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50225</latitude>
+		<longitude>16.52472</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trajektno pristanište bb</address>
+		<zipcode>21460</zipcode>
+		<city>Stari Grad na Hvaru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.180380</latitude>
+		<longitude>16.576899</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Porat bb, Kerum</address>
+		<zipcode>21400</zipcode>
+		<city>Supetar</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.384104</latitude>
+		<longitude>16.553097</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala kralja Tomislava 2</address>
+		<zipcode>23207</zipcode>
+		<city>Sveti Filip i Jakov</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.960638</latitude>
+		<longitude>15.425250</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Grkavešćak b.b.</address>
+		<zipcode>40313</zipcode>
+		<city>Sv. Martin na Muri</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.495023</latitude>
+		<longitude>16.340060</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nedjeljska cesta 28 </address>
+		<zipcode>10431</zipcode>
+		<city>Sveta Nedjelja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79603</latitude>
+		<longitude>15.77683</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 58</address>
+		<zipcode>10380</zipcode>
+		<city>Sveti Ivan Zelina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.96739</latitude>
+		<longitude>16.25158</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Karla Lukaša 1</address>
+		<zipcode>48214</zipcode>
+		<city>Sveti Ivan Žabno</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.94568</latitude>
+		<longitude>16.60490</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vrankovec 1</address>
+		<zipcode>49223</zipcode>
+		<city>Sveti Križ Začretje</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.06723</latitude>
+		<longitude>15.91898</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šapjane 1</address>
+		<zipcode>51214</zipcode>
+		<city>Šapjane</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.480648</latitude>
+		<longitude>14.253784</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Vida 6</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.754946</latitude>
+		<longitude>15.880287</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>V. Škorpika 23</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.71045</latitude>
+		<longitude>15.91138</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stjepana Radića 139</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.72661</latitude>
+		<longitude>15.90496</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Drage 14</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.73202</latitude>
+		<longitude>15.89299</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poljana 5</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.73442</latitude>
+		<longitude>15.89443</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica kralja Zvonimra bb</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.74603</latitude>
+		<longitude>15.89052</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bana Josipa Jelačića 13</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.74661</latitude>
+		<longitude>15.89499</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stara cesta bb</address>
+		<zipcode>51515</zipcode>
+		<city>Šilo </city>
+		<own_atm>yes</own_atm>
+		<latitude>45.147679</latitude>
+		<longitude>14.662971</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šimuni 106</address>
+		<zipcode>23251</zipcode>
+		<city>Šimuni</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.46705</latitude>
+		<longitude>14.96407</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Škrljevo bb</address>
+		<zipcode>51223</zipcode>
+		<city>Škrljevo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31927</latitude>
+		<longitude>14.53404</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kukuljanovo b.b.</address>
+		<zipcode>51223</zipcode>
+		<city>Škrljevo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32809</latitude>
+		<longitude>14.51339</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kukuljanovo b.b.</address>
+		<zipcode>51223</zipcode>
+		<city>Škrljevo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33678</latitude>
+		<longitude>14.50751</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tkon 9</address>
+		<zipcode>23212</zipcode>
+		<city>Tkon</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.92182</latitude>
+		<longitude>15.41957</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana J. Jelačića</address>
+		<zipcode>21240</zipcode>
+		<city>Trilj</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.61613</latitude>
+		<longitude>16.72995</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Blaža Jurjeva Trogiranina 3</address>
+		<zipcode>21220</zipcode>
+		<city>Trogir</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51764</latitude>
+		<longitude>16.25081</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kneza Trpimira 2</address>
+		<zipcode>21220</zipcode>
+		<city>Trogir</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51842</latitude>
+		<longitude>16.25061</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Školska 1</address>
+		<zipcode>51305</zipcode>
+		<city>Tršće</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56486</latitude>
+		<longitude>14.62881</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ugljan b.b.</address>
+		<zipcode>23275</zipcode>
+		<city>Ugljan</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.12444</latitude>
+		<longitude>15.11135</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vrh Umag bb</address>
+		<zipcode>52470</zipcode>
+		<city>Umag</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.42218</latitude>
+		<longitude>13.52752</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trgovačka 2a</address>
+		<zipcode>52470</zipcode>
+		<city>Umag</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43326</latitude>
+		<longitude>13.52100</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jadranska cesta 5</address>
+		<zipcode>52470</zipcode>
+		<city>Umag</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.44188</latitude>
+		<longitude>13.52194</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka 1</address>
+		<zipcode>31550</zipcode>
+		<city>Valpovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.65804</latitude>
+		<longitude>18.41884</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Valun b.b.</address>
+		<zipcode>51557</zipcode>
+		<city>Valun</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.90447</latitude>
+		<longitude>14.36131</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gospodarska 3</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.29038</latitude>
+		<longitude>16.34019</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tome Blažeka 1</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.30420</latitude>
+		<longitude>16.33561</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Radića 8</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.305594</latitude>
+		<longitude>16.330463</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Koprivnička 17</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.31350</latitude>
+		<longitude>16.34930</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Optujska 171</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.31580</latitude>
+		<longitude>16.32292</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>V. Nazora 29</address>
+		<zipcode>51551</zipcode>
+		<city>Veli Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.51979</latitude>
+		<longitude>14.50305</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 38</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.71387</latitude>
+		<longitude>16.07526</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>S. Kolara 10</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.714795</latitude>
+		<longitude>16.070713</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kneza Lj. Posavskog 51</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.71838</latitude>
+		<longitude>16.05452</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 20</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.71544</latitude>
+		<longitude>16.07235</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pleso b.b.</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.73267</latitude>
+		<longitude>16.06081</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Radić b.b.</address>
+		<zipcode>43226</zipcode>
+		<city>Veliko Trojstvo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.93094</latitude>
+		<longitude>16.92890</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Duga ulica 10</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28800</latitude>
+		<longitude>18.80306</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zlatana Sremca 58</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28826</latitude>
+		<longitude>18.81817</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jurja Dalmatinca 5c</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.29306</latitude>
+		<longitude>18.80381</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ohridska 2</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.29696</latitude>
+		<longitude>18.80108</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put bunara 5</address>
+		<zipcode>23234</zipcode>
+		<city>Vir</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.29876</latitude>
+		<longitude>15.08427</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vir b.b.</address>
+		<zipcode>23234</zipcode>
+		<city>Vir</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.29953</latitude>
+		<longitude>15.08835</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana Josipa Jelačića 8b</address>
+		<zipcode>48326</zipcode>
+		<city>Virje</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.06622</latitude>
+		<longitude>16.98763</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sajmište 2</address>
+		<zipcode>33000</zipcode>
+		<city>Virovitica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82845</latitude>
+		<longitude>17.39773</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Franje Tuđmana 1</address>
+		<zipcode>33000</zipcode>
+		<city>Virovitica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83216</latitude>
+		<longitude>17.38732</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava bb</address>
+		<zipcode>33000</zipcode>
+		<city>Virovitica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83447</latitude>
+		<longitude>17.38664</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala Svetog Jurja 8</address>
+		<zipcode>21480</zipcode>
+		<city>Vis</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.03344</latitude>
+		<longitude>16.11120</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gronji Sroki 57a</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.38809</latitude>
+		<longitude>14.38609</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Marinići 18</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.36286</latitude>
+		<longitude>14.39275</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Marinići b.b.</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37108</latitude>
+		<longitude>14.39013</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Viškovo 90</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37777</latitude>
+		<longitude>14.38593</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>I.J. Cote 10</address>
+		<zipcode>22211</zipcode>
+		<city>Vodice</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.75780</latitude>
+		<longitude>15.77609</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trgovačka 128</address>
+		<zipcode>52215</zipcode>
+		<city>Vodnjan</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.96219</latitude>
+		<longitude>13.85571</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Štangerova 20</address>
+		<zipcode>51410</zipcode>
+		<city>Volosko</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34910</latitude>
+		<longitude>14.31971</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg sv. Ivana 8</address>
+		<zipcode>51516</zipcode>
+		<city>Vrbnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07571</latitude>
+		<longitude>14.67452</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poginulih branitelja b.b.</address>
+		<zipcode>10340</zipcode>
+		<city>Vrbovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.88435</latitude>
+		<longitude>16.41939</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dobra bb</address>
+		<zipcode>51326</zipcode>
+		<city>Vrbovsko</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37423</latitude>
+		<longitude>15.07047</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tina Ujevića 11</address>
+		<zipcode>21276</zipcode>
+		<city>Vrgorac</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.20395</latitude>
+		<longitude>17.37120</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Senjska 60</address>
+		<zipcode>51326</zipcode>
+		<city>Vrhovine</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.85161</latitude>
+		<longitude>15.42489</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala M. Tita 1a</address>
+		<zipcode>52450</zipcode>
+		<city>Vrsar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.14895</latitude>
+		<longitude>13.60253</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica Franje Tuđmana 7</address>
+		<zipcode>23235</zipcode>
+		<city>Vrsi</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.26250</latitude>
+		<longitude>15.23366</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dr. Franje Tuđmana 11</address>
+		<zipcode>32000</zipcode>
+		<city>Vukovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35011</latitude>
+		<longitude>19.00357</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>J.J. Strossmayera 14c</address>
+		<zipcode>32000</zipcode>
+		<city>Vukovar </city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35252</latitude>
+		<longitude>19.00181</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Blage Zadre 2</address>
+		<zipcode>32000</zipcode>
+		<city>Vukovar (Borovo naselje)</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37586</latitude>
+		<longitude>18.96337</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Radničko naselje 14</address>
+		<zipcode>49210</zipcode>
+		<city>Zabok</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02182</latitude>
+		<longitude>15.90224</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matije Gupca 68</address>
+		<zipcode>49210</zipcode>
+		<city>Zabok</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02569</latitude>
+		<longitude>15.90322</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ante Starčevića b.b.</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.10749</latitude>
+		<longitude>15.24121</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Murvička 1</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.10971</latitude>
+		<longitude>15.23722</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala kneza Branimira 6</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.11487</latitude>
+		<longitude>15.23306</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Široka ulica 1</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.11526</latitude>
+		<longitude>15.22576</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Liburnijska obala 2</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.11654</latitude>
+		<longitude>15.22742</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica akcija Maslenica 1</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.116908</latitude>
+		<longitude>15.270717</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Andrije Hebranga 2</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.118109</latitude>
+		<longitude>15.240976</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Pudarice 11</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.12247</latitude>
+		<longitude>15.25570</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Antuna Gustava Matoša 10</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.13279</latitude>
+		<longitude>15.21273</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ozaljska 33</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79833</latitude>
+		<longitude>15.94726</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krešićeva 32</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81450</latitude>
+		<longitude>16.01929</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bencekovićeva 27</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78345</latitude>
+		<longitude>15.96092</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Kralja Tomislava 12</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80501</latitude>
+		<longitude>15.97866</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>B. Magovca 21</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77177</latitude>
+		<longitude>15.99451</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sisačka cesta 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.75681</latitude>
+		<longitude>15.94629</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica SR Njemačke 3</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76076</latitude>
+		<longitude>15.99257</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Utinjska 48</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76727</latitude>
+		<longitude>15.95795</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jarušćica bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.770636</latitude>
+		<longitude>15.940819</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lanište 17</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77272</latitude>
+		<longitude>15.94477</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trnsko b.b.</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77639</latitude>
+		<longitude>15.96548</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trnsko 26</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77235</latitude>
+		<longitude>15.96500</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Froudeova 5</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77651</latitude>
+		<longitude>15.97179</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Dubrovnik 16</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77666</latitude>
+		<longitude>15.97911</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Barčev trg bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77705</latitude>
+		<longitude>15.99585</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jadranska avenija 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77722</latitude>
+		<longitude>15.94887</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Dubrovnik 15/11</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77784</latitude>
+		<longitude>15.97507</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Meštrovićev trg bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.779201</latitude>
+		<longitude>15.995761</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hrgovići 55</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78670</latitude>
+		<longitude>15.92945</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Horvaćanska 53a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78798</latitude>
+		<longitude>15.94681</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gundulićeva 8</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81206</latitude>
+		<longitude>15.97195</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pakoštanska 5</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78952</latitude>
+		<longitude>15.92956</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Domany 4</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79025</latitude>
+		<longitude>15.93796</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rudolfa Bičanića 8</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79097</latitude>
+		<longitude>15.94708</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pavla Hatza 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79229</latitude>
+		<longitude>15.90199</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rudeška 140</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79452</latitude>
+		<longitude>15.91940</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ozaljska 148</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79745</latitude>
+		<longitude>15.93783</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Miroslava Milića 8</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79793</latitude>
+		<longitude>15.90544</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jablanska ul. 24</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79819</latitude>
+		<longitude>15.91371</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jankomir 33</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79889</latitude>
+		<longitude>15.88505</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Lučića 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79944</latitude>
+		<longitude>15.97007</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trešnjevački trg 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79964</latitude>
+		<longitude>15.95352</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica grada Vukovara 41</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80004</latitude>
+		<longitude>15.97290</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tratinska 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80014</latitude>
+		<longitude>15.95477</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica grada Vukovara 84</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80018</latitude>
+		<longitude>15.98034</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica grada Vukovara 269d</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80179</latitude>
+		<longitude>16.00309</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Strojarska 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80199</latitude>
+		<longitude>15.99056</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Alberta Fortisa 16</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80323</latitude>
+		<longitude>15.89785</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Ante Starčevića bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80403</latitude>
+		<longitude>15.97781</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Marina Držića 4</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80450</latitude>
+		<longitude>15.99328</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trakošćanska 14</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80332</latitude>
+		<longitude>15.95307</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trpimirova 31</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80566</latitude>
+		<longitude>15.98530</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pergošićeva 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80679</latitude>
+		<longitude>15.89092</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Andrije Žaje 60</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80692</latitude>
+		<longitude>15.95325</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Škorpikova 34</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.796924</latitude>
+		<longitude>15.857697</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukomerec 24</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80780</latitude>
+		<longitude>16.04184</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Planinska bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80928</latitude>
+		<longitude>16.01355</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Heinzelova 33a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81055</latitude>
+		<longitude>16.00220</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Nikole Šubića Zrinskog 18</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81069</latitude>
+		<longitude>15.97750</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Masarykova 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81111</latitude>
+		<longitude>15.97412</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 59</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81114</latitude>
+		<longitude>15.99744</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Makisimirska 114</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81848</latitude>
+		<longitude>16.01222</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Varšavska 3</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81177</latitude>
+		<longitude>15.97346</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Praška 5</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81193</latitude>
+		<longitude>15.97796</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Konstantina Vojnovića 22</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81208</latitude>
+		<longitude>15.99135</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 102</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81235</latitude>
+		<longitude>15.96336</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivanićgradska 54</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80358</latitude>
+		<longitude>16.01986</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 425</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81276</latitude>
+		<longitude>15.90461</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81303</latitude>
+		<longitude>15.97605</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sveti Duh 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81351</latitude>
+		<longitude>15.94235</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vlaška 50a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81361</latitude>
+		<longitude>15.98445</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tkalčićeva 15</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81456</latitude>
+		<longitude>15.97601</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 239</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81480</latitude>
+		<longitude>15.93494</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Eugena Kvaternika 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81503</latitude>
+		<longitude>15.99667</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ghandijeva 1, Gajnice</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81515</latitude>
+		<longitude>15.87682</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bolnička 34</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81580</latitude>
+		<longitude>15.89363</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 288</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81646</latitude>
+		<longitude>15.93389</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Johna Fitzgeralda Kennedy 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81649</latitude>
+		<longitude>16.01258</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gajnice 32</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81690</latitude>
+		<longitude>15.87270</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Branimirova 119</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81740</latitude>
+		<longitude>16.03709</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sarajevska 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77040</latitude>
+		<longitude>16.00435</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lastovska 2a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79432</latitude>
+		<longitude>15.99709</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šeferova 4 (Ravnice)</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81918</latitude>
+		<longitude>16.02573</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petrova 136</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82052</latitude>
+		<longitude>16.00575</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Čulinečka 31</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82325</latitude>
+		<longitude>16.06409</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bukovačka cesta 20</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82562</latitude>
+		<longitude>16.01061</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Dubrava 49</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82952</latitude>
+		<longitude>16.05214</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Dubrava 241</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82952</latitude>
+		<longitude>16.07948</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ksaverska cesta 43</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82808</latitude>
+		<longitude>15.97783</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Gojka Šuška 9</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83587</latitude>
+		<longitude>16.03295</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Oporovečka 14</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.836215</latitude>
+		<longitude>16.046047</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka avenija 108</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79769</latitude>
+		<longitude>15.89348</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Varičakova 9</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76527</latitude>
+		<longitude>15.98863</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sarajevska cesta 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77040</latitude>
+		<longitude>16.00435</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Slavenskog 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79590</latitude>
+		<longitude>15.90031</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Slavonska avenija 11</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.802575</latitude>
+		<longitude>16.050811</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vrbani 24</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.792382</latitude>
+		<longitude>15.915161</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hribarov prilaz 6a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb (Dugave)</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76555</latitude>
+		<longitude>15.99295</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kišpatićeva 12</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82415</latitude>
+		<longitude>16.00648</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vile Velebita 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83701</latitude>
+		<longitude>16.06065</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bani bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb (Buzin)</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.75010</latitude>
+		<longitude>15.99868</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Meštrovićev trg bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb (Zapruđe)</city>
+		<own_atm>yes</own_atm>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šestinski vijenac 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb (Šestine)</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85231</latitude>
+		<longitude>15.94999</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zaprešićka 1</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.84465</latitude>
+		<longitude>15.82581</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ruševje 1</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85275</latitude>
+		<longitude>15.80816</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maršala Tita 16b</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85478</latitude>
+		<longitude>15.80577</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tržna bb</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85537</latitude>
+		<longitude>15.80253</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mihovila Krušlina 20</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85609</latitude>
+		<longitude>15.80612</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>K.Š. Đalskog 66</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.87075</latitude>
+		<longitude>15.79524</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Antuna Mihanovića1</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.86590</latitude>
+		<longitude>15.79642</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gajeva 5</address>
+		<zipcode>49250</zipcode>
+		<city>Zlatar</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.09152</latitude>
+		<longitude>16.07843</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jurovski Brod 14</address>
+		<zipcode>47276</zipcode>
+		<city>Žakanje</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.63133</latitude>
+		<longitude>15.32219</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>9. rujna bb</address>
+		<zipcode>52341</zipcode>
+		<city>Žminj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.14146</latitude>
+		<longitude>13.90848</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 18</address>
+		<zipcode>32270</zipcode>
+		<city>Županja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07319</latitude>
+		<longitude>18.69466</longitude>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vinkovačka ulica 2B</address>
+		<zipcode>32270</zipcode>
+		<city>Županja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07991</latitude>
+		<longitude>18.69847</longitude>
+	</ATM>
+</CashDispensers>
