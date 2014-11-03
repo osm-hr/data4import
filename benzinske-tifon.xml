@@ -1,0 +1,906 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<export>
+	<benzinska>
+		<naziv><![CDATA[BP ŠVALJKOVEC]]></naziv>
+		<grad><![CDATA[Sv. Križ Začretje]]></grad>
+		<postBr><![CDATA[49223]]></postBr>
+		<adresa><![CDATA[Švaljkovec bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 119]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[46,095950000000002]]></lat>
+		<lon><![CDATA[15,9063]]></lon>
+		<opis_lokacije><![CDATA[izlaz s auto ceste prema Mariboru u mjesto Sv. KRIŽ ZAČRETJE]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[4]]></parking>
+		<parking_kamioni><![CDATA[4]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 05-22, NED i PRAZ: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP DOBRA ISTOK]]></naziv>
+		<grad><![CDATA[Ogulin]]></grad>
+		<postBr><![CDATA[47300]]></postBr>
+		<adresa><![CDATA[Bosiljevo bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 086]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,308366999999997]]></lat>
+		<lon><![CDATA[15,280417]]></lon>
+		<opis_lokacije><![CDATA[na autocesti od Splita prema Zagrebu 9 km od skretanja za Ogulin]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>True</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[58]]></parking>
+		<parking_kamioni><![CDATA[15]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>True</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP DOBRA ZAPAD]]></naziv>
+		<grad><![CDATA[Ogulin]]></grad>
+		<postBr><![CDATA[47300]]></postBr>
+		<adresa><![CDATA[Bosiljevo bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 369]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,309466999999998]]></lat>
+		<lon><![CDATA[15,279216999999999]]></lon>
+		<opis_lokacije><![CDATA[na autocesti prema Splitu 12 km od naplatnih kućica u Bosiljevu]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>True</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[58]]></parking>
+		<parking_kamioni><![CDATA[15]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>True</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP JASENICE SJEVER]]></naziv>
+		<grad><![CDATA[Obrovac]]></grad>
+		<postBr><![CDATA[23243]]></postBr>
+		<adresa><![CDATA[Jasenice bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 113]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[44,240817]]></lat>
+		<lon><![CDATA[15,568083]]></lon>
+		<opis_lokacije><![CDATA[na autocesti prema Splitu 22 km od tunela Sv. Rok]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>True</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[108]]></parking>
+		<parking_kamioni><![CDATA[25]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>True</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP JASENICE JUG]]></naziv>
+		<grad><![CDATA[Obrovac]]></grad>
+		<postBr><![CDATA[23243]]></postBr>
+		<adresa><![CDATA[Jasenice bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 112]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[44,240000000000002]]></lat>
+		<lon><![CDATA[15,568833]]></lon>
+		<opis_lokacije><![CDATA[na autocesti od Splita prema Zagrebu 3 km od skretanja za Maslenicu]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>True</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[112]]></parking>
+		<parking_kamioni><![CDATA[25]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>True</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP KARLOVAC]]></naziv>
+		<grad><![CDATA[Karlovac]]></grad>
+		<postBr><![CDATA[47000]]></postBr>
+		<adresa><![CDATA[Rajnerova 6]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 099]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,501432999999999]]></lat>
+		<lon><![CDATA[15,545183]]></lon>
+		<opis_lokacije><![CDATA[na brzoj cesti 1 km od naplatnih kućica u Karlovcu prema centru grada]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[20]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 06-23, NED: 07-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP LUČKO]]></naziv>
+		<grad><![CDATA[Lučko]]></grad>
+		<postBr><![CDATA[10250]]></postBr>
+		<adresa><![CDATA[Karlovačka bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 056]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,759017]]></lat>
+		<lon><![CDATA[15,901767]]></lon>
+		<opis_lokacije><![CDATA[Od naplatnih kućica u Zagrebu prema rotoru, na skretanju za Lučko]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[5]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP STUBIČKE TOPLICE]]></naziv>
+		<grad><![CDATA[Stubičke Toplice]]></grad>
+		<postBr><![CDATA[49244]]></postBr>
+		<adresa><![CDATA[Strmečka 16A]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 383]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,974133000000002]]></lat>
+		<lon><![CDATA[15,920817]]></lon>
+		<opis_lokacije><![CDATA[Stubičke Toplice 500 m od centra prema Zagrebu (stara cesta)]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[6]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 06-22, NED i PRAZ: 07-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP SLAVONSKI BROD]]></naziv>
+		<grad><![CDATA[Slavonski Brod]]></grad>
+		<postBr><![CDATA[35000]]></postBr>
+		<adresa><![CDATA[Zapadna vezna cesta bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 047]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,170166999999999]]></lat>
+		<lon><![CDATA[17,961383000000001]]></lon>
+		<opis_lokacije><![CDATA[izlaz ZAPAD s autoceste prema za Slavonskom Brodu 1,5 km od naplatnih kućica]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[13]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP ZAGREB ISTOK]]></naziv>
+		<grad><![CDATA[Zagreb]]></grad>
+		<postBr><![CDATA[10375]]></postBr>
+		<adresa><![CDATA[Slavonska avenija 110]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 124]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,803350000000002]]></lat>
+		<lon><![CDATA[16,114417]]></lon>
+		<opis_lokacije><![CDATA[na Slavonskoj aveniji u smjeru Zagreb-Slavonski Brod poslije raskršća za Lesninu nasuprot Metroa Sesvete]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[28]]></parking>
+		<parking_kamioni><![CDATA[14]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP RAVNA GORA]]></naziv>
+		<grad><![CDATA[Ravna Gora]]></grad>
+		<postBr><![CDATA[51314]]></postBr>
+		<adresa><![CDATA[Ravna Gora bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 353]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,382167000000003]]></lat>
+		<lon><![CDATA[14,937217]]></lon>
+		<opis_lokacije><![CDATA[na autocesti prema Rijeci 150 m od tunela Javorova Kosa]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>True</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[133]]></parking>
+		<parking_kamioni><![CDATA[21]]></parking_kamioni>
+		<parking_autobusi><![CDATA[14]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>True</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP JASTREBARSKO]]></naziv>
+		<grad><![CDATA[Jastrebarsko]]></grad>
+		<postBr><![CDATA[10450]]></postBr>
+		<adresa><![CDATA[Čabdin 72]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 375]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,651867000000003]]></lat>
+		<lon><![CDATA[15,66075]]></lon>
+		<opis_lokacije><![CDATA[izlaz s autoceste Zagreb-Karlovac prema Jastrebarskom 1 km od naplatnih kućica]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[5]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 06-23, NED: 07-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP BREZOVICA]]></naziv>
+		<grad><![CDATA[Brezovica]]></grad>
+		<postBr><![CDATA[10257]]></postBr>
+		<adresa><![CDATA[Brezovička 122b]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 417]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,718867000000003]]></lat>
+		<lon><![CDATA[15,9011]]></lon>
+		<opis_lokacije><![CDATA[od centra Brezovice 1 km u pravcu Pisarovine]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 07-22, NED i PRAZ: 08-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP KRALJEVICA SJEVER]]></naziv>
+		<grad><![CDATA[Kraljevica]]></grad>
+		<postBr><![CDATA[51262]]></postBr>
+		<adresa><![CDATA[Škabrlovo 10]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 373]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,256633000000001]]></lat>
+		<lon><![CDATA[14,580983]]></lon>
+		<opis_lokacije><![CDATA[iz pravca Zagreba 500 m prije ulaska na Krčki most]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[14]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-21, 15.05 - 15.09.: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP KRALJEVICA JUG]]></naziv>
+		<grad><![CDATA[Kraljevica]]></grad>
+		<postBr><![CDATA[51262]]></postBr>
+		<adresa><![CDATA[Škabrlovo bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 372]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,256283000000003]]></lat>
+		<lon><![CDATA[14,581182999999999]]></lon>
+		<opis_lokacije><![CDATA[na izlazu s Krčkog mosta 500 m u pravcu Zagreba]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>False</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[27]]></parking>
+		<parking_kamioni><![CDATA[3]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP LOŠINJ]]></naziv>
+		<grad><![CDATA[Nerezine]]></grad>
+		<postBr><![CDATA[51554]]></postBr>
+		<adresa><![CDATA[Blatine bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 094]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[44,672232999999999]]></lat>
+		<lon><![CDATA[14,396767000000001]]></lon>
+		<opis_lokacije><![CDATA[U Nerezinama na cesti za Lošinj, 1 km od mosta Osor]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[12]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[01.01. - 30.04.: 06-21, 01.05. - 30.06.: 06-22, 01.07. - 31.08.: 06-23, 01.09. - 31.12.: 06-21]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP OSIJEK 1]]></naziv>
+		<grad><![CDATA[Osijek]]></grad>
+		<postBr><![CDATA[31000]]></postBr>
+		<adresa><![CDATA[Sv. L.B.Mandića 50]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 001]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,549866999999999]]></lat>
+		<lon><![CDATA[18,668150000000001]]></lon>
+		<opis_lokacije><![CDATA[Na ulazu u Osijek, na prilaznoj cesti iz pravca Čepina]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[3]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 06-22, NED i PRAZ: 07-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP SAMOBOR]]></naziv>
+		<grad><![CDATA[Samobor]]></grad>
+		<postBr><![CDATA[10430]]></postBr>
+		<adresa><![CDATA[Svetonedeljska 13a]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 097]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,799317000000002]]></lat>
+		<lon><![CDATA[15,725917000000001]]></lon>
+		<opis_lokacije><![CDATA[Na ulazu u Samobor iz pravca Zagreba, nasuprot Merkuru i Konzimu, na kružnom toku]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[10]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP ERNESTINOVO]]></naziv>
+		<grad><![CDATA[Ernestinovo]]></grad>
+		<postBr><![CDATA[31215]]></postBr>
+		<adresa><![CDATA[V. Nazora bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 120]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,445517000000002]]></lat>
+		<lon><![CDATA[18,664717]]></lon>
+		<opis_lokacije><![CDATA[13 km iz Osijeka u pravcu Vinkovaca]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[9]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP BUZIN]]></naziv>
+		<grad><![CDATA[Zagreb]]></grad>
+		<postBr><![CDATA[10010]]></postBr>
+		<adresa><![CDATA[Buzin - Baneki 18]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 076]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,749267000000003]]></lat>
+		<lon><![CDATA[15,991332999999999]]></lon>
+		<opis_lokacije><![CDATA[Na Velikogoričkoj cesti iz pravca Velike Gorice prema Zagrebu, oko 1 km prije raskrižja za autoput]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[8]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP VINKOVCI]]></naziv>
+		<grad><![CDATA[Vinkovci]]></grad>
+		<postBr><![CDATA[32100]]></postBr>
+		<adresa><![CDATA[H. Vukčića-Hrvatinića bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 121]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,270417000000002]]></lat>
+		<lon><![CDATA[18,807566999999999]]></lon>
+		<opis_lokacije><![CDATA[Na industrijskoj cesti, koja povezuje grad Vinkovci sa autocestom Zagreb-Lipovac]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[17]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP ZABOK]]></naziv>
+		<grad><![CDATA[Zabok]]></grad>
+		<postBr><![CDATA[49210]]></postBr>
+		<adresa><![CDATA[Prilaz F. Tuđmana 5]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 381]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[46,013733000000002]]></lat>
+		<lon><![CDATA[15,885282999999999]]></lon>
+		<opis_lokacije><![CDATA[Na industrijskoj cesti koja povezuje grad Zabok,sa autocestom Zagreb Macelj, oko 1 km od auto-ceste]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[12]]></parking>
+		<parking_kamioni><![CDATA[2]]></parking_kamioni>
+		<parking_autobusi><![CDATA[2]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 05-22, NED i PRAZ: 07-21]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP KRAPINSKE TOPLICE]]></naziv>
+		<grad><![CDATA[Zabok]]></grad>
+		<postBr><![CDATA[49210]]></postBr>
+		<adresa><![CDATA[Martinišće bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 367]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[46,044316999999999]]></lat>
+		<lon><![CDATA[15,855267]]></lon>
+		<opis_lokacije><![CDATA[Na novoj cesti za Krapinske Toplice]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[5]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP VELIKO TRGOVIŠĆE]]></naziv>
+		<grad><![CDATA[Veliko Trgovišće]]></grad>
+		<postBr><![CDATA[49214]]></postBr>
+		<adresa><![CDATA[K.Š. Đalskog bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 382]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[46,004333000000003]]></lat>
+		<lon><![CDATA[15,848083000000001]]></lon>
+		<opis_lokacije><![CDATA[U Velikom Trgovišću, na cesti za Zabok]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[5]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP DONJA ZELINA]]></naziv>
+		<grad><![CDATA[Donja Zelina]]></grad>
+		<postBr><![CDATA[10382]]></postBr>
+		<adresa><![CDATA[Donjozelinska bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 380]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,902482999999997]]></lat>
+		<lon><![CDATA[16,214133]]></lon>
+		<opis_lokacije><![CDATA[Na staroj cesti Zagreb-Zelina u Donjoj Zelini]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[17]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP KARLOVAC ŠVARČA]]></naziv>
+		<grad><![CDATA[Karlovac]]></grad>
+		<postBr><![CDATA[47000]]></postBr>
+		<adresa><![CDATA[Riječka bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 368]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,475166999999999]]></lat>
+		<lon><![CDATA[15,542583]]></lon>
+		<opis_lokacije><![CDATA[Na staroj cesti Karlovac-Rijeka, 5km od izlaza s autoceste Zagreb-Karlovac u pravcu Rijeke]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP DUGO SELO]]></naziv>
+		<grad><![CDATA[Dugo Selo]]></grad>
+		<postBr><![CDATA[10370]]></postBr>
+		<adresa><![CDATA[Zagrebačka bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 379]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,809699999999999]]></lat>
+		<lon><![CDATA[16,203433]]></lon>
+		<opis_lokacije><![CDATA[Na staroj cesti Zagreb-Sesvete-Dugo Selo, 5 km od izlaza sa auto-ceste prema Dugom Selu]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[15]]></parking>
+		<parking_kamioni><![CDATA[8]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP KOPRIVNICA]]></naziv>
+		<grad><![CDATA[Koprivnica]]></grad>
+		<postBr><![CDATA[48000]]></postBr>
+		<adresa><![CDATA[Križevačka cesta 31c]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 378]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[46,155816999999999]]></lat>
+		<lon><![CDATA[16,807532999999999]]></lon>
+		<opis_lokacije><![CDATA[Na podravskoj Magistrali na ulasku u Koprivnicu iz smjera Zagreba i Osijeka prema Varaždinu]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[16]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP BJELOVAR]]></naziv>
+		<grad><![CDATA[Bjelovar]]></grad>
+		<postBr><![CDATA[43000]]></postBr>
+		<adresa><![CDATA[Velike Sredice 155a]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 371]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,877232999999997]]></lat>
+		<lon><![CDATA[16,814717000000002]]></lon>
+		<opis_lokacije><![CDATA[Na cesti iz centra Bjelovara prema Čazmi]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[5]]></parking>
+		<parking_kamioni><![CDATA[8]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 05:30-23, NED i PRAZ: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP NAŠICE]]></naziv>
+		<grad><![CDATA[Našice]]></grad>
+		<postBr><![CDATA[31500]]></postBr>
+		<adresa><![CDATA[Kralja Petra Krešimira 4a]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 364]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,498266999999998]]></lat>
+		<lon><![CDATA[18,098016999999999]]></lon>
+		<opis_lokacije><![CDATA[Na podravskoj magistrali, našička obilaznica]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[12]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 05-22, NED i PRAZ: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP ZAPREŠIĆ]]></naziv>
+		<grad><![CDATA[Zaprešić]]></grad>
+		<postBr><![CDATA[10290]]></postBr>
+		<adresa><![CDATA[Maršala Tita 132]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 140]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,843933]]></lat>
+		<lon><![CDATA[15,814717]]></lon>
+		<opis_lokacije><![CDATA[Na izlazu iz Zaprešića u smjeru Zagreba, 200 m nakon raskršća za Kaufland]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[23]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP SISAK]]></naziv>
+		<grad><![CDATA[Sisak]]></grad>
+		<postBr><![CDATA[44000]]></postBr>
+		<adresa><![CDATA[Petrinjska bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 6171 266]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,452632999999999]]></lat>
+		<lon><![CDATA[16,371082999999999]]></lon>
+		<opis_lokacije><![CDATA[Na izlazu iz Siska prema Petrinji, 100 m iza trgovač. centra Konzum]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[19]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP OSIJEK 2]]></naziv>
+		<grad><![CDATA[Osijek]]></grad>
+		<postBr><![CDATA[31000]]></postBr>
+		<adresa><![CDATA[Vukovarska 49]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 054]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,554433000000003]]></lat>
+		<lon><![CDATA[18,710882999999999]]></lon>
+		<opis_lokacije><![CDATA[4 km od ulaza u Osijek iz pravca Istoka prema centru grada]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[7]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP PREGRADA]]></naziv>
+		<grad><![CDATA[Pregrada]]></grad>
+		<postBr><![CDATA[49218]]></postBr>
+		<adresa><![CDATA[Janka Leskovara 36/2]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 376]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[46,152099999999997]]></lat>
+		<lon><![CDATA[15,758867]]></lon>
+		<opis_lokacije><![CDATA[Na ulazu u Pregradu iz smjera Krapinskih Toplica]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[15]]></parking>
+		<parking_kamioni><![CDATA[2]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-SUB: 06-22, NED i PRAZ: 08-20]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP KOLAN PAG]]></naziv>
+		<grad><![CDATA[Novalja]]></grad>
+		<postBr><![CDATA[23251]]></postBr>
+		<adresa><![CDATA[Kolan b.b.]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 370]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[44,534367000000003]]></lat>
+		<lon><![CDATA[14,912967]]></lon>
+		<opis_lokacije><![CDATA[Na ulazu u Novalju iz smjera Paga]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[10]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[01.04. - 30.06.:  06-22, 01.07. - 31.08.:  00-24, 01.09. - 30.10.:  06-22,  01.11. - 30.04.: 06-20]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP JARUN]]></naziv>
+		<grad><![CDATA[Zagreb]]></grad>
+		<postBr><![CDATA[10000]]></postBr>
+		<adresa><![CDATA[Horvaćanska 71]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 167]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,788550000000001]]></lat>
+		<lon><![CDATA[15,92445]]></lon>
+		<opis_lokacije><![CDATA[Zapadni dio grada Zagreba, pokraj jezera Jarun paral. sa Zagrebačkom avenijom]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[8]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP JANKOMIR]]></naziv>
+		<grad><![CDATA[Zagreb]]></grad>
+		<postBr><![CDATA[10090]]></postBr>
+		<adresa><![CDATA[Ljubljanska avenija 10]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 141]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,797083000000001]]></lat>
+		<lon><![CDATA[15,8659]]></lon>
+		<opis_lokacije><![CDATA[Na izlazu iz Zagreb-zapad, na Ljubljanskoj aveniji 1 km prije King Crossa]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[14]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP KASTAV]]></naziv>
+		<grad><![CDATA[Kastav]]></grad>
+		<postBr><![CDATA[51215]]></postBr>
+		<adresa><![CDATA[Žegoti bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 374]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,372283000000003]]></lat>
+		<lon><![CDATA[14,357882999999999]]></lon>
+		<opis_lokacije><![CDATA[Na cesti iz Rijeke prema Kastvu u industrijskoj zoni Žegoti]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[25]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP DRAGANIĆ SJEVER]]></naziv>
+		<grad><![CDATA[Karlovac]]></grad>
+		<postBr><![CDATA[47201]]></postBr>
+		<adresa><![CDATA[Draganić bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 6455 571]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,560417000000001]]></lat>
+		<lon><![CDATA[15,607867000000001]]></lon>
+		<opis_lokacije><![CDATA[Na autoputu Zagreb-Karlovac u smjeru Karlovca 5 km prije izlaza za Karlovac]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>True</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[124]]></parking>
+		<parking_kamioni><![CDATA[40]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>True</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP DRAGANIĆ JUG]]></naziv>
+		<grad><![CDATA[Karlovac]]></grad>
+		<postBr><![CDATA[47201]]></postBr>
+		<adresa><![CDATA[Draganić bb]]></adresa>
+		<tel1><![CDATA[+385 (91) 6455 572]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,557049999999997]]></lat>
+		<lon><![CDATA[15,607100000000001]]></lon>
+		<opis_lokacije><![CDATA[Na autoputu Zagreb-Karlovac u  smjeru Zagreba 5 km  poslije izlaza za Karlovac]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>True</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[124]]></parking>
+		<parking_kamioni><![CDATA[40]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>True</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP ZADAR-CENTAR]]></naziv>
+		<grad><![CDATA[Zadar]]></grad>
+		<postBr><![CDATA[23000]]></postBr>
+		<adresa><![CDATA[Ulica 112 Brigade ZNG b.b.]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 052]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[44,114016999999997]]></lat>
+		<lon><![CDATA[15,235633]]></lon>
+		<opis_lokacije><![CDATA[U pravcu Zadar-centar u blizini Cinestara]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>False</LPG>
+		<parking><![CDATA[]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22, 01.07. - 31.08.: 06-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP POŽEGA]]></naziv>
+		<grad><![CDATA[Požega]]></grad>
+		<postBr><![CDATA[34000]]></postBr>
+		<adresa><![CDATA[Industrijska b.b.]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 365]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[45,336333000000003]]></lat>
+		<lon><![CDATA[17,704283]]></lon>
+		<opis_lokacije><![CDATA[U industrijskoj zoni iz  pravca Našica]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[16]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 06-22]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+	<benzinska>
+		<naziv><![CDATA[BP VARAŽDIN]]></naziv>
+		<grad><![CDATA[Varaždin]]></grad>
+		<postBr><![CDATA[42000]]></postBr>
+		<adresa><![CDATA[Optujska 96]]></adresa>
+		<tel1><![CDATA[+385 (91) 4641 358]]></tel1>
+		<tel2><![CDATA[]]></tel2>
+		<lat><![CDATA[46,319282999999999]]></lat>
+		<lon><![CDATA[16,304033]]></lon>
+		<opis_lokacije><![CDATA[Na cesti iz Varaždina prema Mariboru]]></opis_lokacije>
+		<CLASS_euroSUPER_95_BS>True</CLASS_euroSUPER_95_BS>
+		<CLASS_euroSUPER_98_BS>False</CLASS_euroSUPER_98_BS>
+		<CLASS_euroDIESEL_BS>True</CLASS_euroDIESEL_BS>
+		<EuroDiesel_BS>True]</EuroDiesel_BS>
+		<LPG>True</LPG>
+		<parking><![CDATA[21]]></parking>
+		<parking_kamioni><![CDATA[]]></parking_kamioni>
+		<parking_autobusi><![CDATA[]]></parking_autobusi>
+		<radno_vrijeme><![CDATA[PON-NED: 00-24]]></radno_vrijeme>
+		<autoput>False</autoput>
+	</benzinska>
+</export>
