@@ -1,0 +1,7178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CashDispensers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 4</address>
+		<zipcode>32276</zipcode>
+		<city>Babina Greda</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.11528</latitude>
+		<longitude>18.53611</longitude>
+		<Prostor>Euroherc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Primorje 50</address>
+		<zipcode>51222</zipcode>
+		<city>Bakar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.30604</latitude>
+		<longitude>14.53507</longitude>
+		<Prostor>Ex Banka, prostor u vl. Banke</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Emila Geistlicha 39</address>
+		<zipcode>51523</zipcode>
+		<city>Baška</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.96797</latitude>
+		<longitude>14.74891</longitude>
+		<Prostor>Hotel Corinthia</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 114</address>
+		<zipcode>51523</zipcode>
+		<city>Baška</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.97005</latitude>
+		<longitude>14.75315</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Iza Palaca 1</address>
+		<zipcode>21320</zipcode>
+		<city>Baška Voda</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.358613</latitude>
+		<longitude>16.947951</longitude>
+		<Prostor>Imperator samoposluga</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Republike 2</address>
+		<zipcode>31300</zipcode>
+		<city>Beli Manastir</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77112</latitude>
+		<longitude>18.59893</longitude>
+		<Prostor>Trgovina Konikom</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petra Zoranića bb</address>
+		<zipcode>23420</zipcode>
+		<city>Benkovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.03093</latitude>
+		<longitude>15.61193</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bibinje-Sukošan</address>
+		<zipcode>23205</zipcode>
+		<city>Bibinje-Sukošan</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.05590</latitude>
+		<longitude>15.29393</longitude>
+		<Prostor>Marina Dalmacija</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dr. Franje Tuđmana 82</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.94195</latitude>
+		<longitude>15.45282</longitude>
+		<Prostor>Bure centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 4</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.93601</latitude>
+		<longitude>15.44317</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala kralja P. Krešimira IV/38</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.93959</latitude>
+		<longitude>15.43989</longitude>
+		<Prostor>Samostojeći kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Kumenta bb</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.92695</latitude>
+		<longitude>15.45519</longitude>
+		<Prostor>Autokamp Soline</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište kneza Branimira 1</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.93959</latitude>
+		<longitude>15.43989</longitude>
+		<Prostor>Samostojeći kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Andrije Hebranga 2</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90478</latitude>
+		<longitude>16.84813</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franjevačka 11c</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90216</latitude>
+		<longitude>16.84533</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivše Lebovića bb</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90076</latitude>
+		<longitude>16.84456</longitude>
+		<Prostor>Tržnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Križevačka cesta 2</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90526</latitude>
+		<longitude>16.82659</longitude>
+		<Prostor>BP Petrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matice Hrvatske 4</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.89638</latitude>
+		<longitude>16.84024</longitude>
+		<Prostor>Trgovina PPK</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Preradovićeva bb</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.89703</latitude>
+		<longitude>16.84193</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Uplatno-isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Prilaz Andrije Hebranga 11</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.909120</latitude>
+		<longitude>16.854894</longitude>
+		<Prostor>Pekara Oškera</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Slavonska cesta 7</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.89505</latitude>
+		<longitude>16.84996</longitude>
+		<Prostor>Mesnica MAT</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića 26</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90005</latitude>
+		<longitude>16.83905</longitude>
+		<Prostor>Trgovina Auto Dukić</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vlahe Paljetka bb</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.90333</latitude>
+		<longitude>16.85268</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 2</address>
+		<zipcode>21420</zipcode>
+		<city>Bol</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.260765</latitude>
+		<longitude>16.654337</longitude>
+		<Prostor>Kino</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Đ. Basaričeka 9</address>
+		<zipcode>10432</zipcode>
+		<city>Bregana</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83915</latitude>
+		<longitude>15.68656</longitude>
+		<Prostor>Trgovina Prehrana</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bribir 8</address>
+		<zipcode>51253</zipcode>
+		<city>Bribir</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16178</latitude>
+		<longitude>14.76030</longitude>
+		<Prostor>Ugostiteljski objekt "Vepar"</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frankopanska 72</address>
+		<zipcode>53260</zipcode>
+		<city>Brinje</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.99821</latitude>
+		<longitude>15.12428</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Školski trg 3</address>
+		<zipcode>52474</zipcode>
+		<city>Brtonigla</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37870</latitude>
+		<longitude>13.62579</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Umaška cesta bb</address>
+		<zipcode>52474</zipcode>
+		<city>Buje</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.40835</latitude>
+		<longitude>13.65843</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bulinac bb</address>
+		<zipcode>43273</zipcode>
+		<city>Bulinac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81693</latitude>
+		<longitude>16.98051</longitude>
+		<Prostor>Trgovina L.M</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Fontana 8</address>
+		<zipcode>52420</zipcode>
+		<city>Buzet</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.40800</latitude>
+		<longitude>13.96573</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bani bb</address>
+		<zipcode>10010</zipcode>
+		<city>Buzin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.75010</latitude>
+		<longitude>15.99868</longitude>
+		<Prostor>Trgovina Fero-Term</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cons 8</address>
+		<zipcode>51557</zipcode>
+		<city>Cres</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.95865</latitude>
+		<longitude>14.40962</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Melin I/20</address>
+		<zipcode>51557</zipcode>
+		<city>Cres</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.963037</latitude>
+		<longitude>14.396880</longitude>
+		<Prostor>Camp Kovačine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Riva creskih kapetana 3</address>
+		<zipcode>51557</zipcode>
+		<city>Cres</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.96006</latitude>
+		<longitude>14.40823</longitude>
+		<Prostor>Trgovina Fim</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Brozičević 3</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.17396</latitude>
+		<longitude>14.69327</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Buchoffer 18</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.18157</latitude>
+		<longitude>14.68185</longitude>
+		<Prostor>Lord of the Pubs</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gajevo Šetalište 21</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.18597</latitude>
+		<longitude>14.67754</longitude>
+		<Prostor>Hotel Thalassotherapia</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića 1</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.17348</latitude>
+		<longitude>14.69155</longitude>
+		<Prostor>Turistička agencija</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Narodnog oslobođenja 8</address>
+		<zipcode>51306</zipcode>
+		<city>Čabar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.59613</latitude>
+		<longitude>14.64524</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dr. Ivana Novaka 44</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.38469</latitude>
+		<longitude>16.42732</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Gorana Kovačića 1E</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.39600</latitude>
+		<longitude>16.44071</longitude>
+		<Prostor>Bolnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Katarine Zrinski 1</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.39009</latitude>
+		<longitude>16.43827</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tomaša Goričanca 1</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.37962</latitude>
+		<longitude>16.44460</longitude>
+		<Prostor>RK Betex</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka bb</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.38316</latitude>
+		<longitude>16.42947</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Čavle 104</address>
+		<zipcode>51219</zipcode>
+		<city>Čavle</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35724</latitude>
+		<longitude>14.48800</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mavrinci bb</address>
+		<zipcode>51219</zipcode>
+		<city>Čavle</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34771</latitude>
+		<longitude>14.49393</longitude>
+		<Prostor>Metro Cash &amp; Carry</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>6-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 12</address>
+		<zipcode>43240</zipcode>
+		<city>Čazma</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.74791</latitude>
+		<longitude>16.61397</longitude>
+		<Prostor>Pekara Centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Moslavačka 1</address>
+		<zipcode>43240</zipcode>
+		<city>Čazma</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.74924</latitude>
+		<longitude>16.61608</longitude>
+		<Prostor>Autobusni kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 4</address>
+		<zipcode>31431</zipcode>
+		<city>Čepin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.52398</latitude>
+		<longitude>18.57702</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zračna luka Dubrovnik</address>
+		<zipcode>20213</zipcode>
+		<city>Čilipi</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.56079</latitude>
+		<longitude>18.26254</longitude>
+		<Prostor>Zračna luka Čilipi</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stjepana Radića 16</address>
+		<zipcode>43500</zipcode>
+		<city>Daruvar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.59077</latitude>
+		<longitude>17.22326</longitude>
+		<Prostor>Privatno vlasništvo</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg J. Jelačića 1</address>
+		<zipcode>43500</zipcode>
+		<city>Daruvar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.59278</latitude>
+		<longitude>17.22345</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frana Supila 20</address>
+		<zipcode>51300</zipcode>
+		<city>Delnice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.39446</latitude>
+		<longitude>14.79998</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frana Supila 43</address>
+		<zipcode>51300</zipcode>
+		<city>Delnice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.39509</latitude>
+		<longitude>14.80026</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Podštore 1</address>
+		<zipcode>51300</zipcode>
+		<city>Delnice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.393357</latitude>
+		<longitude>14.805408</longitude>
+		<Prostor>Superkonzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Toplička 24</address>
+		<zipcode>49240</zipcode>
+		<city>Donja Stubica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.98140</latitude>
+		<longitude>15.96719</longitude>
+		<Prostor>Knjižara i papirnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Desinec bb</address>
+		<zipcode>10450</zipcode>
+		<city>Donji Desinec</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.66342</latitude>
+		<longitude>15.71178</longitude>
+		<Prostor>BP Petrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kolodvorska 1</address>
+		<zipcode>31540</zipcode>
+		<city>Donji Miholjac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76201</latitude>
+		<longitude>18.16555</longitude>
+		<Prostor>Trgovina Konikom</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gospodarska bb</address>
+		<zipcode>10255</zipcode>
+		<city>Donji Stupnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.74807</latitude>
+		<longitude>15.87985</longitude>
+		<Prostor>Mercatone</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Milovana Muževića 122</address>
+		<zipcode>51265</zipcode>
+		<city>Dramalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.19282</latitude>
+		<longitude>14.66833</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dražice bb</address>
+		<zipcode>51218</zipcode>
+		<city>Dražice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.38947</latitude>
+		<longitude>14.46566</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Veliki Šor bb</address>
+		<zipcode>32257</zipcode>
+		<city>Drenovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.91956</latitude>
+		<longitude>18.91083</longitude>
+		<Prostor>Trgovina BOSO</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address> A.Stepinca 18</address>
+		<zipcode>22320</zipcode>
+		<city>Drniš</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.85978</latitude>
+		<longitude>16.156284</longitude>
+		<Prostor>Trgovina Zvoniša</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Radnička cesta 2a</address>
+		<zipcode>10342</zipcode>
+		<city>Dubrava Vrbovečka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83726</latitude>
+		<longitude>16.53760</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Brsalje 9</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.64197</latitude>
+		<longitude>18.10594</longitude>
+		<Prostor>Tisak Media</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 7</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.65521</latitude>
+		<longitude>18.07724</longitude>
+		<Prostor>Tommy trgovina</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Liechteinsteinov put 3</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.64556</latitude>
+		<longitude>18.09071</longitude>
+		<Prostor>Hotel Libertas Rixos</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Placa 9 (Stradun)</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.641417</latitude>
+		<longitude>18.108524</longitude>
+		<Prostor>Knjižara Algebra </Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 26</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.65157</latitude>
+		<longitude>18.09186</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jozefinska cesta 8</address>
+		<zipcode>47250</zipcode>
+		<city>Duga Resa</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.44706</latitude>
+		<longitude>15.50135</longitude>
+		<Prostor>RK Mrežnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 13</address>
+		<zipcode>10370</zipcode>
+		<city>Dugo Selo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80570</latitude>
+		<longitude>16.23167</longitude>
+		<Prostor>Kladionica Super sport</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 67</address>
+		<zipcode>10370</zipcode>
+		<city>Dugo Selo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80578</latitude>
+		<longitude>16.22555</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zorićeva b.b.</address>
+		<zipcode>10370</zipcode>
+		<city>Dugo Selo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80592</latitude>
+		<longitude>16.24883</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Račkog 95</address>
+		<zipcode>31400</zipcode>
+		<city>Đakovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.30976</latitude>
+		<longitude>18.39730</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pape Ivana Pavla II 19</address>
+		<zipcode>31400</zipcode>
+		<city>Đakovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.30822</latitude>
+		<longitude>18.41174</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Đure Basaričeka 10a</address>
+		<zipcode>48350</zipcode>
+		<city>Đurđevac</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.04304</latitude>
+		<longitude>17.06627</longitude>
+		<Prostor>KTC</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Svetog Jurja 6</address>
+		<zipcode>48350</zipcode>
+		<city>Đurđevac</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.04003</latitude>
+		<longitude>17.06846</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Boraca 2</address>
+		<zipcode>52212</zipcode>
+		<city>Fažana</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.92667</latitude>
+		<longitude>13.80372</longitude>
+		<Prostor>Hotel Fažana</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sveti Križ  8</address>
+		<zipcode>51322</zipcode>
+		<city>Fužine</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.30472</latitude>
+		<longitude>14.71327</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>A.I. Dabe 19</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57458</latitude>
+		<longitude>16.94305</longitude>
+		<Prostor>TC Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 1</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57407</latitude>
+		<longitude>16.94099</longitude>
+		<Prostor>Kineska trgovina</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 29</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57821</latitude>
+		<longitude>16.94047</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Brestovačka 76</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnički Brestovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.60586</latitude>
+		<longitude>16.94725</longitude>
+		<Prostor>Trgovina Brestovac KD</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Eugena Kvaternika 47</address>
+		<zipcode>44400</zipcode>
+		<city>Gerovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.51433</latitude>
+		<longitude>14.64162</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>A. i S. Radića bb</address>
+		<zipcode>44400</zipcode>
+		<city>Glina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33981</latitude>
+		<longitude>16.08964</longitude>
+		<Prostor>FINA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Budačka bb</address>
+		<zipcode>53000</zipcode>
+		<city>Gospić</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.55030</latitude>
+		<longitude>15.37603</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića bb</address>
+		<zipcode>53000</zipcode>
+		<city>Gospić</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.54685</latitude>
+		<longitude>15.37153</longitude>
+		<Prostor>Brodomerkur</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vile Velebita 1</address>
+		<zipcode>53000</zipcode>
+		<city>Gospić</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.54583</latitude>
+		<longitude>15.37335</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gračišće bb</address>
+		<zipcode>52403</zipcode>
+		<city>Gračišće</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.219635</latitude>
+		<longitude>14.00894</longitude>
+		<Prostor>Diona market</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica 1. svibnja 10</address>
+		<zipcode>42429</zipcode>
+		<city>Grožnjan</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37918</latitude>
+		<longitude>13.72275</longitude>
+		<Prostor>Galerija, info punkt</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>N.Š. Zrinskog 3</address>
+		<zipcode>43290</zipcode>
+		<city>Grubišno Polje</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.70232</latitude>
+		<longitude>17.17302</longitude>
+		<Prostor>Trgocentar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Moslavačka 143</address>
+		<zipcode>43284</zipcode>
+		<city>Hercegovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.65525</latitude>
+		<longitude>17.00892</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hreljin bb</address>
+		<zipcode>51226</zipcode>
+		<city>Hreljin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28210</latitude>
+		<longitude>14.59954</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hrvace bb</address>
+		<zipcode>21233</zipcode>
+		<city>Hrvace</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.75767</latitude>
+		<longitude>16.61933</longitude>
+		<Prostor>Mesnica Lovrić</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Marka Miličića 9</address>
+		<zipcode>21450</zipcode>
+		<city>Hvar</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.172838</latitude>
+		<longitude>16.443722</longitude>
+		<Prostor>Komunalno-Hvar d.o.o.</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Liburnijska b.b.</address>
+		<zipcode>51414</zipcode>
+		<city>Ičići</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31248</latitude>
+		<longitude>14.28575</longitude>
+		<Prostor>Samostojeći kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dr.Franje Tuđmana 4</address>
+		<zipcode>32236</zipcode>
+		<city>Ilok</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22386</latitude>
+		<longitude>19.36815</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Glavina Donja 336</address>
+		<zipcode>21260</zipcode>
+		<city>Imotski</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.442481</latitude>
+		<longitude>17.200449</longitude>
+		<Prostor>Park &amp; Shop centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg hrvatskih Ivanovaca 2</address>
+		<zipcode>42240</zipcode>
+		<city>Ivanec</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.22899</latitude>
+		<longitude>16.12398</longitude>
+		<Prostor>FINA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Moslavačka 1</address>
+		<zipcode>10310</zipcode>
+		<city>Ivanić Grad</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.70736</latitude>
+		<longitude>16.39159</longitude>
+		<Prostor>FINA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana Jelačića 5</address>
+		<zipcode>32281</zipcode>
+		<city>Ivankovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28793</latitude>
+		<longitude>18.68363</longitude>
+		<Prostor>TO Plus</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava bb</address>
+		<zipcode>43231</zipcode>
+		<city>Ivanska</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78244</latitude>
+		<longitude>16.80537</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivani bb</address>
+		<zipcode>51264</zipcode>
+		<city>Jadranovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22764</latitude>
+		<longitude>14.61663</longitude>
+		<Prostor>Turistički ured</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Strossmayerov trg 4</address>
+		<zipcode>10450</zipcode>
+		<city>Jastrebarsko</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.67188</latitude>
+		<longitude>15.65121</longitude>
+		<Prostor>Trgovina Telekoming</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ogulinska cesta 12</address>
+		<zipcode>47303</zipcode>
+		<city>Josipdol</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.18834</latitude>
+		<longitude>15.28469</longitude>
+		<Prostor>Općina Josipdol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jurdani 64</address>
+		<zipcode>51213</zipcode>
+		<city>Jurdani</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.39573</latitude>
+		<longitude>14.30994</longitude>
+		<Prostor>Market Jurdani</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Mirka Zeljka 3</address>
+		<zipcode>52352</zipcode>
+		<city>Kanfanar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12311</latitude>
+		<longitude>13.83810</longitude>
+		<Prostor>Turistički ured</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Karigador bb</address>
+		<zipcode>52474</zipcode>
+		<city>Karigador</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35483</latitude>
+		<longitude>13.55752</longitude>
+		<Prostor>Market Karigador</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Andrije Štampara 3</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.47771</latitude>
+		<longitude>15.53913</longitude>
+		<Prostor>Bolnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Banija 88</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.50837</latitude>
+		<longitude>15.54889</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Banija bb</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.51170</latitude>
+		<longitude>15.54746</longitude>
+		<Prostor>BP Petrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dubovac 10</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49563</latitude>
+		<longitude>15.53310</longitude>
+		<Prostor>Feroterm</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josipa Broza 4</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48872</latitude>
+		<longitude>15.54790</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja P. krešimira IV bb</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48266</latitude>
+		<longitude>15.54778</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matka Laginje 1</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.50163</latitude>
+		<longitude>15.54777</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Prilaz Vjećeslava Holjevca 12</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.50631</latitude>
+		<longitude>15.54436</longitude>
+		<Prostor>TC Supernova</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Milana Sufflaya 2</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49295</latitude>
+		<longitude>15.55534</longitude>
+		<Prostor>FINA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kastav bb</address>
+		<zipcode>51215</zipcode>
+		<city>Kastav</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37269</latitude>
+		<longitude>14.34881</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rubeši bb</address>
+		<zipcode>51215</zipcode>
+		<city>Kastav</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.36484</latitude>
+		<longitude>14.34568</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište kralja Tomislava 1</address>
+		<zipcode>21213</zipcode>
+		<city>Kaštel Gomilica</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.54641</latitude>
+		<longitude>16.40441</longitude>
+		<Prostor>Marina Kaštela</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Krešimira 1</address>
+		<zipcode>21214</zipcode>
+		<city>Kaštel Kambelovac</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.55006</latitude>
+		<longitude>16.38523</longitude>
+		<Prostor>Trgovina Ribola</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Tuđmana bb</address>
+		<zipcode>21216</zipcode>
+		<city>Kaštel Stari</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.55247</latitude>
+		<longitude>16.34248</longitude>
+		<Prostor>Caffe bar Piccolo</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Tuđmana 7</address>
+		<zipcode>21212</zipcode>
+		<city>Kaštel Sućurac</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.53984</latitude>
+		<longitude>16.44960</longitude>
+		<Prostor>Mercatone</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>9-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cesta Franje Tuđmana 96</address>
+		<zipcode>21216</zipcode>
+		<city>Kaštel Štafilić</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.53659</latitude>
+		<longitude>16.29908</longitude>
+		<Prostor>Zračna luka Split - Resnik</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg svetog Nikole</address>
+		<zipcode>22305 </zipcode>
+		<city>Kistanje</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.981158</latitude>
+		<longitude>15.960281</longitude>
+		<Prostor>Općina</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Klana 36</address>
+		<zipcode>51217</zipcode>
+		<city>Klana</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.44648</latitude>
+		<longitude>14.37580</longitude>
+		<Prostor>Kino</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 2</address>
+		<zipcode>22300</zipcode>
+		<city>Knin</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.04267</latitude>
+		<longitude>16.19790</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Ante Starčevića 1</address>
+		<zipcode>22300</zipcode>
+		<city>Knin</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.03553</latitude>
+		<longitude>16.19780</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica baruna Eugena Ransonne 2a</address>
+		<zipcode>21485</zipcode>
+		<city>Komiža</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.04509</latitude>
+		<longitude>16.09032</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Antuna Nemčića 1</address>
+		<zipcode>48000</zipcode>
+		<city>Koprivnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.16343</latitude>
+		<longitude>16.82966</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni - DNT</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Česmičkog 26</address>
+		<zipcode>48000</zipcode>
+		<city>Koprivnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.171034</latitude>
+		<longitude>16.819553</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Željka Selingera 2</address>
+		<zipcode>48000</zipcode>
+		<city>Koprivnica</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.16169</latitude>
+		<longitude>16.83731</longitude>
+		<Prostor>Varteks</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Plokata bb</address>
+		<zipcode>20260</zipcode>
+		<city>Korčula</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.960144</latitude>
+		<longitude>17.135721</longitude>
+		<Prostor>Kantun Tours</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josipa Jovića bb</address>
+		<zipcode>53230</zipcode>
+		<city>Korenica</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.74359</latitude>
+		<longitude>15.70762</longitude>
+		<Prostor>Restoran Macola</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šodići 2</address>
+		<zipcode>51221</zipcode>
+		<city>Kostrena</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31007</latitude>
+		<longitude>14.48894</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vrh Martinšćice bb</address>
+		<zipcode>51221</zipcode>
+		<city>Kostrena</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31055</latitude>
+		<longitude>14.48444</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Palih boraca 2</address>
+		<zipcode>51262</zipcode>
+		<city>Kraljevica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.27296</latitude>
+		<longitude>14.56905</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zahrustica 10</address>
+		<zipcode>51262</zipcode>
+		<city>Kraljevica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.27194</latitude>
+		<longitude>14.57666</longitude>
+		<Prostor>BP Petrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frana Galovića 9</address>
+		<zipcode>49000</zipcode>
+		<city>Krapina</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.16379</latitude>
+		<longitude>15.86667</longitude>
+		<Prostor>NTL</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>07-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gajeva 7</address>
+		<zipcode>49217</zipcode>
+		<city>Krapinske toplice</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.08888</latitude>
+		<longitude>15.83790</longitude>
+		<Prostor>Salon za masažu</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krasica 152</address>
+		<zipcode>52640</zipcode>
+		<city>Krasica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31181</latitude>
+		<longitude>14.55169</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava bb</address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.01426</latitude>
+		<longitude>16.54605</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nikole Tesle 18</address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02298</latitude>
+		<longitude>16.55521</longitude>
+		<Prostor>KTC</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Josipa Jurja Strossmayera 1</address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02590</latitude>
+		<longitude>16.54305</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg sv. Florijana 1</address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02251</latitude>
+		<longitude>16.54571</longitude>
+		<Prostor>KTC</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Industrijska zona b.b.</address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22243</latitude>
+		<longitude>14.56890</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stjepana Radića 1/b </address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.02674</latitude>
+		<longitude>14.57290</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni - DNT</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Svetog Bernardina b.b.</address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.02065</latitude>
+		<longitude>14.56999</longitude>
+		<Prostor>Trgovina Krk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana J.Jelačića</address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.02600</latitude>
+		<longitude>14.57347</longitude>
+		<Prostor>Samostojeći kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pristav 59</address>
+		<zipcode>51500</zipcode>
+		<city>Kršan</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.17394</latitude>
+		<longitude>14.13913</longitude>
+		<Prostor>Market Pristav</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kukuljanovo bb</address>
+		<zipcode>51227</zipcode>
+		<city>Kukuljanovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33678</latitude>
+		<longitude>14.50751</longitude>
+		<Prostor>Bauhaus</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja P. Krešimira IV 9D</address>
+		<zipcode>44230</zipcode>
+		<city>Kutina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.47890</latitude>
+		<longitude>16.77775</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 5</address>
+		<zipcode>44230</zipcode>
+		<city>Kutina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48281</latitude>
+		<longitude>16.77612</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka bb</address>
+		<zipcode>44230</zipcode>
+		<city>Kutina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48246</latitude>
+		<longitude>16.76505</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Istarska 50</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.10559</latitude>
+		<longitude>14.11673</longitude>
+		<Prostor>TC Mercator</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-21 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Prilaz Kikova 1</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.09990</latitude>
+		<longitude>14.11668</longitude>
+		<Prostor>Market Kature</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rudarska 8</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.09220</latitude>
+		<longitude>14.12073</longitude>
+		<Prostor>Euroherc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Štrmac b.b.</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.11989</latitude>
+		<longitude>14.12020</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Titov trg 10</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08564</latitude>
+		<longitude>14.12061</longitude>
+		<Prostor>Trgovina Letro file 1</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vinež bb</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.09722</latitude>
+		<longitude>14.10851</longitude>
+		<Prostor>Market Jedinstvo</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zelenice 3</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.09061</latitude>
+		<longitude>14.12340</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni - DNT</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Marije Terezije 5</address>
+		<zipcode>34551</zipcode>
+		<city>Lipik</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.41406</latitude>
+		<longitude>17.16197</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Istarske toplice</address>
+		<zipcode>52427</zipcode>
+		<city>Livade</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35552</latitude>
+		<longitude>13.82818</longitude>
+		<Prostor>Hotel Mirna</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rudolfa Strohala 118</address>
+		<zipcode>51316</zipcode>
+		<city>Lokve</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35800</latitude>
+		<longitude>14.74885</longitude>
+		<Prostor>Turistički ured Lokve</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lopar bb</address>
+		<zipcode>51281</zipcode>
+		<city>Lopar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.82944</latitude>
+		<longitude>14.72972</longitude>
+		<Prostor>Maxi Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maršala Tita 41</address>
+		<zipcode>51281</zipcode>
+		<city>Lovran</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.29274</latitude>
+		<longitude>14.27669</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Prigorska 1</address>
+		<zipcode>51415</zipcode>
+		<city>Ludbreg</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.24261</latitude>
+		<longitude>16.62613</longitude>
+		<Prostor>Trgonom</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lupoglav bb</address>
+		<zipcode>42230</zipcode>
+		<city>Lupoglav</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35316</latitude>
+		<longitude>14.10617</longitude>
+		<Prostor>Diona market</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<address>Vladimira Nazora 61</address>
+		<zipcode>35257</zipcode>
+		<city>Lužani</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16702</latitude>
+		<longitude>17.70204</longitude>
+		<Prostor>Sklad boja</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ante Starčevića 32</address>
+		<zipcode>10370</zipcode>
+		<city>Makarska</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.29407</latitude>
+		<longitude>17.02135</longitude>
+		<Prostor>TC Sv. Nikola</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mala Buna bb</address>
+		<zipcode>21300</zipcode>
+		<city>Mala Buna</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.64394</latitude>
+		<longitude>16.05505</longitude>
+		<Prostor>Mercator</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kadin bb</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.54153</latitude>
+		<longitude>14.46543</longitude>
+		<Prostor>Turistička agencija Cappelli</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kalvarija bb</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.52518</latitude>
+		<longitude>14.47032</longitude>
+		<Prostor>Diskont Jadranka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Riva lošinjskih kapetana 4</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.53416</latitude>
+		<longitude>14.46765</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sunčana uvala bb</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.52312</latitude>
+		<longitude>14.45915</longitude>
+		<Prostor>Hotel Aurora</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Zagazinjine 1</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.53494</latitude>
+		<longitude>14.47172</longitude>
+		<Prostor>Turistička agencija Puntarka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lina Bolmarčića 33</address>
+		<zipcode>51511</zipcode>
+		<city>Malinska</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12427</latitude>
+		<longitude>14.52620</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sv.Vida bb</address>
+		<zipcode>51511</zipcode>
+		<city>Malinska</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.13481</latitude>
+		<longitude>14.54596</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nova cesta bb</address>
+		<zipcode>49249</zipcode>
+		<city>Marija Bistrica</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.00536</latitude>
+		<longitude>16.11920</longitude>
+		<Prostor>RK Bistričanka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ante Rudana 39</address>
+		<zipcode>21222</zipcode>
+		<city>Marina</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51363</latitude>
+		<longitude>16.06328</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Martinšćica bb</address>
+		<zipcode>51556</zipcode>
+		<city>Martinšćica</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.81889</latitude>
+		<longitude>14.35082</longitude>
+		<Prostor>Market Cresanka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kastavska cesta 15</address>
+		<zipcode>51211</zipcode>
+		<city>Matulji</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.36615</latitude>
+		<longitude>14.33160</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg M. Tita 9</address>
+		<zipcode>51211</zipcode>
+		<city>Matulji</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.36358</latitude>
+		<longitude>14.32447</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Maršala Tita 9</address>
+		<zipcode>51211</zipcode>
+		<city>Matulji</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.36358</latitude>
+		<longitude>14.32447</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Munida bb</address>
+		<zipcode>52203</zipcode>
+		<city>Medulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.82594</latitude>
+		<longitude>13.93171</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Medveja bb</address>
+		<zipcode>51415</zipcode>
+		<city>Medveja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.27079</latitude>
+		<longitude>14.26894</longitude>
+		<Prostor>Autokamp Medveja</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matice hrvatske 2</address>
+		<zipcode>20350</zipcode>
+		<city>Metković</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.053755</latitude>
+		<longitude>17.648157</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Narone 9</address>
+		<zipcode>20350</zipcode>
+		<city>Metković</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.058476</latitude>
+		<longitude>17.647675</longitude>
+		<Prostor>Pekara Dragina pogača</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Srebreno bb</address>
+		<zipcode>20207</zipcode>
+		<city>Mlini</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.62389</latitude>
+		<longitude>18.20611</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Od izvora 64</address>
+		<zipcode>20236</zipcode>
+		<city>Mokošica</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.67560</latitude>
+		<longitude>18.11249</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 32</address>
+		<zipcode>48327</zipcode>
+		<city>Molve</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.10661</latitude>
+		<longitude>17.03064</longitude>
+		<Prostor>Euroherc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Školska 9</address>
+		<zipcode>51325</zipcode>
+		<city>Moravice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.42629</latitude>
+		<longitude>15.00936</longitude>
+		<Prostor>Ex Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Aleja Slatina 2</address>
+		<zipcode>51417</zipcode>
+		<city>Mošćenička Draga</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.23692</latitude>
+		<longitude>14.25375</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josefa Resela bb</address>
+		<zipcode>52100</zipcode>
+		<city>Motovun</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33683</latitude>
+		<longitude>13.82783</longitude>
+		<Prostor>Caffe bar Montona-Gallery</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nova Varoš 1</address>
+		<zipcode>51315</zipcode>
+		<city>Mrkopalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31560</latitude>
+		<longitude>14.85358</longitude>
+		<Prostor>Ex Banka, prostor u vl. Banke</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josipa Broza bb</address>
+		<zipcode>40315</zipcode>
+		<city>Mursko Središće</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.51315</latitude>
+		<longitude>16.43921</longitude>
+		<Prostor>Mercator</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Rudina 6</address>
+		<zipcode>22243</zipcode>
+		<city>Murter</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.822762</latitude>
+		<longitude>15.591820</longitude>
+		<Prostor>Tureta tours</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg dr. Šime Vlašića 3</address>
+		<zipcode>22243</zipcode>
+		<city>Murter-Tisno</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.79887</latitude>
+		<longitude>15.64121</longitude>
+		<Prostor>Hotel Borovnik</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Radića 2a</address>
+		<zipcode>31500</zipcode>
+		<city>Našice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49049</latitude>
+		<longitude>18.09418</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nerezinskih pomoraca bb</address>
+		<zipcode>51554</zipcode>
+		<city>Nerezine</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.66021</latitude>
+		<longitude>14.39731</longitude>
+		<Prostor>Market Jadranka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala nerezinskih pomoraca 3</address>
+		<zipcode>51554</zipcode>
+		<city>Nerezine</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.65930</latitude>
+		<longitude>14.39813</longitude>
+		<Prostor>Agencija Marina Nerezine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>M. Benkovića 34</address>
+		<zipcode>35400</zipcode>
+		<city>Nova gradiška</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.25552</latitude>
+		<longitude>17.38487</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića 58</address>
+		<zipcode>43272</zipcode>
+		<city>Nova Rača</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79919</latitude>
+		<longitude>16.95414</longitude>
+		<Prostor>Trgovina PPK</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Radića 2</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.55860</latitude>
+		<longitude>14.88032</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kamp Straško bb</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.538512</latitude>
+		<longitude>14.885879</longitude>
+		<Prostor>Autokamp Straško</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Slatinska 3</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.552650</latitude>
+		<longitude>14.884876</longitude>
+		<Prostor>Kerum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Špital bb</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.54974</latitude>
+		<longitude>14.89574</longitude>
+		<Prostor>TC Hiper Novalis</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Uvala Zrće</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.538705</latitude>
+		<longitude>14.914868</longitude>
+		<Prostor>Samostojeći kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Varaždinska 5</address>
+		<zipcode>42220</zipcode>
+		<city>Novi Marof</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.15156</latitude>
+		<longitude>16.36544</longitude>
+		<Prostor>RK Trgonom</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Antona Mataije bb</address>
+		<zipcode>51250</zipcode>
+		<city>Novi Vinodolski</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.13194</latitude>
+		<longitude>14.78305</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Korzo hrvatskih branitelja 47</address>
+		<zipcode>51250</zipcode>
+		<city>Novi Vinodolski</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12856</latitude>
+		<longitude>14.78983</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 6</address>
+		<zipcode>51250</zipcode>
+		<city>Novi Vinodolski</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12509</latitude>
+		<longitude>14.79367</longitude>
+		<Prostor>Turistički ured</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mandrač 27</address>
+		<zipcode>52466</zipcode>
+		<city>Novigrad</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.315898</latitude>
+		<longitude>13.561061</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica Carlotte Grisi 1</address>
+		<zipcode>52466</zipcode>
+		<city>Novigrad</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.319353</latitude>
+		<longitude>13.569038</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Radnička 2b</address>
+		<zipcode>44330</zipcode>
+		<city>Novska</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34577</latitude>
+		<longitude>16.96753</longitude>
+		<Prostor>Magic Shop</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Primorska cesta 30</address>
+		<zipcode>51512</zipcode>
+		<city>Njivice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16559</latitude>
+		<longitude>14.54529</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ribarska obala 4/6</address>
+		<zipcode>51512</zipcode>
+		<city>Njivice</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.164596</latitude>
+		<longitude>14.541038</longitude>
+		<Prostor>Hotel Miramare</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bolnička 38</address>
+		<zipcode>47300</zipcode>
+		<city>Ogulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.25741</latitude>
+		<longitude>15.23176</longitude>
+		<Prostor>Opća bolnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gajeva 4</address>
+		<zipcode>47300</zipcode>
+		<city>Ogulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.26515</latitude>
+		<longitude>15.22574</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nova cesta b.b.</address>
+		<zipcode>47300</zipcode>
+		<city>Ogulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.15518</latitude>
+		<longitude>15.13124</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg F. Tuđmana 1</address>
+		<zipcode>47300</zipcode>
+		<city>Ogulin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.26617</latitude>
+		<longitude>15.23087</longitude>
+		<Prostor>Željeznički kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište Stjepana Radića bb</address>
+		<zipcode>21223</zipcode>
+		<city>Okrug Gornji - Čiovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.49677</latitude>
+		<longitude>16.26131</longitude>
+		<Prostor>Tommy</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava bb</address>
+		<zipcode>21310</zipcode>
+		<city>Omiš</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.44145</latitude>
+		<longitude>16.69338</longitude>
+		<Prostor>Euroherc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Medermunići 2</address>
+		<zipcode>51513</zipcode>
+		<city>Omišalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.21066</latitude>
+		<longitude>14.55621</longitude>
+		<Prostor>Trgovina Krk market</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pušća 150</address>
+		<zipcode>51513</zipcode>
+		<city>Omišalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.21751</latitude>
+		<longitude>14.56476</longitude>
+		<Prostor>TC Omišalj</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Feliksa Peršića 5</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34020</latitude>
+		<longitude>14.31179</longitude>
+		<Prostor>Hotel Ambasador</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maršala Tita 166a</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33156</latitude>
+		<longitude>14.30218</longitude>
+		<Prostor>TC Slatina</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maršala Tita 200</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33236</latitude>
+		<longitude>14.30262</longitude>
+		<Prostor>Hotel Palace</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maršala Tita bb</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32821</latitude>
+		<longitude>14.30008</longitude>
+		<Prostor>Hotel Admiral</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nova cesta 68</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34406</latitude>
+		<longitude>14.31120</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost> 0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vjekoslava Spinčića 1</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33839</latitude>
+		<longitude>14.30875</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stanka Parmaća 10</address>
+		<zipcode>20355</zipcode>
+		<city>Opuzen</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.016607</latitude>
+		<longitude>17.560460</longitude>
+		<Prostor>Mesnica Pivac</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg sv.Florijana 4</address>
+		<zipcode>33515</zipcode>
+		<city>Orahovica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.531040</latitude>
+		<longitude>17.883330</longitude>
+		<Prostor>Pekara</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Na moru 1</address>
+		<zipcode>20234</zipcode>
+		<city>Orašac</city>
+		<own_atm>yes</own_atm>
+		<latitude>42.69557</latitude>
+		<longitude>18.01786</longitude>
+		<Prostor>Hotel Dubrovački vrtovi sunca</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Milana Prpića 65</address>
+		<zipcode>49243</zipcode>
+		<city>Oroslavlje</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.99749</latitude>
+		<longitude>15.91501</longitude>
+		<Prostor>Trgostil</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Josipa Reihla-Kira 40</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.54474</latitude>
+		<longitude>18.70992</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kapucinska ulica 26</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56096</latitude>
+		<longitude>18.68249</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ribarska 2</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56197</latitude>
+		<longitude>18.67669</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sjenjak 133</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.551488</latitude>
+		<longitude>18.695834</longitude>
+		<Prostor>RK Sjenjak</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Strossmayerova 167</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56330</latitude>
+		<longitude>18.65637</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Strossmayerova 343</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56328</latitude>
+		<longitude>18.62699</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sv. Leopolda Bogdana Mandića bb</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.54736</latitude>
+		<longitude>18.65603</longitude>
+		<Prostor>Avenue Mall</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sv.L.B.Mandića 7</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.55377</latitude>
+		<longitude>18.67571</longitude>
+		<Prostor>TC Spar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana Jelačića 3</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.55619</latitude>
+		<longitude>18.71669</longitude>
+		<Prostor>Trgovina Desetica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Generala Nikole Maštrovića 9</address>
+		<zipcode>53220</zipcode>
+		<city>Otočac</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.87157</latitude>
+		<longitude>15.23651</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 16</address>
+		<zipcode>53220</zipcode>
+		<city>Otočac</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.86954</latitude>
+		<longitude>15.23746</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 17</address>
+		<zipcode>53220</zipcode>
+		<city>Otočac</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.86919</latitude>
+		<longitude>15.23338</longitude>
+		<Prostor>Turistička zajednica grada Otočca</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 6A</address>
+		<zipcode>32252</zipcode>
+		<city>Otok</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.14751</latitude>
+		<longitude>18.88417</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kurilovac 11</address>
+		<zipcode>47280</zipcode>
+		<city>Ozalj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.61270</latitude>
+		<longitude>15.47870</longitude>
+		<Prostor>BP Petrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kneževa 2</address>
+		<zipcode>23250</zipcode>
+		<city>Pag</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.44374</latitude>
+		<longitude>15.05391</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka bb</address>
+		<zipcode>23250</zipcode>
+		<city>Pag</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.44139</latitude>
+		<longitude>15.05857</longitude>
+		<Prostor>TC Lorenco</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jadranska magistrala bb</address>
+		<zipcode>23211</zipcode>
+		<city>Pakoštane</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.91249</latitude>
+		<longitude>15.51381</longitude>
+		<Prostor>BP Petrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gojka Šuška 10</address>
+		<zipcode>34550</zipcode>
+		<city>Pakrac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43806</latitude>
+		<longitude>17.19269</longitude>
+		<Prostor>Frizerski salon Lepka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg dr. I: Šredera 1</address>
+		<zipcode>34550</zipcode>
+		<city>Pakrac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43902</latitude>
+		<longitude>17.19149</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>25.rujan 17</address>
+		<zipcode>52000</zipcode>
+		<city>Pazin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.24003</latitude>
+		<longitude>13.93733</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rogovići bb</address>
+		<zipcode>52000</zipcode>
+		<city>Pazin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.23410</latitude>
+		<longitude>13.94882</longitude>
+		<Prostor>BP Etradex</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg slobode bb</address>
+		<zipcode>52000</zipcode>
+		<city>Pazin</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.24010</latitude>
+		<longitude>13.93624</longitude>
+		<Prostor>Kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zrinskih i Frankopana 61</address>
+		<zipcode>53202</zipcode>
+		<city>Perušić</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.64881</latitude>
+		<longitude>15.38461</longitude>
+		<Prostor>Poljoprivredna apoteka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petrčane bb</address>
+		<zipcode>23231</zipcode>
+		<city>Petrčane</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.18713</latitude>
+		<longitude>15.18208</longitude>
+		<Prostor>BP Europetrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Turkulinova 33</address>
+		<zipcode>44250</zipcode>
+		<city>Petrinja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.44155</latitude>
+		<longitude>16.28124</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 19</address>
+		<zipcode>44250</zipcode>
+		<city>Petrinja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43980</latitude>
+		<longitude>16.27866</longitude>
+		<Prostor>Lonia</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 19</address>
+		<zipcode>33405</zipcode>
+		<city>Pitomača</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.95248</latitude>
+		<longitude>17.23341</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>143. domobranske pukovnije 4</address>
+		<zipcode>47304</zipcode>
+		<city>Plaški</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.04572</latitude>
+		<longitude>15.21536</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Šveara 45</address>
+		<zipcode>34310</zipcode>
+		<city>Pleternica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28417</latitude>
+		<longitude>17.80143</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala neretljanskih gusara 4</address>
+		<zipcode>20340</zipcode>
+		<city>Ploče</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.051235</latitude>
+		<longitude>17.434487</longitude>
+		<Prostor>Stambena zgrada</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poljičkih knezova bb</address>
+		<zipcode>21312</zipcode>
+		<city>Podstrana</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.495495</latitude>
+		<longitude>16.538056</longitude>
+		<Prostor>Pekara Bimita</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Erdödya bb</address>
+		<zipcode>44317</zipcode>
+		<city>Popovača</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.57388</latitude>
+		<longitude>16.62746</longitude>
+		<Prostor>Salon namještaja</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Facinka bb</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.230139</latitude>
+		<longitude>13.616889</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gržina bb</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.20893</latitude>
+		<longitude>13.59222</longitude>
+		<Prostor>Hotel Galijot</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Joakima Rakovca 21</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22666</latitude>
+		<longitude>13.59750</longitude>
+		<Prostor>Klub umirovljenika Galija</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Materada 35</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.24512</latitude>
+		<longitude>13.59954</longitude>
+		<Prostor>Hotel Materada</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pietro Candler 11</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.22588</latitude>
+		<longitude>13.59582</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Špadići bb</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.241566</latitude>
+		<longitude>13.601332</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 2</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.227071</latitude>
+		<longitude>13.596439</longitude>
+		<Prostor>Kozmo</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zelena laguna</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.19570</latitude>
+		<longitude>13.58871</longitude>
+		<Prostor>Autokamp Zelena laguna</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zelena laguna bb</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.20367</latitude>
+		<longitude>13.58783</longitude>
+		<Prostor>Hotel Parentium</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Potpićan 7</address>
+		<zipcode>52333</zipcode>
+		<city>Potpićan</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.19268</latitude>
+		<longitude>14.09434</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bana Jelačića bb</address>
+		<zipcode>23249</zipcode>
+		<city>Povljana</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.34549</latitude>
+		<longitude>15.11388</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cehovska 8</address>
+		<zipcode>34000</zipcode>
+		<city>Požega</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33212</latitude>
+		<longitude>17.67669</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka bb</address>
+		<zipcode>34000</zipcode>
+		<city>Požega</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33936</latitude>
+		<longitude>17.68273</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pavla Radića 44a</address>
+		<zipcode>34000</zipcode>
+		<city>Požega</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33985</latitude>
+		<longitude>17.66710</longitude>
+		<Prostor>KTC</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Martinovih 2</address>
+		<zipcode>23273</zipcode>
+		<city>Preko</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.075697</latitude>
+		<longitude>15.194135</longitude>
+		<Prostor>Jadrolinija</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>5-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Glavna 53</address>
+		<zipcode>40323</zipcode>
+		<city>Prelog</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.33731</latitude>
+		<longitude>16.61360</longitude>
+		<Prostor>Osiguranje Triglav</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Goranska 79</address>
+		<zipcode>51307</zipcode>
+		<city>Prezid</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.63856</latitude>
+		<longitude>14.57680</longitude>
+		<Prostor>Zavičajna zbirka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Stjepana Radića 1</address>
+		<zipcode>23226</zipcode>
+		<city>Pridraga</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.14315</latitude>
+		<longitude>15.58565</longitude>
+		<Prostor>Mjesni odbor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Josipa Arnerića 2</address>
+		<zipcode>22202</zipcode>
+		<city>Primošten</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.58606</latitude>
+		<longitude>15.92245</longitude>
+		<Prostor>Turistička zajednica Primošten</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cesta prekomorskih brigada 12</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.84303</latitude>
+		<longitude>13.84363</longitude>
+		<Prostor>Marina Veruda</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ciscuttijeva 15</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.86776</latitude>
+		<longitude>13.84803</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Giardini 6</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.86931</latitude>
+		<longitude>13.84861</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jurja Žakna 3</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.87775</latitude>
+		<longitude>13.86396</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Riva 14</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.87274</latitude>
+		<longitude>13.84625</longitude>
+		<Prostor>Euromarine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Santoriova 13</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.868021</latitude>
+		<longitude>13.863523</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šijanska cesta 1</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.884078</latitude>
+		<longitude>13.869317</longitude>
+		<Prostor>TC Mercator</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tomasinijeva 32</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.85623</latitude>
+		<longitude>13.83818</longitude>
+		<Prostor>Mana</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala 87</address>
+		<zipcode>51521</zipcode>
+		<city>Punat</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.02171</latitude>
+		<longitude>14.62840</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Puntica 7</address>
+		<zipcode>51521</zipcode>
+		<city>Punat</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.02961</latitude>
+		<longitude>14.62827</longitude>
+		<Prostor>Marina Punat</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Banjol 165</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.46028</latitude>
+		<longitude>14.76655</longitude>
+		<Prostor>TC Petra</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-20</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mali Palit bb</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.76130</latitude>
+		<longitude>14.75989</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište  Dominisa 5</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.75909</latitude>
+		<longitude>14.75917</longitude>
+		<Prostor>Turistička agencija Eros Rab</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Municipium Arbe bb</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.75555</latitude>
+		<longitude>14.76194</longitude>
+		<Prostor>Caffe bar Velum Arba</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala M.Tita bb</address>
+		<zipcode>52221</zipcode>
+		<city>Rabac</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07813</latitude>
+		<longitude>14.15915</longitude>
+		<Prostor>Diona market</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nikole tesle bb</address>
+		<zipcode>52223</zipcode>
+		<city>Raša</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08043</latitude>
+		<longitude>14.08374</longitude>
+		<Prostor>Općina</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>I.G. Kovačića 219</address>
+		<zipcode>51314</zipcode>
+		<city>Ravna Gora</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37310</latitude>
+		<longitude>17.93461</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ante Starčevića 4</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32594</latitude>
+		<longitude>14.44529</longitude>
+		<Prostor>Javnobilježnički ured V. Panjković</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bartola Kašića 4</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35538</latitude>
+		<longitude>14.36638</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bože Vidasa 14</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34440</latitude>
+		<longitude>14.38026</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cvetkov trg 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35366</latitude>
+		<longitude>14.43162</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Drage Gervaisa 39</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31974</latitude>
+		<longitude>14.46894</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>F. la Guardia 11</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33054</latitude>
+		<longitude>14.43448</longitude>
+		<Prostor>Tommy</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Fiumara 11</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32645</latitude>
+		<longitude>14.44662</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frana Supila 6</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32800</latitude>
+		<longitude>14.44166</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frane Kurelca 8</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32866</latitude>
+		<longitude>14.44051</longitude>
+		<Prostor>FINA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Frankopanski trg 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33128</latitude>
+		<longitude>14.45665</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Belulovića 5</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32291</latitude>
+		<longitude>14.47897</longitude>
+		<Prostor>RK "Vežica"</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Čandeka 32f</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34032</latitude>
+		<longitude>14.40938</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Istarska 50</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34169</latitude>
+		<longitude>14.37284</longitude>
+		<Prostor>Pekara</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Zajca 9</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32531</latitude>
+		<longitude>14.44284</longitude>
+		<Prostor>Transadria</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>J.P.Kamova 81</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31779</latitude>
+		<longitude>14.46896</longitude>
+		<Prostor>TC Tower centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>9-22 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jadranski trg 3a</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32792</latitude>
+		<longitude>14.43893</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatno (0-24) - uplatni (8-19) - DNT</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Janka Polić Kamova 19</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.3204172</latitude>
+		<longitude>14.4637752</longitude>
+		<Prostor>Kontakt centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Koblerov trg 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32673</latitude>
+		<longitude>14.44268</longitude>
+		<Prostor>RK " Korzo"</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krešimirova 42</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33271</latitude>
+		<longitude> 14.42654</longitude>
+		<Prostor>KBC Rijeka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krešimirova 52</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.332131</latitude>
+		<longitude>14.425591</longitude>
+		<Prostor>Zavod za javno zdravstvo</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kvaternikova 62</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32051</latitude>
+		<longitude>14.47513</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Martina Kontuša 5</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32460</latitude>
+		<longitude>14.46959</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mihanovićeva 44</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32360</latitude>
+		<longitude>14.46652</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Milutina Bataje 16</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34703</latitude>
+		<longitude>14.37787</longitude>
+		<Prostor>Privatna kuća</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Miroslava Krleže 16</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35476</latitude>
+		<longitude>14.36943</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Nikole Tesle 11</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33220</latitude>
+		<longitude>14.43128</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka 50</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33998</latitude>
+		<longitude>14.42768</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka 67b</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34989</latitude>
+		<longitude>14.41834</longitude>
+		<Prostor>Drive In</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pehlin 46</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35102</latitude>
+		<longitude>14.40699</longitude>
+		<Prostor>Market Birota</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petra Jurčića 2a</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34193</latitude>
+		<longitude>14.39132</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pilepići 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34952</latitude>
+		<longitude>14.38870</longitude>
+		<Prostor>Market Slavica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pomerio 10A</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32974</latitude>
+		<longitude>14.44116</longitude>
+		<Prostor>Uni-Rent</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Primorska 20</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35121</latitude>
+		<longitude>14.38162</longitude>
+		<Prostor>Trgovina Birota</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pulska 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33726</latitude>
+		<longitude>14.38884</longitude>
+		<Prostor>Brodogradilište 3. Maj</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Riva 6</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32676</latitude>
+		<longitude>14.44202</longitude>
+		<Prostor>RK RI</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>S.Krautzeka bb</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32753</latitude>
+		<longitude>14.46520</longitude>
+		<Prostor>Sveučilišni kampus</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stanka Frankovića 9</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35284</latitude>
+		<longitude>14.43013</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tizianova 2</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33372</latitude>
+		<longitude>14.43787</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tome Strižića 3</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32574</latitude>
+		<longitude>14.47017</longitude>
+		<Prostor>KBC Sušak</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33031</latitude>
+		<longitude>14.43013</longitude>
+		<Prostor>Željeznički kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vere Bratonje 28</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34035</latitude>
+		<longitude>14.38541</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Volčićev trg 2</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33300</latitude>
+		<longitude>14.44192</longitude>
+		<Prostor>Mjesni odbor Kozala</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 87</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34260</latitude>
+		<longitude>14.41339</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zametska 44</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34055</latitude>
+		<longitude>14.39802</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zvonimirova 3</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33751</latitude>
+		<longitude>14.40861</longitude>
+		<Prostor>ZTC</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-21 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zvonimirova 6b</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.33413</latitude>
+		<longitude>14.42235</longitude>
+		<Prostor>Frizerski salon "In"</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Žabica 2</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32761</latitude>
+		<longitude>14.43728</longitude>
+		<Prostor>Autobusni kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Roč bb</address>
+		<zipcode>52425</zipcode>
+		<city>Roč</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.395105</latitude>
+		<longitude>14.044851</longitude>
+		<Prostor>Društveni dom</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Božić 4c</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08083</latitude>
+		<longitude>13.65444</longitude>
+		<Prostor>TC Mercator</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Cesta za Valaltu Lim bb</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.12459</latitude>
+		<longitude>13.62296</longitude>
+		<Prostor>Autokamp Valalta</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Fažanska 2</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08174</latitude>
+		<longitude>13.65589</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Giordano Paliaga 2</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08495</latitude>
+		<longitude>13.63718</longitude>
+		<Prostor>FINA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Giordano Paliaga 8</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08573</latitude>
+		<longitude>13.63983</longitude>
+		<Prostor>Diskont Valalta</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šetalište Vijeća Europe 1</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07273</latitude>
+		<longitude>13.63584</longitude>
+		<Prostor>Marina ACI Rovinj</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg maršala Tita 7</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08209</latitude>
+		<longitude>13.63500</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni - DNT</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg na na lokvi 3</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.08067</latitude>
+		<longitude>13.63835</longitude>
+		<Prostor>Trgovina bicikla</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Industrijska zona bb</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinjsko selo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.10661</latitude>
+		<longitude>13.71634</longitude>
+		<Prostor>Diskont Valalta</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg hrvatskih branitelja 2</address>
+		<zipcode>43212</zipcode>
+		<city>Rovišće</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.94591</latitude>
+		<longitude>16.73204</longitude>
+		<Prostor>Trgovina Centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>151.samoborske brigade HV 1</address>
+		<zipcode>10430</zipcode>
+		<city>Samobor</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80881</latitude>
+		<longitude>15.71622</longitude>
+		<Prostor>Autobusni kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>03-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 4</address>
+		<zipcode>10430</zipcode>
+		<city>Samobor</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80201</latitude>
+		<longitude>15.70918</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica grada Wirgesa 2G</address>
+		<zipcode>10430</zipcode>
+		<city>Samobor</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81124</latitude>
+		<longitude>15.71225</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg palih boraca 13</address>
+		<zipcode>51266</zipcode>
+		<city>Selce</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.15762</latitude>
+		<longitude>14.71964</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Damira Tomljanovića Gavrana bb</address>
+		<zipcode>53270</zipcode>
+		<city>Senj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.99269</latitude>
+		<longitude>14.90194</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ive Vlatkovića 2</address>
+		<zipcode>53270</zipcode>
+		<city>Senj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.989714</latitude>
+		<longitude>14.900776</longitude>
+		<Prostor>Automat klub</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala Franje Tuđmana 1</address>
+		<zipcode>53270</zipcode>
+		<city>Senj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.99219</latitude>
+		<longitude>14.90085</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bistrička 6</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83317</latitude>
+		<longitude>16.10780</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bjelovarska b.b.</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82401</latitude>
+		<longitude>16.11875</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bjelovarska ulica 3</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82700</latitude>
+		<longitude>16.11159</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>L.Šabana 12 (naselje Sopnica-Jelkovec)</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81133</latitude>
+		<longitude>16.10274</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dugoselska 33a</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvetski Kraljevec</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81717</latitude>
+		<longitude>16.17449</longitude>
+		<Prostor>RK Elez</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Miljenka Buljana bb</address>
+		<zipcode>21230</zipcode>
+		<city>Sinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.70164</latitude>
+		<longitude>16.64420</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Petrovca 12</address>
+		<zipcode>21230</zipcode>
+		<city>Sinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.70120</latitude>
+		<longitude>16.63665</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stjepana i Antuna Radića 4-6</address>
+		<zipcode>44000</zipcode>
+		<city>Sisak</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48733</latitude>
+		<longitude>16.37257</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Školska 3</address>
+		<zipcode>44000</zipcode>
+		<city>Sisak</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.46451</latitude>
+		<longitude>16.38091</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka 49a</address>
+		<zipcode>44000</zipcode>
+		<city>Sisak</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.49755</latitude>
+		<longitude>16.35955</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>J. Blaževića 6</address>
+		<zipcode>51311</zipcode>
+		<city>Skrad</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43117</latitude>
+		<longitude>14.90478</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kneza Domagoja 1</address>
+		<zipcode>22222</zipcode>
+		<city>Skradin</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.81739</latitude>
+		<longitude>15.92171</longitude>
+		<Prostor>Trgovina Navigator</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg sv. Josipa 1</address>
+		<zipcode>10346</zipcode>
+		<city>Slatina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.71035</latitude>
+		<longitude>17.69653</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Naselje Slavonija 2</address>
+		<zipcode>35000</zipcode>
+		<city>Slavonski Brod</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16249</latitude>
+		<longitude>18.01844</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petra Krešimira IV 24</address>
+		<zipcode>35000</zipcode>
+		<city>Slavonski Brod</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.15504</latitude>
+		<longitude>18.01523</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petra Svačića 2</address>
+		<zipcode>35000</zipcode>
+		<city>Slavonski Brod</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.16282</latitude>
+		<longitude>18.00743</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dr. Franje Tuđmana 1</address>
+		<zipcode>47240</zipcode>
+		<city>Slunj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.11444</latitude>
+		<longitude>15.58584</longitude>
+		<Prostor>RK Buk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Soblinečka bb</address>
+		<zipcode>10360</zipcode>
+		<city>Soblinec</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.86539</latitude>
+		<longitude>16.15518</longitude>
+		<Prostor>NTL</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Zvonimira 111</address>
+		<zipcode>21210</zipcode>
+		<city>Solin</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.53806</latitude>
+		<longitude>16.49133</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matoševa 10</address>
+		<zipcode>21210</zipcode>
+		<city>Solin</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.53007</latitude>
+		<longitude>16.49046</longitude>
+		<Prostor>TC Mercator</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Boktuljin put b.b.</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.52002</latitude>
+		<longitude>16.46550</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>07-22</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dubrovačka ulica 1</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50536</latitude>
+		<longitude>16.45576</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gundulićeva 40</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51419</latitude>
+		<longitude>16.44103</longitude>
+		<Prostor>Banka, 24h zona</Prostor>
+		<Tip>Isplatno- uplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivanićeva 1</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51664</latitude>
+		<longitude>16.45739</longitude>
+		<Prostor>Market Marines</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Držislava 22</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.506449</latitude>
+		<longitude>16.504941</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Marmontova ulica bb</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50855</latitude>
+		<longitude>16.43668</longitude>
+		<Prostor>Kino Karaman</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mažuranićevo šetalište 24/b</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51305</latitude>
+		<longitude>16.44698</longitude>
+		<Prostor>FINA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala Ante Trumbića 12</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.507573</latitude>
+		<longitude>16.433809</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala kneza Domagoja 12</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50412</latitude>
+		<longitude>16.44274</longitude>
+		<Prostor>Autobusni kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poljana kneza Trpimira 6</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.506943</latitude>
+		<longitude>16.442735</longitude>
+		<Prostor>Studenac</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poljana kraljice Jelene 3</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50809</latitude>
+		<longitude>16.44067</longitude>
+		<Prostor>Mjenjačnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Brodarice 6</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51838</latitude>
+		<longitude>16.44615</longitude>
+		<Prostor>TC Joker</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-22</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ruđera Boškovića 9</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50713</latitude>
+		<longitude>16.46636</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Svačićeva 1</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51143</latitude>
+		<longitude>16.43658</longitude>
+		<Prostor>Kladionica Germania</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Velebitska 123, Sućidar</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51378</latitude>
+		<longitude>16.47153</longitude>
+		<Prostor>Diskont Feniks</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 207</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51350</latitude>
+		<longitude>16.50069</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trajektno pristanište b.b.</address>
+		<zipcode>21460</zipcode>
+		<city>Stari Grad na Hvaru</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.180380</latitude>
+		<longitude>16.576899</longitude>
+		<Prostor>Jadransko osiguranje</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Seljine brigade 2/1</address>
+		<zipcode>10419</zipcode>
+		<city>Staro Čiče</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.68682</latitude>
+		<longitude>16.11622</longitude>
+		<Prostor>Frizersko pedikerski salon "Lila"</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Svetog Lovre 45</address>
+		<zipcode>21311</zipcode>
+		<city>Stobreč</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.50225</latitude>
+		<longitude>16.52472</longitude>
+		<Prostor>Trgovina Ribola</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Porat b.b.</address>
+		<zipcode>21400</zipcode>
+		<city>Supetar</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.384104</latitude>
+		<longitude>16.553097</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Svetonedeljska 28</address>
+		<zipcode>10431</zipcode>
+		<city>Sveta Nedelja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79856</latitude>
+		<longitude>15.73607</longitude>
+		<Prostor>Knjižara i papirnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala kralja Tomislava 2</address>
+		<zipcode>23207</zipcode>
+		<city>Sveti Filip i Jakov</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.960638</latitude>
+		<longitude>15.425250</longitude>
+		<Prostor>Sirena tours</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 58</address>
+		<zipcode>10380</zipcode>
+		<city>Sveti Ivan Zelina</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.96739</latitude>
+		<longitude>16.25158</longitude>
+		<Prostor>Trgovina Trgonom</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Karla Lukaša 1</address>
+		<zipcode>48214</zipcode>
+		<city>Sveti Ivan Žabno</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.94568</latitude>
+		<longitude>16.60490</longitude>
+		<Prostor>Trgovina</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vrankovec 1</address>
+		<zipcode>49223</zipcode>
+		<city>Sveti Križ Začretje</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.06723</latitude>
+		<longitude>15.91898</longitude>
+		<Prostor>TC Roses Fashion Outlet Center</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Grkavešćak bb</address>
+		<zipcode>40313</zipcode>
+		<city>Sveti Martin na Muri</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.495023</latitude>
+		<longitude>16.340060</longitude>
+		<Prostor>Toplice Sveti Martin, hotel Golfer</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šapjane 1</address>
+		<zipcode>51214</zipcode>
+		<city>Šapjane</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.48064</latitude>
+		<longitude>14.25378</longitude>
+		<Prostor>Restoran Tartuf</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bana Josipa Jelačića 13</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.74661</latitude>
+		<longitude>15.89499</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Drage 14</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.73202</latitude>
+		<longitude>15.89299</longitude>
+		<Prostor>Autobusni kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poljana 5</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.73441</latitude>
+		<longitude>15.89443</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Vida 6</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.75494</latitude>
+		<longitude>15.88028</longitude>
+		<Prostor>Spar Hipermarket</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-21 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stjepana Radića 139</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.72661</latitude>
+		<longitude>15.90496</longitude>
+		<Prostor>Samostojeći kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica kralja Zvonimra bb</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.74603</latitude>
+		<longitude>15.89052</longitude>
+		<Prostor>BP Petrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Velimira Škorpika 23</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.71045</latitude>
+		<longitude>15.91138</longitude>
+		<Prostor>TC Dalmare</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>8-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Stara cesta bb</address>
+		<zipcode>51515</zipcode>
+		<city>Šilo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.147679</latitude>
+		<longitude>14.662971</longitude>
+		<Prostor>Turistička zajednica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šimuni 106</address>
+		<zipcode>23251</zipcode>
+		<city>Šimuni</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.46705</latitude>
+		<longitude>14.96407</longitude>
+		<Prostor>Autokamp Šimuni</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kukuljanovo bb</address>
+		<zipcode>51223</zipcode>
+		<city>Škrljevo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.32809</latitude>
+		<longitude>14.51339</longitude>
+		<Prostor>Građa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Škrljevo bb</address>
+		<zipcode>51223</zipcode>
+		<city>Škrljevo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.31927</latitude>
+		<longitude>14.53404</longitude>
+		<Prostor>Brodokomerc</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tkon 9</address>
+		<zipcode>23212</zipcode>
+		<city>Tkon</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.92182</latitude>
+		<longitude>15.41957</longitude>
+		<Prostor>Turistička zajednica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana J. Jelačića bb</address>
+		<zipcode>21240</zipcode>
+		<city>Trilj</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.61613</latitude>
+		<longitude>16.72995</longitude>
+		<Prostor>Hrvatska Lutrija</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>BlažaTrogiranina 3</address>
+		<zipcode>21220</zipcode>
+		<city>Trogir</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51764</latitude>
+		<longitude>16.25081</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kneza Trpimira 2</address>
+		<zipcode>21220</zipcode>
+		<city>Trogir</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.51842</latitude>
+		<longitude>16.25061</longitude>
+		<Prostor>Samostojeći kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Školska 1</address>
+		<zipcode>51305</zipcode>
+		<city>Tršće</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.56486</latitude>
+		<longitude>14.62881</longitude>
+		<Prostor>Turistički ured</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ugljan bb</address>
+		<zipcode>23275</zipcode>
+		<city>Ugljan</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.12444</latitude>
+		<longitude>15.11135</longitude>
+		<Prostor>Trgovina Bure Commerce</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jadranska cesta 5</address>
+		<zipcode>52470</zipcode>
+		<city>Umag</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.44056</latitude>
+		<longitude>13.52434</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trgovačka 2a</address>
+		<zipcode>52470</zipcode>
+		<city>Umag</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.43326</latitude>
+		<longitude>13.52100</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vrh Umag bb</address>
+		<zipcode>52470</zipcode>
+		<city>Umag</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.42218</latitude>
+		<longitude>13.52752</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Osječka 1</address>
+		<zipcode>31550</zipcode>
+		<city>Valpovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.65804</latitude>
+		<longitude>18.41884</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Valun bb</address>
+		<zipcode>51557</zipcode>
+		<city>Valun</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.90447</latitude>
+		<longitude>14.36131</longitude>
+		<Prostor>Market Cresanka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gospodarska 3</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.29038</latitude>
+		<longitude>16.34019</longitude>
+		<Prostor>KTC</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hrvatskih branitelja 11</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.29812</latitude>
+		<longitude>16.328071</longitude>
+		<Prostor>Caffe bar Aura</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Koprivnička 17</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.31350</latitude>
+		<longitude>16.34930</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Optujska 171</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.31580</latitude>
+		<longitude>16.32292</longitude>
+		<Prostor>TC Supernova</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tome Blažeka 1</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.30420</latitude>
+		<longitude>16.33561</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica braće Radić 8</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.30559</latitude>
+		<longitude>16.33046</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vladimira Nazora 29</address>
+		<zipcode>51551</zipcode>
+		<city>Veli Lošinj</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.51979</latitude>
+		<longitude>14.50305</longitude>
+		<Prostor>Turistička agencija "Val"</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kneza Lj. Posavskog 51</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.71838</latitude>
+		<longitude>16.05452</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kralja Tomislava 38</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.71387</latitude>
+		<longitude>16.07526</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pleso b.b.</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.73267</latitude>
+		<longitude>16.06081</longitude>
+		<Prostor>Zračna luka Zagreb</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>S. Kolara 10</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.71479</latitude>
+		<longitude>16.07071</longitude>
+		<Prostor>Elektroservis Meštrović</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Radić b.b.</address>
+		<zipcode>43226</zipcode>
+		<city>Veliko Trojstvo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.93094</latitude>
+		<longitude>16.92890</longitude>
+		<Prostor>Općina Veliko Trojstvo</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Duga ulica 10</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28800</latitude>
+		<longitude>18.80306</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jurja Dalmatinca 5c</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.29306</latitude>
+		<longitude>18.80381</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ohridska 2</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.29696</latitude>
+		<longitude>18.80108</longitude>
+		<Prostor>CBA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zlatana Sremca 58</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.28826</latitude>
+		<longitude>18.81817</longitude>
+		<Prostor>Trgovina Vinkoprom</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>08-20H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put bunara 5</address>
+		<zipcode>23234</zipcode>
+		<city>Vir</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.29876</latitude>
+		<longitude>15.08427</longitude>
+		<Prostor>Tommy</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vir bb</address>
+		<zipcode>23234</zipcode>
+		<city>Vir</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.29953</latitude>
+		<longitude>15.08835</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg bana Jelačića 8b</address>
+		<zipcode>48326</zipcode>
+		<city>Virje</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.06622</latitude>
+		<longitude>16.98763</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sajmište 2</address>
+		<zipcode>33000</zipcode>
+		<city>Virovitica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82845</latitude>
+		<longitude>17.39773</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Franje Tuđmana 1</address>
+		<zipcode>33000</zipcode>
+		<city>Virovitica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83216</latitude>
+		<longitude>17.38732</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava bb</address>
+		<zipcode>33000</zipcode>
+		<city>Virovitica</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83447</latitude>
+		<longitude>17.38664</longitude>
+		<Prostor>Meteorološki stup</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala Svetog Jurja 8</address>
+		<zipcode>21480</zipcode>
+		<city>Vis</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.03344</latitude>
+		<longitude>16.11120</longitude>
+		<Prostor>Tisak</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gornji Sroki 57A</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.38809</latitude>
+		<longitude>14.38609</longitude>
+		<Prostor>Pekara-Caffe bar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Marinići 18</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.36286</latitude>
+		<longitude>14.39275</longitude>
+		<Prostor>Kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Marinići bb</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37108</latitude>
+		<longitude>14.39013</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Viškovo 90</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37777</latitude>
+		<longitude>14.38593</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>I.J. Cote 10</address>
+		<zipcode>22211</zipcode>
+		<city>Vodice</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.75780</latitude>
+		<longitude>15.77609</longitude>
+		<Prostor>Tom Tailor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Istraska bb</address>
+		<zipcode>52215</zipcode>
+		<city>Vodnjan</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.95334</latitude>
+		<longitude>13.85343</longitude>
+		<Prostor>BP Petrol</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Štangerova 20</address>
+		<zipcode>51410</zipcode>
+		<city>Volosko</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.34910</latitude>
+		<longitude>14.31971</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Svetog Ivana 8</address>
+		<zipcode>51516</zipcode>
+		<city>Vrbnik</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07571</latitude>
+		<longitude>14.67452</longitude>
+		<Prostor>Ex Banka, prostor u vl. Banke</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Poginulih branitelja bb</address>
+		<zipcode>10340</zipcode>
+		<city>Vrbovec</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.88435</latitude>
+		<longitude>16.41939</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dobra bb</address>
+		<zipcode>51326</zipcode>
+		<city>Vrbovsko</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37423</latitude>
+		<longitude>15.07047</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tina Ujevića 11</address>
+		<zipcode>21276</zipcode>
+		<city>Vrgorac</city>
+		<own_atm>yes</own_atm>
+		<latitude>43.203956</latitude>
+		<longitude>17.371209</longitude>
+		<Prostor>Trgovina Jukić</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Senjska 60</address>
+		<zipcode>51326</zipcode>
+		<city>Vrhovine</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.85161</latitude>
+		<longitude>15.42489</longitude>
+		<Prostor>Narodna čitaonica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala M.Tita 1</address>
+		<zipcode>52450</zipcode>
+		<city>Vrsar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.14895</latitude>
+		<longitude>13.60253</longitude>
+		<Prostor>Marina Vrsar (Montraker)</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Franje Tuđmana 7</address>
+		<zipcode>23235</zipcode>
+		<city>Vrsi</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.26250</latitude>
+		<longitude>15.23366</longitude>
+		<Prostor>Pivatni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dr. Franje Tuđmana 11</address>
+		<zipcode>32000</zipcode>
+		<city>Vukovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35011</latitude>
+		<longitude>19.00357</longitude>
+		<Prostor>Trgovina Vupik</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>J.J. Strossmayera 14c</address>
+		<zipcode>32000</zipcode>
+		<city>Vukovar</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.35252</latitude>
+		<longitude>19.00181</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Blage Zadre 2</address>
+		<zipcode>32000</zipcode>
+		<city>Vukovar (Borovo naselje)</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.37586</latitude>
+		<longitude>18.96337</longitude>
+		<Prostor>Trgovina Borovo standard</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Matije Gupca 68</address>
+		<zipcode>49210</zipcode>
+		<city>Zabok</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02569</latitude>
+		<longitude>15.90322</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Radničko naselje 14</address>
+		<zipcode>49210</zipcode>
+		<city>Zabok</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.02182</latitude>
+		<longitude>15.90224</longitude>
+		<Prostor>KTC</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Andrije Hebranga 2</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.11810</latitude>
+		<longitude>15.24097</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-22 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ante Starčevića bb</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.10749</latitude>
+		<longitude>15.24121</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Antuna Gustava Matoša 10</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.13283</latitude>
+		<longitude>15.21284</longitude>
+		<Prostor>Suvenirnica</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Liburnijska obala 2</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.11654</latitude>
+		<longitude>15.22742</longitude>
+		<Prostor>Jadrolinija</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Murvička 1</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.10971</latitude>
+		<longitude>15.23722</longitude>
+		<Prostor>TC Zadar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Obala kneza Branimira 6</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.11487</latitude>
+		<longitude>15.23306</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Put Pudarice 11</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.12247</latitude>
+		<longitude>15.25570</longitude>
+		<Prostor>Tommy</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Široka ulica 1</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.11526</latitude>
+		<longitude>15.22576</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica akcija Maslenica 1</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<own_atm>yes</own_atm>
+		<latitude>44.11690</latitude>
+		<longitude>15.27071</longitude>
+		<Prostor>TC Supernova</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Alberta Fortisa 16</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80323</latitude>
+		<longitude>15.89785</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Andrije Žaje 60</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80692</latitude>
+		<longitude>15.95325</longitude>
+		<Prostor>Stambena zgrada</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Argentinska 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.814556</latitude>
+		<longitude>15.876035</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Dubrava 241</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82808</latitude>
+		<longitude>16.07948</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07 - 21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Dubrava 49</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82911</latitude>
+		<longitude>16.05245</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Dubrovnik 15/11</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77784</latitude>
+		<longitude>15.97507</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Dubrovnik 16</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77666</latitude>
+		<longitude>15.97911</longitude>
+		<Prostor>TC Avenue Mall</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-22</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Gojka Šuška 9</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83587</latitude>
+		<longitude>16.03295</longitude>
+		<Prostor>KBC Dubrava</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Avenija Marina Držića 4</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80450</latitude>
+		<longitude>15.99328</longitude>
+		<Prostor>Autobusni kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Barčev trg bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77705</latitude>
+		<longitude>15.99585</longitude>
+		<Prostor>Vox promet</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bencekovićeva 27</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78345</latitude>
+		<longitude>15.96092</longitude>
+		<Prostor>RE-MI stil</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bičanićeva 8</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79097</latitude>
+		<longitude>15.94708</longitude>
+		<Prostor>RTV servis</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bolnička 34 (Vrapče)</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81580</latitude>
+		<longitude>15.89363</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Božidara Magovca 21</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77177</latitude>
+		<longitude>15.99451</longitude>
+		<Prostor>Foto shop</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Braće Domany 4</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79025</latitude>
+		<longitude>15.93796</longitude>
+		<Prostor>Pekara Mlinar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Branimirova 119</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81740</latitude>
+		<longitude>16.03709</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Bukovačka cesta 20</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82562</latitude>
+		<longitude>16.01061</longitude>
+		<Prostor>Ferkolor željezarija</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Čulinečka 31</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82325</latitude>
+		<longitude>16.06409</longitude>
+		<Prostor>Pogrebna agencija Miroševac</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Dankovečka 4</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.830750</latitude>
+		<longitude>16.057500</longitude>
+		<Prostor>Spar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Freudova 5</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77677</latitude>
+		<longitude>15.97250</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gajnice 32</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81690</latitude>
+		<longitude>15.87270</longitude>
+		<Prostor>Pekara Frumentum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ghandijeva 1, Gajnice</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81515</latitude>
+		<longitude>15.87682</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Gundulićeva 8</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81205</latitude>
+		<longitude>15.97195</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hatzova 1, Tržnica Prečko</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79229</latitude>
+		<longitude>15.90199</longitude>
+		<Prostor>Tobacco shop</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Heinzelova 33a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81055</latitude>
+		<longitude>16.00220</longitude>
+		<Prostor>Stambena štedionica Wüstenrot</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Horvaćanska 53a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78798</latitude>
+		<longitude>15.94681</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hrgovići 55</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78670</latitude>
+		<longitude>15.92945</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Hribarov prolaz 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76555</latitude>
+		<longitude>15.99295</longitude>
+		<Prostor>Oktogon Dugave</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81303</latitude>
+		<longitude>15.97605</longitude>
+		<Prostor>Samouslužna zona</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 102</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81235</latitude>
+		<longitude>15.96336</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 239</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81480</latitude>
+		<longitude>15.93494</longitude>
+		<Prostor>DM</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 288</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81646</latitude>
+		<longitude>15.93389</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ilica 425</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81276</latitude>
+		<longitude>15.90461</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivana Lučića 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79944</latitude>
+		<longitude>15.97007</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatno- uplatni - DNT</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivania Šibla 12</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77876</latitude>
+		<longitude>15.98804</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ivanićgradska 54</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80358</latitude>
+		<longitude>16.01986</longitude>
+		<Prostor>Caffe bar Metropolis</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>J.Slavenskog 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79590</latitude>
+		<longitude>15.90031</longitude>
+		<Prostor>TC Prečko</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7 - 21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jablanska ul. 24</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79819</latitude>
+		<longitude>15.91371</longitude>
+		<Prostor>Restoran Gladne oči</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jadranska avenija 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77722</latitude>
+		<longitude>15.94887</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jankomir 33</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79889</latitude>
+		<longitude>15.88505</longitude>
+		<Prostor>TC City centar One</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jarušćica b.b.</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77063</latitude>
+		<longitude>15.94081</longitude>
+		<Prostor>TC Arena centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kišpatićeva 12</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82399</latitude>
+		<longitude>16.00727</longitude>
+		<Prostor>KBC Rebro</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Krešićeva 32 (Borongaj-okretište)</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81450</latitude>
+		<longitude>16.01929</longitude>
+		<Prostor>Bankomat centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ksaverska cesta 43</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83181</latitude>
+		<longitude>15.97783</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Kvaternikov trg 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81503</latitude>
+		<longitude>15.99667</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lanište 17</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77272</latitude>
+		<longitude>15.94477</longitude>
+		<Prostor>HOK osiguranje</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Lastovska 2a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79432</latitude>
+		<longitude>15.99709</longitude>
+		<Prostor>Kebap</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Maksimirska 114</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81848</latitude>
+		<longitude>16.01222</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Masarykova 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81111</latitude>
+		<longitude>15.97412</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Meštrovićev trg bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.779201</latitude>
+		<longitude>15.995761</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mije Haleuša 1, Resnik</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80391</latitude>
+		<longitude>16.10304</longitude>
+		<Prostor>Plodine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Milke Trnine 11a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79322</latitude>
+		<longitude>16.00502</longitude>
+		<Prostor>Diona</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Miroslava Milića 8</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79793</latitude>
+		<longitude>15.90544</longitude>
+		<Prostor>Auro domus</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Oporovečka 14</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83621</latitude>
+		<longitude>16.04604</longitude>
+		<Prostor>TC Garden mall</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ozaljska 148</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79745</latitude>
+		<longitude>15.93783</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ozaljska 33</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79833</latitude>
+		<longitude>15.94726</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pakoštanska 5</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.78952</latitude>
+		<longitude>15.92956</longitude>
+		<Prostor>Tržnica Jarun</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pergošićeva 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80679</latitude>
+		<longitude>15.89092</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Petrova 136</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.82052</latitude>
+		<longitude>16.00575</longitude>
+		<Prostor>Pekara Croatia</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Pičmanova 1, Diona</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77534</latitude>
+		<longitude>15.98887</longitude>
+		<Prostor>Diona</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Planinska bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80928</latitude>
+		<longitude>16.01355</longitude>
+		<Prostor>Pekara Klara</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Praška 5</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81193</latitude>
+		<longitude>15.97796</longitude>
+		<Prostor>ECC</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rudeška 140</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79452</latitude>
+		<longitude>15.91940</longitude>
+		<Prostor>TC Vrbani</Prostor>
+		<Tip>Isplatni - DNT</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Rudeška 169a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79091</latitude>
+		<longitude>15.91361</longitude>
+		<Prostor>Point Centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>09-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Samoborska cesta 102</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81258</latitude>
+		<longitude>15.88311</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sarajevska cesta 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77040</latitude>
+		<longitude>16.00435</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>7-21 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sisačka cesta 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.75681</latitude>
+		<longitude>15.94629</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Slavonska Avenija 11</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.802575</latitude>
+		<longitude>16.050811</longitude>
+		<Prostor>TC City Centar One Žitnjak</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>09-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Strojarska 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80199</latitude>
+		<longitude>15.99056</longitude>
+		<Prostor>Trgovina Jagoda</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sveti Duh 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.813599</latitude>
+		<longitude>15.942385</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šeferova 4 (Ravnice)</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81918</latitude>
+		<longitude>16.02573</longitude>
+		<Prostor>MANA</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Šestinski vijenac 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85231</latitude>
+		<longitude>15.94999</longitude>
+		<Prostor>DVD Šestine</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Škorpikova 34</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.796804</latitude>
+		<longitude>15.856146</longitude>
+		<Prostor>TC KingCross</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tkalčićeva 15</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81456</latitude>
+		<longitude>15.97601</longitude>
+		<Prostor>Velana trgovina d.o.o.</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trakošćanska 14</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80332</latitude>
+		<longitude>15.95307</longitude>
+		<Prostor>PSK</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tratinska 1, Cibona</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.803175</latitude>
+		<longitude>15.96457</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trešnjevački trg 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79964</latitude>
+		<longitude>15.95352</longitude>
+		<Prostor>Samostojeći kiosk</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Ante Starčevića bb (pothodnik)</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80403</latitude>
+		<longitude>15.97781</longitude>
+		<Prostor>Varteks</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg J.F. Kennedy 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81649</latitude>
+		<longitude>16.01258</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 12</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80501</latitude>
+		<longitude>15.97866</longitude>
+		<Prostor>Željeznički kolodvor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>06-23</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg Nikole Šubića Zrinskog 18</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81069</latitude>
+		<longitude>15.97750</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trnsko 29</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77235</latitude>
+		<longitude>15.96500</longitude>
+		<Prostor>Diona</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trnsko bb</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.77639</latitude>
+		<longitude>15.96548</longitude>
+		<Prostor>Trgovina Prehrana</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trpimirova 31</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80566</latitude>
+		<longitude>15.98530</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ulica SR Njemačke 3</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76076</latitude>
+		<longitude>15.99257</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Utinjska 48</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76727</latitude>
+		<longitude>15.95795</longitude>
+		<Prostor>Pekara Klara</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Varičakova 9 (Sloboština)</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.76527</latitude>
+		<longitude>15.98863</longitude>
+		<Prostor>Billa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Varšavska 3</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81177</latitude>
+		<longitude>15.97346</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vile Velebita 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.83701</latitude>
+		<longitude>16.06065</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vlaška 50</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81361</latitude>
+		<longitude>15.98445</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vojnovićeva 22</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81208</latitude>
+		<longitude>15.99135</longitude>
+		<Prostor>Trgovina Prehrana</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vrbani 24</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.792382</latitude>
+		<longitude>15.915161</longitude>
+		<Prostor>Poslovni prostor</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24 h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukomerec 24</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80780</latitude>
+		<longitude>16.04184</longitude>
+		<Prostor>Pekara Agapa</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 269d</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80179</latitude>
+		<longitude>16.00309</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 41</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80004</latitude>
+		<longitude>15.97290</longitude>
+		<Prostor>Holding</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vukovarska 84</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.80018</latitude>
+		<longitude>15.98034</longitude>
+		<Prostor>Općinski sud</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zagrebačka avenija 108</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.79769</latitude>
+		<longitude>15.89348</longitude>
+		<Prostor>Konzum</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zvonimirova 59</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.81114</latitude>
+		<longitude>15.99744</longitude>
+		<Prostor>Trgovina Prehrana</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Antuna Mihanovića1</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.86590</latitude>
+		<longitude>15.79642</longitude>
+		<Prostor>Trgostil</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>K.Š. Đalskog 66</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.87076</latitude>
+		<longitude>15.79524</longitude>
+		<Prostor>Diona</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24H</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Mihovila Krušlina 20</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85609</latitude>
+		<longitude>15.80612</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ruševje 1</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85275</latitude>
+		<longitude>15.80816</longitude>
+		<Prostor>Kaufland</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Tržna bb</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.85537</latitude>
+		<longitude>15.80253</longitude>
+		<Prostor>Naklo</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Zaprešićka 1</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.84465</latitude>
+		<longitude>15.82581</longitude>
+		<Prostor>TC West Gate Zagreb</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>07-21</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Sajmišna 2</address>
+		<zipcode>49250</zipcode>
+		<city>Zlatar</city>
+		<own_atm>yes</own_atm>
+		<latitude>46.093204</latitude>
+		<longitude>16.076256</longitude>
+		<Prostor>Tintilin</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Jurovski Brod 14</address>
+		<zipcode>47276</zipcode>
+		<city>Žakanje</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.63133</latitude>
+		<longitude>15.32219</longitude>
+		<Prostor>BP Cro-Can Centar</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Ul. 9. rujna bb</address>
+		<zipcode>52341</zipcode>
+		<city>Žminj</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.14146</latitude>
+		<longitude>13.90848</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Trg kralja Tomislava 18</address>
+		<zipcode>32270</zipcode>
+		<city>Županja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07319</latitude>
+		<longitude>18.69466</longitude>
+		<Prostor>Banka</Prostor>
+		<Tip>Isplatni bankomat sa pologom u vrećicama </Tip>
+		<Dostupnost>0-24h</Dostupnost>
+	</ATM>
+	<ATM>
+		<country>Croatia</country>
+		<address>Vinkovačka ulica 2b</address>
+		<zipcode>32270</zipcode>
+		<city>Županja</city>
+		<own_atm>yes</own_atm>
+		<latitude>45.07991</latitude>
+		<longitude>18.69847</longitude>
+		<Prostor>Trgovina BOSO</Prostor>
+		<Tip>Isplatni</Tip>
+		<Dostupnost>0-24</Dostupnost>
+	</ATM>
+</CashDispensers>

@@ -1,0 +1,4659 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Branches xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Baška</branch_name>
+		<address>Kralja Zvonimira 114</address>
+		<zipcode>51523</zipcode>
+		<city>Baška</city>
+		<phone>072 37 6790</phone>
+		<fax>072 37  6791</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>14:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>14:30</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>14:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>14:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>44.970056</latitude>
+		<longitude>14.753158</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Biograd na moru</branch_name>
+		<address>Trg kralja Tomislava 4</address>
+		<zipcode>23210</zipcode>
+		<city>Biograd na moru</city>
+		<phone>072 37 4730</phone>
+		<fax>072 37  4731</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>43.93601</latitude>
+		<longitude>15.44317</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Bjelovar</branch_name>
+		<address>Franjevačka ulica 11 c</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<phone>072 37 4615</phone>
+		<fax>072 37  4616</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.90216</latitude>
+		<longitude>16.84533</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Preradovićeva bb</address>
+		<zipcode>43000</zipcode>
+		<city>Bjelovar</city>
+		<phone>072 37  3828</phone>
+		<fax>072 37  3933</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.897001</latitude>
+		<longitude>16.841917</longitude>
+		<kom_centar_tel>072 37 3055</kom_centar_tel>
+		<kom_centar_fax>072 37 3905</kom_centar_fax>
+		<pod_centar_tel>072 37 3199</pod_centar_tel>
+		<pod_centar_fax>072 37 3946</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Brinje</branch_name>
+		<address>Frankopanska 72</address>
+		<zipcode>53260</zipcode>
+		<city>Brinje</city>
+		<phone>072 37  6740</phone>
+		<fax>072 37  6741</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>I i III. 08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>44.99821</latitude>
+		<longitude>15.12428</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Buje</branch_name>
+		<address>Umaška cesta bb</address>
+		<zipcode>52460</zipcode>
+		<city>Buje</city>
+		<phone>072 37  6640</phone>
+		<fax>072 37  6641</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.40835</latitude>
+		<longitude>13.65843</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Buzet</branch_name>
+		<address>Trg Fontana 8</address>
+		<zipcode>52420</zipcode>
+		<city>Buzet</city>
+		<phone>072 37  6570</phone>
+		<fax>072 37  6571</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.40800</latitude>
+		<longitude>13.96573</longitude>
+		<prof_centar_tel>072 37 5810</prof_centar_tel>
+		<prof_centar_fax>072 37 5910</prof_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Cres</branch_name>
+		<address>Cons 8</address>
+		<zipcode>51557</zipcode>
+		<city>Cres</city>
+		<phone>072 37  6650</phone>
+		<fax>072 37  6651</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>44.95865</latitude>
+		<longitude>14.40962</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Crikvenica</branch_name>
+		<address>Trg Stjepana Radića 1</address>
+		<zipcode>51260</zipcode>
+		<city>Crikvenica</city>
+		<phone>072 37  6530</phone>
+		<fax>072 37  6532</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>15:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.17348</latitude>
+		<longitude>14.69155</longitude>
+		<pod_centar_tel>072 37 6396</pod_centar_tel>
+		<pod_centar_fax>072 37 6531</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijal Čabar</branch_name>
+		<address>Narodnog oslobođenja 8</address>
+		<zipcode>51306</zipcode>
+		<city>Čabar</city>
+		<phone>072 37  6710</phone>
+		<fax>072 37  6711</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.596136</latitude>
+		<longitude>14.645247</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Katarine Zrinski 1</address>
+		<zipcode>40000</zipcode>
+		<city>Čakovec</city>
+		<phone>072 37  4500</phone>
+		<fax>072 37  4501</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>46.390369</latitude>
+		<longitude>16.435719</longitude>
+		<kom_centar_tel>072 37 3807</kom_centar_tel>
+		<kom_centar_fax>062 3907</kom_centar_fax>
+		<pod_centar_tel>072 37 4078</pod_centar_tel>
+		<pod_centar_fax>072 37 4502</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Čavle</branch_name>
+		<address>Čavle bb</address>
+		<zipcode>51219</zipcode>
+		<city>Čavle</city>
+		<phone>072 37  6730</phone>
+		<fax>072 37  6731</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:30</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:30</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>8:30</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>12:30</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>8:30</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>8:30</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>12:30</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>8:30</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>12:30</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>8:30</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.357249</latitude>
+		<longitude>14.488006</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Čazma</branch_name>
+		<address>Kralja Tomislava 1 a</address>
+		<zipcode>43240</zipcode>
+		<city>Čazma</city>
+		<phone>072 37  4605</phone>
+		<fax>072 37  4606</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>11:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>15:00</consulting_tue_to>
+		<consulting_wed_from>11:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.74791</latitude>
+		<longitude>16.61397</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Daruvar</branch_name>
+		<address>J. Jelačića 1</address>
+		<zipcode>43500</zipcode>
+		<city>Daruvar</city>
+		<phone>072 37  4590</phone>
+		<fax>072 37  4591</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.59278</latitude>
+		<longitude>17.22345</longitude>
+		<pod_centar_tel>072 37 4212</pod_centar_tel>
+		<pod_centar_fax>072 37 4591</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Delnice</branch_name>
+		<address>Supilova 43</address>
+		<zipcode>51300</zipcode>
+		<city>Delnice</city>
+		<phone>072 37  6590</phone>
+		<fax>072 37  6591</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:30</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:30</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:30</consulting_mon_to>
+		<consulting_tue_from>12:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:30</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:30</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:30</consulting_fri_to>
+		<latitude>45.39509</latitude>
+		<longitude>14.80026</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Dubrava</branch_name>
+		<address>Radnička 2 a</address>
+		<zipcode>10342</zipcode>
+		<city>Dubrava (Vrbovec)</city>
+		<phone>072 37  2550</phone>
+		<fax>072 37  2551</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.83726</latitude>
+		<longitude>16.53760</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Vukovarska 26</address>
+		<zipcode>20000</zipcode>
+		<city>Dubrovnik</city>
+		<phone>072 37  4685</phone>
+		<fax>072 37  4686</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>42.65157</latitude>
+		<longitude>18.09186</longitude>
+		<kom_centar_tel>072 37 3840</kom_centar_tel>
+		<kom_centar_fax>072 37 3940</kom_centar_fax>
+		<pod_centar_tel>072 37 3538</pod_centar_tel>
+		<pod_centar_fax>072 37 4686</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Đakovo</branch_name>
+		<address>Ul.Ivana Pavla II br.19</address>
+		<zipcode>31400</zipcode>
+		<city>Đakovo</city>
+		<phone>072 37  4755</phone>
+		<fax>072 37  4756</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>I. i III. 08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.30822</latitude>
+		<longitude>18.41174</longitude>
+		<pod_centar_tel>072 37 3450</pod_centar_tel>
+		<pod_centar_fax>072 37 4756</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Đurđevac</branch_name>
+		<address>Trg Sv. Juraja bb</address>
+		<zipcode>48350</zipcode>
+		<city>Đurđevac</city>
+		<phone>072 37  4580</phone>
+		<fax>072 37  4581</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>46.04003</latitude>
+		<longitude>17.06846</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Fužine</branch_name>
+		<address>Sveti križ 8</address>
+		<zipcode>51322</zipcode>
+		<city>Fužine</city>
+		<phone>072 37  6895</phone>
+		<fax>072 37  6896</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.30472</latitude>
+		<longitude>14.71327</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Garešnica</branch_name>
+		<address>Vladimira Nazora 27/a</address>
+		<zipcode>43280</zipcode>
+		<city>Garešnica</city>
+		<phone>072 37  4560</phone>
+		<fax>072 37  4561</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.57821</latitude>
+		<longitude>16.94047</longitude>
+		<pod_centar_tel>072 37 4159</pod_centar_tel>
+		<pod_centar_fax>072 37 4561</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Gerovo</branch_name>
+		<address>Eugena Kvaternika 43</address>
+		<zipcode>51304</zipcode>
+		<city>Gerovo</city>
+		<phone>072 37  6910</phone>
+		<fax>072 37  6911</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.51433</latitude>
+		<longitude>14.64162</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Gospić</branch_name>
+		<address>Vile Velebita 1</address>
+		<zipcode>53000</zipcode>
+		<city>Gospić</city>
+		<phone>072 37  6700</phone>
+		<fax>072 37  6701</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>I. u mj. 08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>44.54583</latitude>
+		<longitude>15.37335</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Hercegovac</branch_name>
+		<address>Moslavačka 143</address>
+		<zipcode>43284</zipcode>
+		<city>Hercegovac</city>
+		<phone>072 37  4610</phone>
+		<fax>072 37  4611</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:30</opening_mon_from>
+		<opening_mon_to>15:30</opening_mon_to>
+		<opening_tue_from>08:30</opening_tue_from>
+		<opening_tue_to>15:30</opening_tue_to>
+		<opening_wed_from>08:30</opening_wed_from>
+		<opening_wed_to>15:30</opening_wed_to>
+		<opening_thu_from>08:30</opening_thu_from>
+		<opening_thu_to>15:30</opening_thu_to>
+		<opening_fri_from>08:30</opening_fri_from>
+		<opening_fri_to>15:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.65525</latitude>
+		<longitude>17.00892</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Trg Josipa Broza 2</address>
+		<zipcode>47000</zipcode>
+		<city>Karlovac</city>
+		<phone>072 37  4550</phone>
+		<fax>072 37  4551</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.48872</latitude>
+		<longitude>15.54790</longitude>
+		<kom_centar_tel>072 37 3494</kom_centar_tel>
+		<kom_centar_fax>072 37 3904</kom_centar_fax>
+		<pod_centar_tel>072 37 4210</pod_centar_tel>
+		<pod_centar_fax>072 37 4551</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Rubeši</branch_name>
+		<address>Rubeši bb</address>
+		<zipcode>51215</zipcode>
+		<city>Kastav</city>
+		<phone>072 37  6815 </phone>
+		<fax>072 37  6816</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>12:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.36484</latitude>
+		<longitude>14.34568</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Kastav</branch_name>
+		<address>Trg Matka Laginje 3</address>
+		<zipcode>51215</zipcode>
+		<city>Kastav</city>
+		<phone>072 37  6870</phone>
+		<fax>072 37  6871</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.37269</latitude>
+		<longitude>14.34881</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Knin</branch_name>
+		<address>Tomislavova 2</address>
+		<zipcode>22300</zipcode>
+		<city>Knin</city>
+		<phone>072 37  4625</phone>
+		<fax>072 37  4626</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>44.04267</latitude>
+		<longitude>16.19790</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Komiža</branch_name>
+		<address>Ulica B.Eugena Ransonne 2/a </address>
+		<zipcode>21485</zipcode>
+		<city>Komiža(O.Vis)</city>
+		<phone>072 37  3659</phone>
+		<fax>072 37  4796</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:30</opening_mon_from>
+		<opening_mon_to>14:00</opening_mon_to>
+		<opening_tue_from>08:30</opening_tue_from>
+		<opening_tue_to>14:00</opening_tue_to>
+		<opening_wed_from>08:30</opening_wed_from>
+		<opening_wed_to>14:00</opening_wed_to>
+		<opening_thu_from>08:30</opening_thu_from>
+		<opening_thu_to>14:00</opening_thu_to>
+		<opening_fri_from>08:30</opening_fri_from>
+		<opening_fri_to>14:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>43.04509</latitude>
+		<longitude>16.09032</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Koprivnica</branch_name>
+		<address>A. Nemčića 1</address>
+		<zipcode>48000</zipcode>
+		<city>Koprivnica</city>
+		<phone>072 37  4565</phone>
+		<fax>072 37  4566</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>I. i III. 08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>46.16343</latitude>
+		<longitude>16.82966</longitude>
+		<kom_centar_tel>072 37 4126</kom_centar_tel>
+		<kom_centar_fax>072 37 4566</kom_centar_fax>
+		<pod_centar_tel>072 37 4407</pod_centar_tel>
+		<pod_centar_fax>072 37 4566</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Kraljevica</branch_name>
+		<address>Palih boraca 2</address>
+		<zipcode>51262</zipcode>
+		<city>Kraljevica</city>
+		<phone>072 37  6715</phone>
+		<fax>072 37  6716</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:30</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:30</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:30</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:30</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:30</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:30</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>12:30</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:30</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>08:30</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:30</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.272969</latitude>
+		<longitude>14.569051</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Krasica</branch_name>
+		<address>Krasica 230 a</address>
+		<zipcode>51224</zipcode>
+		<city>Krasica</city>
+		<phone>072 37  6805</phone>
+		<fax>072 37  6806</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.31181</latitude>
+		<longitude>14.55169</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Križevci</branch_name>
+		<address>Trg Josipa Juraja Strossmayera 33 </address>
+		<zipcode>48260</zipcode>
+		<city>Križevci</city>
+		<phone>072 37  4585</phone>
+		<fax>072 37  4586</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>46.025903</latitude>
+		<longitude>16.543050 </longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Krk</branch_name>
+		<address>Stjepana Radića 1/b</address>
+		<zipcode>51500</zipcode>
+		<city>Krk</city>
+		<phone>072 37  6600</phone>
+		<fax>072 37  6601</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>8:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.026746</latitude>
+		<longitude>14.572903</longitude>
+		<pod_centar_tel>072 37 5813</pod_centar_tel>
+		<pod_centar_fax>072 37 6512</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Kutina</branch_name>
+		<address>Kralja P.Krešimira IV 47</address>
+		<zipcode>44320</zipcode>
+		<city>Kutina</city>
+		<phone>072 37  4600</phone>
+		<fax>072 37  4601</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>I i III. 08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.47890</latitude>
+		<longitude>16.77775</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Zelenice 3</address>
+		<zipcode>52220</zipcode>
+		<city>Labin</city>
+		<phone>072 37  6510</phone>
+		<fax>072 37  6511</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.09061</latitude>
+		<longitude>14.12340</longitude>
+		<prof_centar_tel>072 37 5813</prof_centar_tel>
+		<prof_centar_fax>072 37 6512</prof_centar_fax>
+		<pod_centar_tel>072 37 6193</pod_centar_tel>
+		<pod_centar_fax>072 37 6512</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Lipik</branch_name>
+		<address>Marije Terezije 5</address>
+		<zipcode>34551</zipcode>
+		<city>Lipik</city>
+		<phone>072 37  4650</phone>
+		<fax>072 37  4561</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.41406</latitude>
+		<longitude>17.16197</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Lovran</branch_name>
+		<address>Maršala Tita 41</address>
+		<zipcode>51415</zipcode>
+		<city>Lovran</city>
+		<phone>072 37  6690</phone>
+		<fax>072 37  6691</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.292743</latitude>
+		<longitude>14.27669</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Mali Lošinj</branch_name>
+		<address>Riva Lošinjskih Kapetana 4</address>
+		<zipcode>51550</zipcode>
+		<city>Mali Lošinj</city>
+		<phone>072 37  6560</phone>
+		<fax>072 37  6561</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>44.53416</latitude>
+		<longitude>14.46765</longitude>
+		<prof_centar_tel>072 37 5807</prof_centar_tel>
+		<prof_centar_fax>072 37 6561</prof_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Malinska</branch_name>
+		<address>Lina Bolmarčića 33</address>
+		<zipcode>51511</zipcode>
+		<city>Malinska</city>
+		<phone>072 37  6775</phone>
+		<fax>072 37  6776</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>14:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>14:30</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>14:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>14:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.124273</latitude>
+		<longitude>14.526265</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Matulji</branch_name>
+		<address>Maršala Tita 9</address>
+		<zipcode>51211</zipcode>
+		<city>Matulji</city>
+		<phone>072 37  6625</phone>
+		<fax>072 37  6626</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>15:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.363582</latitude>
+		<longitude>14.324477</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Metković</branch_name>
+		<address>Matice Hrvatske 2</address>
+		<zipcode>20350</zipcode>
+		<city>Metković</city>
+		<phone>072 37  4800</phone>
+		<fax>072 37  4801</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>15:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>43.058476</latitude>
+		<longitude>17.647675</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Mošćenička Draga</branch_name>
+		<address>Aleja Slatina 2</address>
+		<zipcode>51417</zipcode>
+		<city>Mošćenička Draga</city>
+		<phone>072 37  6755</phone>
+		<fax>072 37  6756</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.236928</latitude>
+		<longitude>14.253752</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Našice</branch_name>
+		<address>Braće Radića 2</address>
+		<zipcode>34500</zipcode>
+		<city>Našice</city>
+		<phone>072 37  3486</phone>
+		<fax>072 37  4766</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>10:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>07:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>07:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>07:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>07:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.49049</latitude>
+		<longitude>18.09418</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Novalja</branch_name>
+		<address>Braće Radića 1</address>
+		<zipcode>53291</zipcode>
+		<city>Novalja</city>
+		<phone>072 37  6770</phone>
+		<fax>072 37  6771</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>12:00</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>44.55860</latitude>
+		<longitude>14.88032</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Novi Vinodolski</branch_name>
+		<address>Korzo hrv. branitelja 47</address>
+		<zipcode>51250</zipcode>
+		<city>Novi Vinodolski</city>
+		<phone>072 37  6695</phone>
+		<fax>072 37  6696</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>14:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>14:30</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>14:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>14:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>14:30</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>14:30</consulting_tue_to>
+		<consulting_wed_from>12:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>14:30</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>14:30</consulting_fri_to>
+		<latitude>45.12856</latitude>
+		<longitude>14.78983</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Novigrad</branch_name>
+		<address>Mandrač 27</address>
+		<zipcode>52466</zipcode>
+		<city>Novigrad</city>
+		<phone>072 37  6745</phone>
+		<fax>072 37  6746</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>I. i III. 8:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.31610</latitude>
+		<longitude>13.56111</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Njivice</branch_name>
+		<address>Primorska cesta 30</address>
+		<zipcode>51512</zipcode>
+		<city>Njivice</city>
+		<phone>072 37  6825</phone>
+		<fax>072 37  6826</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>14:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>14:30</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>14:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>14:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.165592</latitude>
+		<longitude>14.545292</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Ogulin</branch_name>
+		<address>Ljudevita Gaja 4 </address>
+		<zipcode>47300 </zipcode>
+		<city>Ogulin</city>
+		<phone>072 37  6540</phone>
+		<fax>072 37  6541</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.26515</latitude>
+		<longitude>15.22574</longitude>
+		<pod_centar_tel>072 37 6250</pod_centar_tel>
+		<pod_centar_fax>072 37 6541</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Opatija</branch_name>
+		<address>Vjekoslava Spinčića 3/2</address>
+		<zipcode>51410</zipcode>
+		<city>Opatija</city>
+		<phone>072 37  6500</phone>
+		<fax>072 37  6501</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>15:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.33839</latitude>
+		<longitude>14.30875</longitude>
+		<prof_centar_tel>072 37 5805</prof_centar_tel>
+		<prof_centar_fax>072 37 6501</prof_centar_fax>
+		<pod_centar_tel>072 37 5086</pod_centar_tel>
+		<pod_centar_fax>072 37 6501</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Osijek</branch_name>
+		<address>Kapucinska 26</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<phone>072 37  4750</phone>
+		<fax>072 37  4751</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.56096</latitude>
+		<longitude>18.68249</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Ribarska 2</address>
+		<zipcode>31000</zipcode>
+		<city>Osijek</city>
+		<phone>072 37  4520</phone>
+		<fax>072 37  4522</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:30</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:30</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:30</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:30</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:30</consulting_fri_to>
+		<latitude>45.56197</latitude>
+		<longitude>18.67669</longitude>
+		<kom_centar_tel>072 37 3806</kom_centar_tel>
+		<kom_centar_fax>072 37 4521</kom_centar_fax>
+		<pod_centar_tel>072 37 4220</pod_centar_tel>
+		<pod_centar_fax>072 37 4523</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Otočac</branch_name>
+		<address>Kralja Zvonimira 16</address>
+		<zipcode>53220</zipcode>
+		<city>Otočac</city>
+		<phone>072 37  6620</phone>
+		<fax>072 37  6621</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>8:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>44.86954</latitude>
+		<longitude>15.23746</longitude>
+		<pod_centar_tel>072 37 6456</pod_centar_tel>
+		<pod_centar_fax>072 37 5956</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Otok</branch_name>
+		<address>Trg kralja Tomislava 6A</address>
+		<zipcode>32252</zipcode>
+		<city>Otok</city>
+		<phone>072 37  4805</phone>
+		<fax>072 37  4806</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>14:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>14:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>14:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>14:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>14:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>14:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>14:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>14:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>14:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>14:00</consulting_fri_to>
+		<latitude>45.14751</latitude>
+		<longitude>18.88417</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Pag</branch_name>
+		<address>Kneževa 1</address>
+		<zipcode>23250</zipcode>
+		<city>Pag</city>
+		<phone>072 37  6610</phone>
+		<fax>072 37  6611</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>14:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>14:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>14:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>14:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>14:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>15:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>44.44374</latitude>
+		<longitude>15.05391</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Pakrac</branch_name>
+		<address>Trg Dr. I. Šretera 1</address>
+		<zipcode>34550</zipcode>
+		<city>Pakrac</city>
+		<phone>072 37  4635</phone>
+		<fax>072 37  4536</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.43902</latitude>
+		<longitude>17.19149</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>25. rujna 17</address>
+		<zipcode>52000 </zipcode>
+		<city>Pazin</city>
+		<phone>072 37  6520</phone>
+		<fax>072 37  6522</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.24003</latitude>
+		<longitude>13.93733</longitude>
+		<kom_centar_tel>072 37 5809</kom_centar_tel>
+		<kom_centar_fax>072 37 6523</kom_centar_fax>
+		<pod_centar_tel>072 37 6057</pod_centar_tel>
+		<pod_centar_fax>072 37 6522</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Petrinja</branch_name>
+		<address>Turkulinova 33 </address>
+		<zipcode>44250</zipcode>
+		<city>Petrinja</city>
+		<phone>072 37  4780</phone>
+		<fax>072 37  4781</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>10:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>10:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.44155</latitude>
+		<longitude>16.28124</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Pitomača</branch_name>
+		<address>Trg kralja Tomislava 19</address>
+		<zipcode>33405</zipcode>
+		<city>Pitomača</city>
+		<phone>072 37  4595</phone>
+		<fax>072 37  4596</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>10:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.95248</latitude>
+		<longitude>17.23341</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Poreč</branch_name>
+		<address>Pietra Candlera 11</address>
+		<zipcode>52440</zipcode>
+		<city>Poreč</city>
+		<phone>072 37  6645</phone>
+		<fax>072 37  6646</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.22588</latitude>
+		<longitude>13.59582</longitude>
+		<pod_centar_tel>072 37 6470</pod_centar_tel>
+		<pod_centar_fax>072 37 6522</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Potpićan</branch_name>
+		<address>Istarska 8</address>
+		<zipcode>52333</zipcode>
+		<city>Potpićan</city>
+		<phone>072 37  6785</phone>
+		<fax>072 37  6786</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude> 45.19268 </latitude>
+		<longitude>14.09434</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Požega</branch_name>
+		<address>Cehovska 8</address>
+		<zipcode>34000</zipcode>
+		<city>Požega</city>
+		<phone>072 37  4570</phone>
+		<fax>072 37  4571</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.33212</latitude>
+		<longitude>17.67669</longitude>
+		<pod_centar_tel>072 37 4408</pod_centar_tel>
+		<pod_centar_fax>072 37 4571</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Ciscuttieva 15</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<phone>072 37  6550</phone>
+		<fax>072 37  6551</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>44.86776</latitude>
+		<longitude>13.84803</longitude>
+		<kom_centar_tel>072 37 5812</kom_centar_tel>
+		<kom_centar_fax>072 37 6552</kom_centar_fax>
+		<pod_centar_tel>072 37 6056</pod_centar_tel>
+		<pod_centar_fax>072 37 6551</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Pula</branch_name>
+		<address>Giardini 6</address>
+		<zipcode>52100</zipcode>
+		<city>Pula</city>
+		<phone>072 37  6675</phone>
+		<fax>072 37  6676</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>44.86931</latitude>
+		<longitude>13.84861</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Punat</branch_name>
+		<address>Obala 87</address>
+		<zipcode>51521</zipcode>
+		<city>Punat</city>
+		<phone>072 37  6750</phone>
+		<fax>072 37  6751</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>14:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>14:30</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>14:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>14:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.021714</latitude>
+		<longitude>14.628409</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Rab</branch_name>
+		<address>Mali Palit 69</address>
+		<zipcode>51280</zipcode>
+		<city>Rab</city>
+		<phone>072 37  6605</phone>
+		<fax>072 37  6606</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>44.761301</latitude>
+		<longitude>14.759896</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Rabac </branch_name>
+		<address>Obala maršala Tita 24</address>
+		<zipcode>52221</zipcode>
+		<city>Rabac</city>
+		<phone>072 37  6780</phone>
+		<fax>072 37  6781</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.07813</latitude>
+		<longitude>14.15915</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala/Erste Club</branch_name>
+		<address>Frana Supila 6</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6670</phone>
+		<fax>072 37  6671</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:30</opening_mon_from>
+		<opening_mon_to>16:30</opening_mon_to>
+		<opening_tue_from>08:30</opening_tue_from>
+		<opening_tue_to>16:30</opening_tue_to>
+		<opening_wed_from>08:30</opening_wed_from>
+		<opening_wed_to>16:30</opening_wed_to>
+		<opening_thu_from>08:30</opening_thu_from>
+		<opening_thu_to>16:30</opening_thu_to>
+		<opening_fri_from>08:30</opening_fri_from>
+		<opening_fri_to>16:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:30</consulting_mon_from>
+		<consulting_mon_to>16:30</consulting_mon_to>
+		<consulting_tue_from>08:30</consulting_tue_from>
+		<consulting_tue_to>16:30</consulting_tue_to>
+		<consulting_wed_from>08:30</consulting_wed_from>
+		<consulting_wed_to>16:30</consulting_wed_to>
+		<consulting_thu_from>08:30</consulting_thu_from>
+		<consulting_thu_to>16:30</consulting_thu_to>
+		<consulting_fri_from>08:30</consulting_fri_from>
+		<consulting_fri_to>16:30</consulting_fri_to>
+		<latitude>45.32866</latitude>
+		<longitude>14.44051</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Trsat</branch_name>
+		<address>Frankopanski trg 1</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6725</phone>
+		<fax>072 37  6726</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>12:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.33128</latitude>
+		<longitude>14.45665</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Turnić</branch_name>
+		<address>Franje Čandeka 32 f</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6705</phone>
+		<fax>072 37  6706</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>12:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.34032</latitude>
+		<longitude>14.40938</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Jadranski trg 3 a</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  5000</phone>
+		<fax>072 37  5951</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>13:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.32792</latitude>
+		<longitude>14.43893</longitude>
+		<kom_centar_tel>072 37 5000</kom_centar_tel>
+		<kom_centar_fax>072 37 6000</kom_centar_fax>
+		<pod_centar_tel>072 37 5367</pod_centar_tel>
+		<pod_centar_fax>072 37 5956</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Vežica</branch_name>
+		<address>Kvaternikova 62</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6665</phone>
+		<fax>072 37  6666</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>10:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>10:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.32051</latitude>
+		<longitude>14.47513</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Potok</branch_name>
+		<address>Nikole Tesle 11</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6655</phone>
+		<fax>072 37  6656</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:30</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:30</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:30</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>12:30</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:30</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:30</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>12:30</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:30</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>12:30</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>08:30</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.33220</latitude>
+		<longitude>14.43128</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Škurinje</branch_name>
+		<address>Osječka 50</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6720</phone>
+		<fax>072 37  6721</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>12:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.339982</latitude>
+		<longitude>14.427688</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala  Zamet</branch_name>
+		<address>Petra Jurčića 2 a</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6660</phone>
+		<fax>072 37  6661</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>12:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>12:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.34193</latitude>
+		<longitude>14.39132</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica  Riva</branch_name>
+		<address>Riva 10</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6855</phone>
+		<fax>051 214 350</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.32676</latitude>
+		<longitude>14.44202</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Belveder</branch_name>
+		<address>Tizianova 2</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6735</phone>
+		<fax>072 37  6736</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.333723</latitude>
+		<longitude>14.437875</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Rječina</branch_name>
+		<address>Ul. Fiumara 11</address>
+		<zipcode>51000</zipcode>
+		<city>Rijeka</city>
+		<phone>072 37  6635</phone>
+		<fax>072 37  6636</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>15:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:00</consulting_fri_to>
+		<latitude>45.326384</latitude>
+		<longitude>14.446597</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Rovinj</branch_name>
+		<address>Trg maršala Tita 7</address>
+		<zipcode>52210</zipcode>
+		<city>Rovinj</city>
+		<phone>072 37  6630</phone>
+		<fax>072 37  6631</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.08228</latitude>
+		<longitude>13.634368</longitude>
+		<pod_centar_tel>072 37 6343</pod_centar_tel>
+		<pod_centar_fax>072 37 6631</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Rovišće</branch_name>
+		<address>Trg hrvatskih branitelja 2</address>
+		<zipcode>43212</zipcode>
+		<city>Rovišće</city>
+		<phone>072 37  4620</phone>
+		<fax>072 37  4099</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.94591</latitude>
+		<longitude>16.73204</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Samobor</branch_name>
+		<address>Trg kralja Tomislava 4</address>
+		<zipcode>10430</zipcode>
+		<city>Samobor</city>
+		<phone>072 37  2540</phone>
+		<fax>072 37  2541</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.80197</latitude>
+		<longitude>15.70934</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Selce</branch_name>
+		<address>Trg Palih boraca 13</address>
+		<zipcode>51266</zipcode>
+		<city>Selce</city>
+		<phone>072 37  6760</phone>
+		<fax>072 37  6761</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.15762</latitude>
+		<longitude>14.71964</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Senj</branch_name>
+		<address>Obala dr. Franje Tuđmana 1</address>
+		<zipcode>53270</zipcode>
+		<city>Senj</city>
+		<phone>072 37  6615</phone>
+		<fax>072 37  6616</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>44.992195</latitude>
+		<longitude>14.900851</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Sesvete</branch_name>
+		<address>Bjelovarska 3</address>
+		<zipcode>10360</zipcode>
+		<city>Sesvete</city>
+		<phone>072 37  2525</phone>
+		<fax>072 37  2526</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>18:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>18:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>18:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>18:00</consulting_fri_to>
+		<latitude>45.82700</latitude>
+		<longitude>16.11159</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Sinj</branch_name>
+		<address>Put Petrovca 12</address>
+		<zipcode>21230</zipcode>
+		<city>Sinj</city>
+		<phone>072 37  4775</phone>
+		<fax>072 37  4776</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>43.70120</latitude>
+		<longitude>16.63665</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Sisak</branch_name>
+		<address>Stjepana i Antuna Radića 4-6</address>
+		<zipcode>44000</zipcode>
+		<city>Sisak</city>
+		<phone>072 37  4575</phone>
+		<fax>072 37  4576</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.48733</latitude>
+		<longitude>16.37257</longitude>
+		<pod_centar_tel>072 37 4393</pod_centar_tel>
+		<pod_centar_fax>072 37 4576</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Skrad</branch_name>
+		<address>J. Blaževića Blaža 6</address>
+		<zipcode>51311</zipcode>
+		<city>Skrad</city>
+		<phone>072 37  6915</phone>
+		<fax>072 37  6916</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.43117</latitude>
+		<longitude>14.90478</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Slatina</branch_name>
+		<address>Trg Sv. Josipa 1</address>
+		<zipcode>33520</zipcode>
+		<city>Slatina</city>
+		<phone>072 37  4720</phone>
+		<fax>072 37  4721</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:30</opening_mon_to>
+		<opening_tue_from>11:00</opening_tue_from>
+		<opening_tue_to>18:30</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:30</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>15:30</consulting_mon_to>
+		<consulting_tue_from>11:00</consulting_tue_from>
+		<consulting_tue_to>18:30</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>15:30</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>15:30</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>15:30</consulting_fri_to>
+		<latitude>45.71035</latitude>
+		<longitude>17.69653</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Ul.Petra Krešimira IV 24</address>
+		<zipcode>35000</zipcode>
+		<city>Slavonski Brod</city>
+		<phone>072 37  4760</phone>
+		<fax>072 37  4761</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.15504</latitude>
+		<longitude>18.01523</longitude>
+		<kom_centar_tel>072 37 4760</kom_centar_tel>
+		<kom_centar_fax>072 37 4763</kom_centar_fax>
+		<pod_centar_tel>072 37 3423</pod_centar_tel>
+		<pod_centar_fax>072 37 4762</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Solin</branch_name>
+		<address>Ul. kralja Zvonimira 111</address>
+		<zipcode>21210</zipcode>
+		<city>Solin</city>
+		<phone>072 37  4770</phone>
+		<fax>072 37  4771</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:30</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:30</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:30</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>43.53806</latitude>
+		<longitude>16.49133</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Kaufland</branch_name>
+		<address>114. Brigade 6</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<phone>072 37  4785</phone>
+		<fax>072 37  4786</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:30</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:30</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:30</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>43.52002</latitude>
+		<longitude>16.46550</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Firule</branch_name>
+		<address>Dubrovačka 1</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<phone>072 37  4740</phone>
+		<fax>072 37  4741</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:30</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:30</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:30</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>43.50536</latitude>
+		<longitude>16.45576</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Gundulićeva 40a</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<phone>072 37  4530</phone>
+		<fax>072 37  4531</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:30</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:30</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:30</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:30</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:30</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>18:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>18:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>18:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>18:00</consulting_fri_to>
+		<latitude>43.51419</latitude>
+		<longitude>16.44103</longitude>
+		<kom_centar_tel>072 37 3809</kom_centar_tel>
+		<kom_centar_fax>072 37 3909</kom_centar_fax>
+		<pod_centar_tel>072 37 4387</pod_centar_tel>
+		<pod_centar_fax>072 37 4531</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala  Split III</branch_name>
+		<address>Ruđera Boškovića 9</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<phone>072 37  4710</phone>
+		<fax>072 37  4711</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>18:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>18:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>18:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>18:00</consulting_fri_to>
+		<latitude>43.506955</latitude>
+		<longitude>16.46504</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala City Centar One </branch_name>
+		<address>Vukovarska 207</address>
+		<zipcode>21000</zipcode>
+		<city>Split</city>
+		<phone>072 37  4790</phone>
+		<fax>072 37  4791</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>13:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>43.51350</latitude>
+		<longitude>16.50069</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Poljana 5</address>
+		<zipcode>22000</zipcode>
+		<city>Šibenik</city>
+		<phone>072 37  4540</phone>
+		<fax>072 37  4541</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>43.73442</latitude>
+		<longitude>15.89443</longitude>
+		<kom_centar_tel>072 37 3810</kom_centar_tel>
+		<kom_centar_fax>072 37 3910</kom_centar_fax>
+		<pod_centar_tel>072 37 1738</pod_centar_tel>
+		<pod_centar_fax>072 37 4541</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Trogir</branch_name>
+		<address>Blaža J. Trogiranina 3 </address>
+		<zipcode>21219</zipcode>
+		<city>Trogir</city>
+		<phone>072 37  4745</phone>
+		<fax>072 37  4746</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>43.51764</latitude>
+		<longitude>16.25081</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Umag</branch_name>
+		<address>Trgovačka 2a</address>
+		<zipcode>52470</zipcode>
+		<city>Umag</city>
+		<phone>072 37  6580</phone>
+		<fax>072 37  6581</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.43326</latitude>
+		<longitude>13.52100 </longitude>
+		<prof_centar_tel>072 37 5811</prof_centar_tel>
+		<prof_centar_fax>072 37 6582</prof_centar_fax>
+		<pod_centar_tel>072 37 6435</pod_centar_tel>
+		<pod_centar_fax>072 37 6582</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Ul. Tome Blažeka 1</address>
+		<zipcode>42000</zipcode>
+		<city>Varaždin</city>
+		<phone>072 37  4675</phone>
+		<fax>072 37  4677</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>46.30420</latitude>
+		<longitude>16.33561</longitude>
+		<kom_centar_tel>072 37 4889</kom_centar_tel>
+		<kom_centar_fax>072 37 3944</kom_centar_fax>
+		<pod_centar_tel>072 37 4365</pod_centar_tel>
+		<pod_centar_fax>072 37 4676</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Velika Gorica</branch_name>
+		<address>Trg kralja Tomislava 38</address>
+		<zipcode>10410</zipcode>
+		<city>Velika Gorica</city>
+		<phone>072 37  2510</phone>
+		<fax>072 37  2511</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.71387</latitude>
+		<longitude>16.07526</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Vinkovci</branch_name>
+		<address>Duga ulica 10</address>
+		<zipcode>32100</zipcode>
+		<city>Vinkovci</city>
+		<phone>072 37  4690</phone>
+		<fax>072 37  4691</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.28800</latitude>
+		<longitude>18.80306</longitude>
+		<prof_centar_tel>072 37 4442</prof_centar_tel>
+		<prof_centar_fax>072 37 4692</prof_centar_fax>
+		<pod_centar_tel>072 37 3450</pod_centar_tel>
+		<pod_centar_fax>072 37 4756</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Virje</branch_name>
+		<address>Trg bana Jelačića 8b</address>
+		<zipcode>48326</zipcode>
+		<city>Virje</city>
+		<phone>072 37  4630</phone>
+		<fax>072 37  4631</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>46.06622</latitude>
+		<longitude>16.98763</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Virovitica</branch_name>
+		<address>Trg Dr. Franje Tuđmana bb</address>
+		<zipcode>33000</zipcode>
+		<city>Virovitica</city>
+		<phone>072 37  4665</phone>
+		<fax>072 37  4666</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.83216</latitude>
+		<longitude>17.38732</longitude>
+		<pod_centar_tel>072 37 4263</pod_centar_tel>
+		<pod_centar_fax>072 37 3939</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Viškovo</branch_name>
+		<address>Viškovo 90</address>
+		<zipcode>51216</zipcode>
+		<city>Viškovo</city>
+		<phone>072 37  6800</phone>
+		<fax>072 37  6801</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:30</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>12:30</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:30</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>12:30</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:30</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.37777</latitude>
+		<longitude>14.38593</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Vrbovsko</branch_name>
+		<address>Dobra 3</address>
+		<zipcode>51326</zipcode>
+		<city>Vrbovsko</city>
+		<phone>072 37  6680</phone>
+		<fax>072 37  6681</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>15:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>15:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>15:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>15:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>15:00</opening_fri_to>
+		<opening_sat_from>I. i IV 8:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.37423</latitude>
+		<longitude>15.07047</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Vukovar</branch_name>
+		<address>J.J. Strossmayera 14c</address>
+		<zipcode>32000</zipcode>
+		<city>Vukovar</city>
+		<phone>072 37  4735</phone>
+		<fax>072 37  4736</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.35252</latitude>
+		<longitude>19.00181</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Zabok</branch_name>
+		<address>Matije Gupca 68</address>
+		<zipcode>49219</zipcode>
+		<city>Zabok</city>
+		<phone>072 37  4715</phone>
+		<fax>072 37  4716</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>18:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>46.02569</latitude>
+		<longitude>15.90322</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Obala kneza Branimira 6</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<phone>072 37  4510</phone>
+		<fax>072 37  4511</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>44.11487</latitude>
+		<longitude>15.23306</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Zadar-Kalelarga</branch_name>
+		<address>Široka ulica 1</address>
+		<zipcode>23000</zipcode>
+		<city>Zadar</city>
+		<phone>072 37  4660</phone>
+		<fax>072 37  4661</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>17:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>17:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>17:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>17:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>17:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>44.11526</latitude>
+		<longitude>15.22576</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Špansko</branch_name>
+		<address>Alberta Fortisa 16</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2535</phone>
+		<fax>072 37  2536</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.80323</latitude>
+		<longitude>15.89785</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Gajnice</branch_name>
+		<address>Argentinska ulica 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2210</phone>
+		<fax>072 37  2651</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>11:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>11:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.814556</latitude>
+		<longitude>15.876035</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Dubrava</branch_name>
+		<address>Avenija Dubrava 49</address>
+		<zipcode>10040</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2520</phone>
+		<fax>072 37  2501</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.82952</latitude>
+		<longitude>16.05214</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Velesajam</branch_name>
+		<address>Avenija Dubrovnik 15</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2615</phone>
+		<fax>072 37  2616</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.77784</latitude>
+		<longitude>15.97507</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Pešćenica</branch_name>
+		<address>Avenija Vukovar 269 d</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2590</phone>
+		<fax>072 37  2591</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.80179</latitude>
+		<longitude>16.00309</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Gundulićeva</branch_name>
+		<address>Gundulićeva 8</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2635</phone>
+		<fax>072 37  2636</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>12:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.81206</latitude>
+		<longitude>15.97195</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Horvaćanska</branch_name>
+		<address>Horvaćanska 53a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2630</phone>
+		<fax>072 37  2631</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>11:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.78798</latitude>
+		<longitude>15.94681</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Jarun</branch_name>
+		<address>Hrgovići 55</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2565</phone>
+		<fax>072 37  2566</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>12:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>12:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.78670</latitude>
+		<longitude>15.92945</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Ilica</branch_name>
+		<address>Ilica 102</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2575</phone>
+		<fax>072 37  2576</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>15:30</opening_mon_to>
+		<opening_tue_from>12:00</opening_tue_from>
+		<opening_tue_to>18:30</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>15:30</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>15:30</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>15:30</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>15:30</consulting_mon_to>
+		<consulting_tue_from>12:00</consulting_tue_from>
+		<consulting_tue_to>18:30</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>15:30</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>15:30</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>15:30</consulting_fri_to>
+		<latitude>45.81235</latitude>
+		<longitude>15.96336</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Ivana Lučića 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2580</phone>
+		<fax>072 37  1956</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>13:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.79944</latitude>
+		<longitude>15.97007</longitude>
+		<kom_centar_tel>072 37 1656, 072 37 1267</kom_centar_tel>
+		<kom_centar_fax>072 37 1918, 072 37 1923</kom_centar_fax>
+		<pod_centar_tel>072 37 1071</pod_centar_tel>
+		<pod_centar_fax>072 37 1970</pod_centar_fax>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica za mlade/Erste Club</branch_name>
+		<address>Kennedyev trg 6</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2555</phone>
+		<fax>072 37  2556</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.81649</latitude>
+		<longitude>16.01258</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Kvaternikov trg</branch_name>
+		<address>Kvaternikov trg 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2530</phone>
+		<fax>072 37  2531</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.81503</latitude>
+		<longitude>15.99667</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Maksimir</branch_name>
+		<address>Maksimirska 114</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2640</phone>
+		<fax>072 37  2641</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.81848</latitude>
+		<longitude>16.01222</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar</branch_name>
+		<address>Masarykova 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2500</phone>
+		<fax>072 37  2501</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>13:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>18:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>18:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>18:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>18:00</consulting_fri_to>
+		<latitude>45.81111</latitude>
+		<longitude>15.97412</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Zapruđe</branch_name>
+		<address>Meštrovićev trg 1a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2645</phone>
+		<fax>072 37  2646</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.779201</latitude>
+		<longitude>15.995761</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Trešnjevka</branch_name>
+		<address>Ozaljska 33</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2595</phone>
+		<fax>072 37  2596</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>9:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>9:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>9:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>9:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>9:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>9:00</consulting_mon_from>
+		<consulting_mon_to>18:00</consulting_mon_to>
+		<consulting_tue_from>9:00</consulting_tue_from>
+		<consulting_tue_to>18:00</consulting_tue_to>
+		<consulting_wed_from>9:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>9:00</consulting_thu_from>
+		<consulting_thu_to>18:00</consulting_thu_to>
+		<consulting_fri_from>9:00</consulting_fri_from>
+		<consulting_fri_to>18:00</consulting_fri_to>
+		<latitude>45.79833</latitude>
+		<longitude>15.94726</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Vrbani</branch_name>
+		<address>Rudeška cesta 140</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2605</phone>
+		<fax>072 37  2606</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>9:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>9:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>9:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>9:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>9:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>9:00</consulting_mon_from>
+		<consulting_mon_to>18:00</consulting_mon_to>
+		<consulting_tue_from>9:00</consulting_tue_from>
+		<consulting_tue_to>18:00</consulting_tue_to>
+		<consulting_wed_from>9:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>9:00</consulting_thu_from>
+		<consulting_thu_to>18:00</consulting_thu_to>
+		<consulting_fri_from>9:00</consulting_fri_from>
+		<consulting_fri_to>18:00</consulting_fri_to>
+		<latitude>45.79452</latitude>
+		<longitude>15.91940</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Sveti Duh</branch_name>
+		<address>Sveti Duh 2</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2585</phone>
+		<fax>072 37  2586</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>18:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>18:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>18:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>18:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>18:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>18:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>18:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>18:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>18:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>18:00</consulting_fri_to>
+		<latitude>45.81351</latitude>
+		<longitude>15.94235</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Cibona</branch_name>
+		<address>Tratinska 1</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2600</phone>
+		<fax>072 37  2601</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>12:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>12:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.80306</latitude>
+		<longitude>15.96435</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Savjetodavni centar Zrinjevac</branch_name>
+		<address>Trg N. Šubića Zrinskog 18 (Zrinjevac)</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2610</phone>
+		<fax>072 37  2611</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>13:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.81069</latitude>
+		<longitude>15.97750</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Medo Štedo Brlog</branch_name>
+		<address>Varšavska 3</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2560</phone>
+		<fax>072 37  2561</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>ne radi</opening_mon_from>
+		<opening_mon_to>ne radi</opening_mon_to>
+		<opening_tue_from>08:30</opening_tue_from>
+		<opening_tue_to>16:30</opening_tue_to>
+		<opening_wed_from>08:30</opening_wed_from>
+		<opening_wed_to>16:30</opening_wed_to>
+		<opening_thu_from>11:00</opening_thu_from>
+		<opening_thu_to>18:30</opening_thu_to>
+		<opening_fri_from>11:00</opening_fri_from>
+		<opening_fri_to>18:30</opening_fri_to>
+		<opening_sat_from>08:30</opening_sat_from>
+		<opening_sat_to>15:00</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.81177</latitude>
+		<longitude>15.97346</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Vlaška</branch_name>
+		<address>Vlaška 50 a</address>
+		<zipcode>10000</zipcode>
+		<city>Zagreb</city>
+		<phone>072 37  2570</phone>
+		<fax>072 37  2571</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>09:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>19:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>19:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>19:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>19:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>19:00</consulting_fri_to>
+		<latitude>45.81361</latitude>
+		<longitude>15.98445</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Zaprešić</branch_name>
+		<address>Mihovila Krušlina 20</address>
+		<zipcode>10290</zipcode>
+		<city>Zaprešić</city>
+		<phone>072 37  2625</phone>
+		<fax>072 37  2626</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00 </opening_mon_from>
+		<opening_mon_to>19:00</opening_mon_to>
+		<opening_tue_from>09:00 </opening_tue_from>
+		<opening_tue_to>19:00</opening_tue_to>
+		<opening_wed_from>09:00 </opening_wed_from>
+		<opening_wed_to>19:00</opening_wed_to>
+		<opening_thu_from>09:00 </opening_thu_from>
+		<opening_thu_to>19:00</opening_thu_to>
+		<opening_fri_from>09:00 </opening_fri_from>
+		<opening_fri_to>19:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>09:00</consulting_mon_from>
+		<consulting_mon_to>17:00</consulting_mon_to>
+		<consulting_tue_from>09:00</consulting_tue_from>
+		<consulting_tue_to>17:00</consulting_tue_to>
+		<consulting_wed_from>09:00</consulting_wed_from>
+		<consulting_wed_to>17:00</consulting_wed_to>
+		<consulting_thu_from>09:00</consulting_thu_from>
+		<consulting_thu_to>17:00</consulting_thu_to>
+		<consulting_fri_from>09:00</consulting_fri_from>
+		<consulting_fri_to>17:00</consulting_fri_to>
+		<latitude>45.86036</latitude>
+		<longitude>15.80397</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Poslovnica Žminj</branch_name>
+		<address>9. rujna bb</address>
+		<zipcode>52341</zipcode>
+		<city>Žminj</city>
+		<phone>072 37  6765</phone>
+		<fax>072 37  6766</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>09:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>09:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>09:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>09:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>09:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>ne radi</opening_sat_from>
+		<opening_sat_to>ne radi</opening_sat_to>
+		<consulting_mon_from>ne radi</consulting_mon_from>
+		<consulting_mon_to>ne radi</consulting_mon_to>
+		<consulting_tue_from>ne radi</consulting_tue_from>
+		<consulting_tue_to>ne radi</consulting_tue_to>
+		<consulting_wed_from>ne radi</consulting_wed_from>
+		<consulting_wed_to>ne radi</consulting_wed_to>
+		<consulting_thu_from>ne radi</consulting_thu_from>
+		<consulting_thu_to>ne radi</consulting_thu_to>
+		<consulting_fri_from>ne radi</consulting_fri_from>
+		<consulting_fri_to>ne radi</consulting_fri_to>
+		<latitude>45.14146</latitude>
+		<longitude>13.90848</longitude>
+	</Branch>
+	<Branch>
+		<country>Croatia</country>
+		<branch_name>Filijala Županja</branch_name>
+		<address>Trg kralja Tomislava 18</address>
+		<zipcode>32270</zipcode>
+		<city>Županja</city>
+		<phone>072 37  4725</phone>
+		<fax>072 37  4726</fax>
+		<email>erstebank@erstebank.hr</email>
+		<opening_mon_from>08:00</opening_mon_from>
+		<opening_mon_to>16:00</opening_mon_to>
+		<opening_tue_from>08:00</opening_tue_from>
+		<opening_tue_to>16:00</opening_tue_to>
+		<opening_wed_from>08:00</opening_wed_from>
+		<opening_wed_to>16:00</opening_wed_to>
+		<opening_thu_from>08:00</opening_thu_from>
+		<opening_thu_to>16:00</opening_thu_to>
+		<opening_fri_from>08:00</opening_fri_from>
+		<opening_fri_to>16:00</opening_fri_to>
+		<opening_sat_from>08:00</opening_sat_from>
+		<opening_sat_to>12:00</opening_sat_to>
+		<consulting_mon_from>08:00</consulting_mon_from>
+		<consulting_mon_to>16:00</consulting_mon_to>
+		<consulting_tue_from>08:00</consulting_tue_from>
+		<consulting_tue_to>16:00</consulting_tue_to>
+		<consulting_wed_from>08:00</consulting_wed_from>
+		<consulting_wed_to>16:00</consulting_wed_to>
+		<consulting_thu_from>08:00</consulting_thu_from>
+		<consulting_thu_to>16:00</consulting_thu_to>
+		<consulting_fri_from>08:00</consulting_fri_from>
+		<consulting_fri_to>16:00</consulting_fri_to>
+		<latitude>45.07319</latitude>
+		<longitude>18.69466</longitude>
+	</Branch>
+</Branches>
