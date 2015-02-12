@@ -1,0 +1,267 @@
+RBR,Adresa1,Bankomat se nalazi u poslovnici,Grad,Latituda,Longituda
+1,Trg bana Josipa Jelačića 3,1,Zagreb,45.81341,15.976613
+2,Trpinjska 9,0,Zagreb,45.814044,15.993663
+3,Trakošćanska 6,0,Zagreb,45.801132,15.955153
+4,Avenija Dubrava 43,1,Zagreb,45.827558,16.048343
+5,Branimir Centar – Branimirova 29,0,Zagreb,45.805557,15.984946
+7,Jarun – ulaz na Malo jezero; pokraj kafića Galleria,0,Zagreb,45.781365,15.93307
+8,Jankomir; Škorpikova 11,1,Zagreb,45.806247,15.859451
+9,Novi Zagreb-Sarajevska 6,1,Zagreb,45.769379,16.004773
+10,Konzum-Stenjevac 9,0,Zagreb,45.81048,15.885935
+11,Slavonska 6,1,Zagreb,45.793375,15.970109
+12,Slavonska 6,0,Zagreb,45.793375,15.970109
+13,Avenue Mall,0,Zagreb,45.777583,15.986288
+14,Prečko; Petrovaradinska 7,1,Zagreb,45.794802,15.907637
+15,Glavni kolodvor,0,Zagreb,45.804565,15.978788
+16,Importanne Galleria,0,Zagreb,45.813442,15.985225
+17,Lanište 17,0,Zagreb,45.772876,15.944748
+18,Mercator; Ul. Grada Vukovara 269b,0,Zagreb,45.801861,16.002536
+19,Slavonska avenija;benzinska pumpa Lukoil,0,Zagreb,45.804752,16.084387
+20,City Center One; Jankomir 33,0,Zagreb,45.800217,15.872742
+21,Autobusni kolodvor-Avenija Marina Držića 4,0,Zagreb,45.80452,15.993202
+22,Šubićeva 64,0,Zagreb,45.814115,15.9967
+23,Heinzelova 33a - Wustenrot,0,Zagreb,45.810912,16.001519
+24,Ozaljska 4 - Fina,0,Zagreb,45.799894,15.953471
+25,Oporovečka 14; Garden Mall,0,Zagreb,45.831104,16.036914
+26,Siget 17; AK Siget,0,Zagreb,45.773257,15.968177
+27,Slavonska avenija 6; DRIVE IN,1,Zagreb,45.793375,15.970109
+28,Arena Centar; Lanište 32,0,Zagreb,45.771609,15.94305
+29,Avenija Dubrovnik 15,1,Zagreb,45.777266,15.973263
+30,Maksimirska 123,1,Zagreb,45.819304,16.012831
+31,Trg bana Josipa Jelačića 3,1,Zagreb,45.81341,15.976613
+32,Planinska 17 - Tržnica Volovčica,0,Zagreb,45.807264,16.03034
+33,Ilica 251,1,Zagreb,45.81475,15.933332
+34,Varšavska 6 - trgovačko-poslovni centar Cvjetno,0,Zagreb,45.811892,15.972951
+35,Ozaljska 85,1,Zagreb,45.797731,15.943487
+36,Pakoštanska 5 - Tržnica Jarun,0,Zagreb,45.789721,15.928039
+37,Dobriše Cesarića 71 - Tržnica Špansko,0,Zagreb,45.802927,15.899363
+38,Grgura Ninskog bb; - Importanne pothodnik,0,Zagreb,45.804931,15.97616
+39,Barčev trg 16 - Tržnica Utrine,0,Zagreb,45.776952,15.996823
+40,Stonska 1 - Središće,0,Zagreb,45.780409,15.985322
+41,Maksimirska 1 - Konzum,0,Zagreb,45.815132,15.997328
+42,Braće Domany 8,0,Zagreb,45.788879,15.938544
+43,Dankovečka 6 - Dubrava; Pekarna Dubravica,0,Zagreb,45.83463,16.055939
+44,Vukovarska 269d,1,Zagreb,45.801861,16.002536
+45,Kišpatićeva 12 - KBC Rebro,0,Zagreb,45.824433,16.006501
+46,Slavonska avenija 11b; City Center One-Žitnjak,0,Zagreb,45.800832,16.04167
+47,Heinzelova 9,1,Zagreb,45.813434,15.999107
+48,Vodnikova 13 - Hotel Garden,0,Zagreb,45.805485,15.967146
+49,Horvaćanska cesta 17a - caffe bar Red Hot Chili Peppers,0,Zagreb,45.787786,15.951481
+50,Ivane Brlić Mažuranić 25 - Špansko,0,Zagreb,45.806487,15.902579
+51,Supermarket Konzum; J.J. Strossmayera 6,0,Zadar,44.11834,15.231696
+52,Relja centar; Polačišće 2 ,0,Zadar,44.110237,15.237286
+53,Hypo Centar; Zrinsko Frankopanska 40,1,Zadar,44.109505,15.23558
+54,Konzum – Borik; A.G. Matoša 4,0,Zadar,44.132249,15.211709
+55,Jurja Barakovića 4,1,Zadar,44.114335,15.227995
+56,SC Supernova; Ulica Akcije Maslenica 1,0,Zadar,44.116554,15.285244
+57,Zračna luka Zadar - Zemunik,0,Zadar,44.096955,15.353823
+58,Trg kralja Petra Krešimira IV. br. 3,1,Velika Gorica,45.711858,16.078966
+59,Zračna luka Pleso (Terminal domaćih odlazaka),0,Zagreb,45.729466,16.057192
+60,Zagrebačka 19 - butik Web,0,Velika Gorica,45.723739,16.046133
+61,Zagrebačka 61,1,Varaždin,46.297211,16.341106
+62,Gundulićeva 6,1,Varaždin,46.30658,16.336775
+63,Koprivnička 17 - Kaufland,0,Varaždin,46.314272,16.348858
+64,Trgovačka 1b,1,Umag,45.43327,13.521984
+65,Poljička cesta 39,1,Split,43.505079,16.455401
+66,Robna kuća Prima Grad - Trg Gaje Bulata 5,0,Split,43.510978,16.437929
+67,Hotel President; Starčevićeva 1,0,Split,43.513113,16.43777
+68,Robna kuća Prima 3; Ruđera Boškovića bb,0,Split,43.507165,16.46666
+69,TC Joker,0,Split,43.519793,16.445788
+70,Ulica Domovinskog rata 40 - Brodarica,1,Split,43.518453,16.447719
+71,Obala hrvatskog narodnog preporoda 6 - Riva,1,Split,43.507698,16.438631
+72,Obala kneza Domagoja bb (Pazar),0,Split,43.504126,16.442534
+73,Zvonimirova 85,0,Split,43.512579,16.521441
+74,Vukovarska 97,0,Split,43.512971,16.464837
+75,Vinkovačka 21,0,Split,43.512238,16.454859
+76,City Center One; Vukovarska 207,0,Split,43.513732,16.499147
+77,Tolstojeva 2,0,Split,43.50925,16.443357
+78,Spičićeva 2,1,Split,43.506355,16.456683
+79,Branimirova obala 16 - Jadroplov d.d.,0,Split,43.503912,16.428357
+80,S.S. Kranjčevića 11,1,Sisak,45.484981,16.37283
+81,I.K.Sakcinskog 28,0,Sisak,45.487268,16.37333
+82,Hrvatskog narodnog preporoda bb.; tržnica Caprag,0,Sisak,45.45773,16.38827
+83,Zagrebačka 16,1,Sesvete,45.827969,16.104455
+84,Livadićeva 20,1,Samobor,45.801599,15.710801
+85,Mercator – Blajburških žrtava 1945. br. 1,0,Samobor,45.810559,15.712407
+86,Lička 14,0,Samobor,45.801534,15.723147
+87,Nello Quarantotto bb,1,Rovinj,45.080112,13.63711
+88,Vrata Valdibora bb - Tržnica,0,Rovinj,45.083195,13.63649
+89,Jadranski trg 3,1,Rijeka,45.329397,14.43802
+90,Istravino Export - Tome Strižića 8,0,Rijeka,45.325433,14.471373
+91,Rijeka-Plodine,0,Rijeka,45.344311,14.412644
+92,Rijeka;Zagrad-Prolaz Marije Krucifikse Kozulić 1,0,Rijeka,45.354066,14.366247
+93,Rijeka; Srdoči-Bartola Kašića 8a,0,Rijeka,45.32784,14.43842
+94,Rijeka; Korzo 26 - Tisak,0,Rijeka,45.327284,14.440954
+95,Janka Polić Kamova 81 - Tower,0,Rijeka,45.318342,14.469402
+96,Krešimirova 42 - KBC Rijeka,0,Rijeka,45.33091,14.428461
+97,Zametska 44 - TC Kaufland,0,Rijeka,45.340382,14.398227
+98,Zvonimirova 3 - ZTC Rijeka,0,Rijeka,45.338127,14.410338
+99,Vozišće 5,1,Viškovo,45.382296,14.382477
+100,Plodine; Jurja Žakna 12,0,Pula,44.877778,13.86395
+101,Pula-Flanatička 25,1,Pula,44.867263,13.850538
+102,Monte Paradiso 11 - Veruda,0,Pula,44.851168,13.843932
+103,Vukovarska 19,1,Poreč,45.22529,13.607697
+104,Novalja; Trg Loža 1; Hotel Loža,0,Novalja,44.556801,14.883315
+105,Zrće. Plaža Katarelac b.b.,0,Pag,44.539101,14.91389
+106,M.Tita 108,0,Opatija,45.335976,14.307614
+107,Ivana Gundulića 20/2,1,Metković,43.053916,17.651221
+108,Marineta 2,1,Makarska,43.291186,17.020075
+109,M. Tita 29,0,Lovran,45.291203,14.277195
+110,Trg hrvatskih ivanovaca 1,0,Ivanec,46.230203,16.122158
+111,Obala Stjepana Radića 26a,0,Dubrovnik,42.656158,18.08797
+112,Vukovarska 15,1,Dubrovnik,42.652402,18.089987
+113,Hotel Zagreb; Šetalište kralja Zvonimira 3,0,Dubrovnik,42.658697,18.078239
+114,Magma; Stradun; Placa bb,0,Dubrovnik,42.641457,18.108591
+115,Matice Hrvatske 6,1,Èakovec,46.389274,16.435783
+116,Prodajni centar Lesnina; Globetka bb,0,Èakovec,46.392999,16.421229
+117,Tomaša Goričanca 1,0,Èakovec,46.379638,16.444632
+118,Frankopanska bb,0,Crikvenica,45.173718,14.694514
+119,Carlotte Grisi b.b. - Plodine,0,Novigrad,45.318484,13.567959
+120,Trgovački centar Plodine – Štrmac bb,0,Labin,45.118978,14.12065
+121,S.Radića 77,1,Šibenik,43.728819,15.902815
+122,Obala dr. Franje Tuđmana 2,0,Šibenik,43.734327,15.890267
+123,Velimira Škorpika 23 - TC Dalmare,0,Šibenik,43.717644,15.90657
+124,Trg I.Mažuranića bb. - Konzum,0,Novi Vinodolski,45.128531,14.791653
+125,Virski put bb - Konzum,0,Vir,44.29234,15.116501
+126,Vela placa 1,1,Krk,45.026124,14.573075
+127,A. Gredičaka bb. - trgovina D&M,0,Oroslavlje,45.995672,15.91363
+128,Kovači 20,0,Kaštelir,45.303803,13.68804
+129,Trg La Musa bb,0,Bale,45.04009,13.787241
+130,Vladka Mačeka 12,1,Karlovac,45.492096,15.548889
+131,Trg Josipa Broza 2 - Tržnica,0,Karlovac,45.488885,15.547972
+132,Industrijska zona bb - Adriaoil,0,Kukuljanovo,45.321737,14.539204
+133,Zrinski trg 7-Varaždin,1,Koprivnica,46.165484,16.830937
+134,Braće Vidulić bb,0,Mali Lošinj,44.53322,14.470657
+135,Vlatka Mačeka 20,0,Jastrebarsko,45.67209,15.651156
+136,Kralja Zvonimira 5,1,Èepin,45.517414,18.549256
+137,Konzum; Osječka 11,0,Èepin,45.511836,18.568477
+138,Tržnica - Splitska 4a,0,Ðakovo,45.306502,18.414631
+139,Konzum 2 - A.Starčevića 5,0,Ðakovo,45.311299,18.41021
+140,V.Nazora 43,0,Ðakovo,45.318625,18.415843
+141,Kaufland; Franje Račkog 95,0,Ðakovo,45.309779,18.397309
+142,Kralja Tomislava 3 -TZ grada Ðakova,0,Ðakovo,45.310028,18.41065
+143,Bolnica; Huttlerova 4,0,Osijek,45.557855,18.715687
+144,Bosutsko naselje bb,0,Osijek,45.546905,18.675513
+145,A. Kanižlića 48a,0,Osijek,45.561548,18.661807
+146,P. Svačića 4,0,Osijek,45.557769,18.705189
+147, Kadena-VIM-Vij.I.Meštrovića 26d,0,Osijek,45.556514,18.698999
+148,Blok Centar 1 - Trg slobode 5,1,Osijek,45.559955,18.678721
+149,Blok Centar 2 - Trg slobode 5,1,Osijek,45.559955,18.678721
+150,Retfala; J.J. Strossmayera 203,1,Osijek,45.563891,18.656641
+151,Automatska poslovnica; Kapucinska 29,1,Osijek,45.561037,18.679504
+152,JUG II - Opatijska 26f,1,Osijek,45.543291,18.715897
+153,Emmezeta; Svilajska 36,0,Osijek,45.56222,18.638332
+154,Tržnica - Trg Lj.Gaja bb,0,Osijek,45.558866,18.683206
+155,Tvrđa - D.Pinterović 56,0,Osijek,45.560744,18.694139
+156,Isterspar; Sv.L.B.Mandića 7,0,Osijek,45.553524,18.675224
+157,Kisok; Trg pape Ivana Pavla II bb,0,Osijek,45.56016,18.675438
+158,Sjenjak 133,1,Osijek,45.552375,18.697636
+159,Donji Grad; Trg bana J.Jelačića 25,1,Osijek,45.55528,18.71864
+160,RK Doma; Ive Tijardovića 4a,0,Osijek,45.556283,18.719534
+161,Lavoslava Ružičke 2; Željeznički kolodvor,0,Osijek,45.553175,18.683485
+162,Huttlerova 30; Supermarket Plodine,0,Osijek,45.553036,18.715296
+163,TC Portanova; Svilajska 31a,0,Osijek,45.56098,18.635784
+164,Avenue Mall; Sv. Leopolda Mandića bb,0,Osijek,45.363994,18.395604
+165,Ulica Bartola Kašića 70 - Autobusni kolodvor,0,Osijek,45.55369,18.686929
+166,Sjenjak 133,1,Osijek,45.552375,18.697636
+167,Josipa Reihl Kira 40 - Kaufland,0,Osijek,45.544982,18.713837
+168,Kapucinska 29,1,Osijek,45.561037,18.679504
+169,Kralja Zvonimira 2,0,Bilje,45.603875,18.744264
+170,Sv Ane 12,0,Tenja,45.502647,18.743856
+171,Zračna luka - Vukovarska 67,0,Klisa,45.467121,18.816082
+172,Sv Ivana Krstitelja 82,0,Darda,45.628062,18.688356
+173,Glavna 82,0,Kneževi Vinogradi,45.750883,18.734854
+174,Braće Radić 4,0,Antunovac,45.497579,18.739843
+175,Autobusni kolodvor-F.Cirakija 7,0,Požega,45.337516,17.681884
+176,Sv. Florijana 10,1,Požega,45.333485,17.677238
+177,Osječka 12 - Konzum,0,Požega,45.335043,17.694426
+178,Kralja Tomislava 20,0,Našice,45.489336,18.087895
+179,Trg Franje Tuđmana 12,1,Našice,45.490699,18.092935
+180,Trg Franje Tuđmana 12,1,Našice,45.490699,18.092935
+181,Kolodvorska 26,0,Donji Miholjac,45.754559,18.165636
+182,Trg A.Starčevića 8,1,Donji Miholjac,45.759664,18.161216
+183,Supernova; Osječka 284,0,Slavonski Brod,45.169,18.007402
+184,Stjepana pl Horvata bb,0,Slavonski Brod,45.171358,18.038542
+185,Oriovac; Trg hrvatskog preporoda 6,0,Oriovac,45.165685,17.756277
+186,Kralja Petra Krešimira IV 3,1,Slavonski Brod,45.162099,17.990799
+187,Josipa Rimca 7 - TC City Colosseum,0,Slavonski Brod,45.159519,17.996709
+188,naselje Andrije Hebranga;blok 5 ulaz 26,0,Slavonski Brod,45.157121,18.032758
+189,Trg kralja Tomislava 3,0,Nova Gradiška,45.259241,17.379556
+190,Blage Zadre 2,0,Borovo Naselje,45.375031,18.95339
+191,Konzum - 12 redarstvenika bb,0,Borovo Naselje,45.384074,18.95618
+192,Glavna 3,0,Borovo Naselje,45.40233,18.978683
+193,Trg bana Jelačića 7,0,Ivankovo,45.288777,18.684311
+194,Vladimira nazora 1,0,Otok,45.146725,18.883674
+195,Duga ulica 40,1,Vinkovci,45.291222,18.806105
+196,Glagoljaška 15a,0,Vinkovci,45.289958,18.8156
+197,Trg kralja Tomislava 11a,1,Valpovo,45.658733,18.415784
+198,Ivana Šveara 1,1,Pleternica,45.288041,17.800695
+199,Josipa Kozarca 105,1,Višnjevac,45.564334,18.627405
+200,Ferde Rusana 1,1,Virovitica,45.835258,17.387066
+201,Trg Sv. Josipa 2,1,Slatina,45.702043,17.700777
+202,Gajeva 22,0,Pitomača,45.952507,17.234094
+203,Kralja Zvonimira 5,1,Orahovica,45.532327,17.881891
+204,Veliki kraj 64,1,Županja,45.071914,18.695812
+205,Veliki kraj 64,1,Županja,45.071914,18.695812
+206,Kralja Zvonimira 1,1,Beli Manastir,45.767448,18.605583
+207,F.Tuđmana 4,1,Vukovar,45.347591,18.999867
+208,Mitnica,0,Vukovar,45.342041,19.015081
+209,N. Šubića Zrinskog 1,0,Koška,45.54411,18.285649
+210,Otok Ugljan; mini market Julija,0,Preko,44.081755,15.186952
+211,Zrinskih bb. Trgovački centar Betex,0,Prelog,46.329624,16.611371
+212,Marina Dalmacija,0,Bibinje / Sukošan,44.055672,15.304234
+213,Mihovila Krušlina 22,1,Zaprešić,45.860398,15.800014
+214,Zaprešička 1 - TC West Gate,0,Zaprešić,45.871605,15.826557
+215,Hoteli Punta Skala-Falkensteiner,0,Petrčane,44.193628,15.146509
+216,Trg Hrvatskih velikana bb,0,Biograd,43.937473,15.443878
+217,Obala Juričev Ive Cota 19,0,Vodice,43.758336,15.776362
+218,Kralja Tomislava 19,0,Malinska,45.122459,14.526459
+219,Fabrika 5,0,Hvar,43.172948,16.441469
+220,Alberi 300,0,Savudrija,45.500455,13.50378
+221,Kolodvorska 10a,0,Dugo Selo,45.80517,16.233244
+222,Zagrebačka bb.-Konzum,0,Vrbovec,45.885492,16.4191
+223,Ulica kralja Tomislava 1,0,Knin,44.040334,16.195704
+224,Otok Brač; Porat 1,0,Supetar (otok Brač),43.387218,16.547374
+225,Kralja Zvonimira 87b,1,Solin,43.536721,16.49036
+226,I. G. Kovačića 4,0,Ogulin,45.266279,15.224004
+227,Obala kralja Tomislava 15,0,Kaštel Stari,43.553236,16.346826
+228,Trg žrtava Domovinskog rata 8,0,Gunja,44.886495,18.824551
+229,Bana Jelačića 25,0,Ludbreg,46.253762,16.615089
+230,Obala neretvanskih gusara 4,0,Ploče,43.050479,17.433141
+231,Trg Dr. F. Tuđmana 1,0,Èačinci,45.600148,17.87339
+232,Od Izvora 64,0,Mokošica,42.678839,18.095684
+233,Obala 3  21,0,Vela Luka,42.96352,16.716213
+234,Trg matice Hrvatske 5,0,Imotski,43.448214,17.215447
+235,Trg Braće Radića 24,0,Aljmaš,45.528479,18.947811
+236,Franje Tuđmana 4 - Konzum,0,Ilok,45.223735,19.368296
+237,Trg maršala Tita 3,0,Matulji,45.363861,14.32394
+238,Gospodarska 5 - TC Emmezeta,0,Zagreb,45.748151,15.883484
+239,Brajdine 115,0,Medulin,44.819518,13.93326
+240,Toplička 80 - Hotel Terme Jezerčica,0,Donja Stubica,45.984797,15.963478
+241,Matije Gupca 78,0,Zabok,46.028972,15.909748
+242,Ulica grada Lipika 15 - TC Lumini,0,Donji Kneginec,46.258636,16.382332
+243,Kralja Tomislava 7,0,Cerna,45.191232,18.687744
+244,Vijenac S. H. Gutmmana b.b.,0,Belišće,45.683398,18.403473
+245,Trg Šime Vlašića 3 - hotel Borovnik,0,Tisno,43.798831,15.641504
+246,Splitska 37,1,Sinj,43.698696,16.64004
+247,Grljevačka 2a - Hotel Lav; Podstrana,0,Split,43.492236,16.538246
+248,Grljevačka 30 - Hotel San Antonio; Podstrana,0,Podstrana,43.485583,16.54955
+249,Njivice; Placa bb.,0,Njivice,45.164323,14.541655
+250,Trg Male Gospe 1,0,Skradin,43.817847,15.923469
+251,Jablanska 17,0,Zagreb,45.798439,15.913628
+252,Kralja Zvonimira 40,0,Šibenik,43.740181,15.89111
+253,Ulica grada Vukovara  41,0,Zagreb,45.800421,15.97295
+254,Meštrovićev trg 22,0,Zagreb,45.779175,15.996693
+255,Božidara Magovca 55,0,Zagreb,45.771055,15.994377
+256,Rudeška cesta 169a,1,Zagreb,45.791474,15.91377
+257,Savska 101a,0,Zagreb,45.795242,15.959728
+258,Zinke Kunc 3a,0,Zagreb,45.79241,16.000426
+259,Kučište bb.,0,Orebić,42.98054,17.123909
+260,Ante Starčevića 5,1,Ðakovo,45.311299,18.41021
+261,Vršanska bb. - TC Plodine,0,Krk,45.034123,14.565294
+262,Zagrebačka b.b. - TC Plodine,0,Petrinja,45.441264,16.267817
+263,Zadarska ulica 4,0,Nin,44.239788,15.181046
+264,Vajdin vijenac 18,0,Zagreb,45.766108,15.993024
+265,Utinjska 9 - pekarnica Rusica,0,Sveta Klara,45.765442,15.962006
+266,Trg bana Josipa Jelačića 6,0,Ðurđenovac,45.541172,18.051089
+267,Ante Starčevića 2,1,Rijeka,45.32615,14.445369
