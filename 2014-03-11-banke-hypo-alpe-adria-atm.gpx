@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+ </metadata>
+<wpt lat="45.813410" lon="15.976613">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.814044" lon="15.993663">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.801132" lon="15.955153">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.827558" lon="16.048343">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.805557" lon="15.984946">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.781365" lon="15.933070">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.806247" lon="15.859451">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.769379" lon="16.004773">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.810480" lon="15.885935">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.793375" lon="15.970109">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.793375" lon="15.970109">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.777583" lon="15.986288">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.794802" lon="15.907637">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.804565" lon="15.978788">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.813442" lon="15.985225">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.772876" lon="15.944748">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.801861" lon="16.002536">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.804752" lon="16.084387">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.800217" lon="15.872742">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.804520" lon="15.993202">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.814115" lon="15.996700">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.810912" lon="16.001519">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.799894" lon="15.953471">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.831104" lon="16.036914">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.773257" lon="15.968177">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.793375" lon="15.970109">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.771609" lon="15.943050">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.777266" lon="15.973263">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.819304" lon="16.012831">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.813410" lon="15.976613">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.807264" lon="16.030340">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.814750" lon="15.933332">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.811892" lon="15.972951">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.797731" lon="15.943487">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.789721" lon="15.928039">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.802927" lon="15.899363">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.804931" lon="15.976160">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.776952" lon="15.996823">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.780409" lon="15.985322">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.815132" lon="15.997328">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.788879" lon="15.938544">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.834630" lon="16.055939">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.801861" lon="16.002536">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.824433" lon="16.006501">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.800832" lon="16.041670">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.813434" lon="15.999107">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.805485" lon="15.967146">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.787786" lon="15.951481">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.806487" lon="15.902579">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.118340" lon="15.231696">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.110237" lon="15.237286">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.109505" lon="15.235580">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.132249" lon="15.211709">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.114335" lon="15.227995">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.116554" lon="15.285244">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.096955" lon="15.353823">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.711858" lon="16.078966">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.729466" lon="16.057192">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.723739" lon="16.046133">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.297211" lon="16.341106">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.306580" lon="16.336775">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.314272" lon="16.348858">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.433270" lon="13.521984">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.505079" lon="16.455401">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.510978" lon="16.437929">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.513113" lon="16.437770">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.507165" lon="16.466660">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.519793" lon="16.445788">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.518453" lon="16.447719">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.507698" lon="16.438631">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.504126" lon="16.442534">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.512579" lon="16.521441">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.512971" lon="16.464837">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.512238" lon="16.454859">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.513732" lon="16.499147">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.509250" lon="16.443357">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.506355" lon="16.456683">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.503912" lon="16.428357">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.484981" lon="16.372830">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.487268" lon="16.373330">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.457730" lon="16.388270">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.827969" lon="16.104455">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.801599" lon="15.710801">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.810559" lon="15.712407">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.801534" lon="15.723147">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.080112" lon="13.637110">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.083195" lon="13.636490">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.329397" lon="14.438020">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.325433" lon="14.471373">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.344311" lon="14.412644">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.354066" lon="14.366247">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.327840" lon="14.438420">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.327284" lon="14.440954">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.318342" lon="14.469402">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.330910" lon="14.428461">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.340382" lon="14.398227">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.338127" lon="14.410338">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.382296" lon="14.382477">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.877778" lon="13.863950">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.867263" lon="13.850538">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.851168" lon="13.843932">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.225290" lon="13.607697">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.556801" lon="14.883315">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.539101" lon="14.913890">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.335976" lon="14.307614">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.053916" lon="17.651221">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.291186" lon="17.020075">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.291203" lon="14.277195">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.230203" lon="16.122158">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="42.656158" lon="18.087970">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="42.652402" lon="18.089987">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="42.658697" lon="18.078239">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="42.641457" lon="18.108591">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.389274" lon="16.435783">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.392999" lon="16.421229">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.379638" lon="16.444632">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.173718" lon="14.694514">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.318484" lon="13.567959">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.118978" lon="14.120650">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.728819" lon="15.902815">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.734327" lon="15.890267">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.717644" lon="15.906570">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.128531" lon="14.791653">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.292340" lon="15.116501">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.026124" lon="14.573075">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.995672" lon="15.913630">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.303803" lon="13.688040">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.040090" lon="13.787241">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.492096" lon="15.548889">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.488885" lon="15.547972">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.321737" lon="14.539204">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.165484" lon="16.830937">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.533220" lon="14.470657">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.672090" lon="15.651156">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.517414" lon="18.549256">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.511836" lon="18.568477">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.306502" lon="18.414631">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.311299" lon="18.410210">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.318625" lon="18.415843">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.309779" lon="18.397309">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.310028" lon="18.410650">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.557855" lon="18.715687">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.546905" lon="18.675513">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.561548" lon="18.661807">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.557769" lon="18.705189">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.556514" lon="18.698999">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.559955" lon="18.678721">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.559955" lon="18.678721">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.563891" lon="18.656641">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.561037" lon="18.679504">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.543291" lon="18.715897">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.562220" lon="18.638332">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.558866" lon="18.683206">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.560744" lon="18.694139">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.553524" lon="18.675224">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.560160" lon="18.675438">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.552375" lon="18.697636">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.555280" lon="18.718640">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.556283" lon="18.719534">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.553175" lon="18.683485">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.553036" lon="18.715296">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.560980" lon="18.635784">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.363994" lon="18.395604">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.553690" lon="18.686929">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.552375" lon="18.697636">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.544982" lon="18.713837">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.561037" lon="18.679504">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.603875" lon="18.744264">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.502647" lon="18.743856">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.467121" lon="18.816082">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.628062" lon="18.688356">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.750883" lon="18.734854">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.497579" lon="18.739843">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.337516" lon="17.681884">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.333485" lon="17.677238">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.335043" lon="17.694426">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.489336" lon="18.087895">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.490699" lon="18.092935">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.490699" lon="18.092935">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.754559" lon="18.165636">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.759664" lon="18.161216">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.169000" lon="18.007402">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.171358" lon="18.038542">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.165685" lon="17.756277">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.162099" lon="17.990799">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.159519" lon="17.996709">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.157121" lon="18.032758">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.259241" lon="17.379556">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.375031" lon="18.953390">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.384074" lon="18.956180">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.402330" lon="18.978683">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.288777" lon="18.684311">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.146725" lon="18.883674">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.291222" lon="18.806105">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.289958" lon="18.815600">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.658733" lon="18.415784">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.288041" lon="17.800695">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.564334" lon="18.627405">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.835258" lon="17.387066">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.702043" lon="17.700777">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.952507" lon="17.234094">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.532327" lon="17.881891">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.071914" lon="18.695812">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.071914" lon="18.695812">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.767448" lon="18.605583">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.347591" lon="18.999867">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.342041" lon="19.015081">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.544110" lon="18.285649">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.081755" lon="15.186952">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.329624" lon="16.611371">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.055672" lon="15.304234">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.860398" lon="15.800014">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.871605" lon="15.826557">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.193628" lon="15.146509">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.937473" lon="15.443878">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.758336" lon="15.776362">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.122459" lon="14.526459">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.172948" lon="16.441469">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.500455" lon="13.503780">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.805170" lon="16.233244">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.885492" lon="16.419100">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.040334" lon="16.195704">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.387218" lon="16.547374">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.536721" lon="16.490360">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.266279" lon="15.224004">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.553236" lon="16.346826">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.886495" lon="18.824551">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.253762" lon="16.615089">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.050479" lon="17.433141">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.600148" lon="17.873390">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="42.678839" lon="18.095684">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="42.963520" lon="16.716213">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.448214" lon="17.215447">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.528479" lon="18.947811">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.223735" lon="19.368296">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.363861" lon="14.323940">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.748151" lon="15.883484">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.819518" lon="13.933260">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.984797" lon="15.963478">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.028972" lon="15.909748">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="46.258636" lon="16.382332">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.191232" lon="18.687744">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.683398" lon="18.403473">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.798831" lon="15.641504">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.698696" lon="16.640040">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.492236" lon="16.538246">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.485583" lon="16.549550">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.164323" lon="14.541655">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.817847" lon="15.923469">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.798439" lon="15.913628">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="43.740181" lon="15.891110">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.800421" lon="15.972950">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.779175" lon="15.996693">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.771055" lon="15.994377">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.791474" lon="15.913770">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.795242" lon="15.959728">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.792410" lon="16.000426">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="42.980540" lon="17.123909">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.311299" lon="18.410210">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.034123" lon="14.565294">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.441264" lon="16.267817">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="44.239788" lon="15.181046">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.766108" lon="15.993024">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.765442" lon="15.962006">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.541172" lon="18.051089">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+<wpt lat="45.326150" lon="14.445369">
+ <name>ATM</name>
+ <desc>ATM</desc>
+ <sym>ATM</sym>
+</wpt>
+ <extensions>
+ </extensions>
+</gpx>
